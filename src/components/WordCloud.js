@@ -4,7 +4,7 @@ import WordCloud from 'wordcloud';
 
 import "../styles/WordCloud.css";
 
-const Id = require('../json/torre.json')
+import arrTorres from '../scripts/obtenerPartidos';
 
 // Proporción, almacena la proporción de la nube
 const proporcionNube = 2.6;
@@ -12,7 +12,7 @@ const proporcionNube = 2.6;
 
 
 /**
- * En lace que he segido para entenderlo que había que hacerhttps://codesandbox.io/s/9435woonpy?file=/index.js
+ * En lace que he segido para entenderlo que había que hacer https://codesandbox.io/s/9435woonpy?file=/index.js
  */
 
 
@@ -20,7 +20,7 @@ class NubePalabras extends Component {
     constructor(props) {
         super(props);
 
-        this.state = { width: 0 }
+        this.state = { width: window.innerWidth - window.innerWidth / 20, height: window.innerHeight - window.innerHeight / 5 }
 
         this.contenedorNubePolitica = React.createRef();
     }
@@ -29,17 +29,20 @@ class NubePalabras extends Component {
 
     componentDidMount() {
 
+        const width = this.state.width
 
         WordCloud("nube-politica", {
-            list: [["Herbolista", 52], ['foo', 13]],
-            weightFactor: 1,
+            list: arrTorres,
             fontFamily: 'Times, serif',
             color: function (word, weight) {
                 return (weight === 12) ? '#f02222' : '#c09292';
             },
             rotateRatio: 0.5,
-            rotationSteps: 2,
-            backgroundColor: '#ffe0e0'
+            rotationSteps: 3,
+            backgroundColor: '#ffe0e0',
+            gridSize: Math.round(16 * width / 1024),
+            weightFactor: 3,
+
         });
 
 
@@ -50,9 +53,11 @@ class NubePalabras extends Component {
     // Crea el canvas donde se mostrará la nuve
     render() {
 
-        const width = window.innerWidth - window.innerWidth / 20;
+        console.log('arrTorres :>> ', arrTorres);
 
-        const height = window.innerHeight - window.innerHeight / 5;
+        const width = this.state.width;
+
+        const height = this.state.height;
 
         return (<div id="contenedor-nube-politica" ref={this.contenedorNubePolitica} className='span12' >            <canvas id='nube-politica' width={width} height={height} />
         </div>);
