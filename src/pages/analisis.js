@@ -1,6 +1,6 @@
 // Página de analisis correspondiente /analisis
 
-import WordCloud from "../components/d3/WordCloud";
+import WordCloud from "../components/WordCloud";
 
 function Analisis() {
 
