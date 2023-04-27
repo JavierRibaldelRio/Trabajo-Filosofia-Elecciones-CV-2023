@@ -6,8 +6,7 @@ import "../styles/WordCloud.css";
 
 import arrTorres from '../scripts/obtenerPartidos';
 
-// Proporción, almacena la proporción de la nube
-const proporcionNube = 2.6;
+
 
 
 
