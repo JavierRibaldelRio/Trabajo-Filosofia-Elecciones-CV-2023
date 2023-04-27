@@ -5,7 +5,7 @@
 
 const vacias = require('../json/PalabrasVacias.json');
 
-const TAMANYO_MAXIMO_LETRA_NUBE = 52
+const TAMANYO_MAXIMO_LETRA_NUBE = 48
 
 // Devuelve un array Listo para la nube con este formato [palabra, tamaño letra , rep palabra en texto, nº palbras en texto, nombre partido, color]
 function crearArray(partido) {
