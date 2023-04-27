@@ -1,12 +1,14 @@
 // Página de analisis correspondiente /analisis
 
-import WordCloud from "../components/WordCloud";
+import NubePalabras from "../components/WordCloud";
+
+
 
 function Analisis() {
 
-    return <><h1>Hola soc analisis pàgina</h1>
 
-        <WordCloud />
+    return < ><h1>Hola soc analisis pàgina</h1>
+        <NubePalabras />
 
     </>
 }
