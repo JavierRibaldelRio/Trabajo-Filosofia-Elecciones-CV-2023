@@ -8,7 +8,10 @@ import "bootswatch/dist/sandstone/bootstrap.min.css";
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+
+    <div className='container-fluid'>
+      <App />
+    </div>
   </React.StrictMode>
 );
 
