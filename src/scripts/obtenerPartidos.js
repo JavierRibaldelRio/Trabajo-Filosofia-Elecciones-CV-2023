@@ -3,9 +3,11 @@
  */
 
 
+import pasarAMayusPalabra from './pasarAMayusPalabra'
+
 const vacias = require('../json/PalabrasVacias.json');
 
-const TAMANYO_MAXIMO_LETRA_NUBE = 48
+const TAMANYO_MAXIMO_LETRA_NUBE = 48;
 
 // Devuelve un array Listo para la nube con este formato [palabra, tamaño letra , rep palabra en texto, nº palbras en texto, nombre partido, color]
 function crearArray(partido) {
@@ -20,7 +22,7 @@ function crearArray(partido) {
     // Obtiene el multiplicante de la proporción del tamaño
     const factor = TAMANYO_MAXIMO_LETRA_NUBE / palabras[0].count;
 
-    return palabras.splice(0, 75).map(x => [x.word, Math.round(x.count * factor), x.count, totalWords, nombrePartido, color])
+    return palabras.splice(0, 75).map(x => [pasarAMayusPalabra(x.word), Math.round(x.count * factor), { repeticiones: x.count, totalWords, nombrePartido, color }])
 
 
 
