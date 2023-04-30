@@ -4,7 +4,7 @@ import WordCloud from 'wordcloud';
 
 import "../styles/WordCloud.css";
 
-import arrTorres from '../scripts/obtenerPartidos';
+import obtenerContenidoNube from '../scripts/obtenerPartidos';
 
 
 
@@ -31,7 +31,7 @@ class NubePalabras extends Component {
         const width = Math.round(this.state.width);
 
         WordCloud("nube-politica", {
-            list: arrTorres,
+            list: obtenerContenidoNube([this.props.programas]),
             fontFamily: 'Nunito',
             color: (word, weight, fontSize, distance, theta, data) => data[0].color,
             rotateRatio: 0.5,
@@ -48,13 +48,12 @@ class NubePalabras extends Component {
     // Crea el canvas donde se mostrará la nuve
     render() {
 
-        console.log('arrTorres :>> ', arrTorres);
-
         const width = this.state.width;
 
         const height = this.state.height;
 
-        return (<div id="contenedor-nube-politica" ref={this.contenedorNubePolitica} className='span12' >            <canvas id='nube-politica' width={width} height={height} />
+        return (<div id="contenedor-nube-politica" ref={this.contenedorNubePolitica} className='span12' >
+            <canvas id='nube-politica' width={width} height={height} />
         </div>);
 
 
