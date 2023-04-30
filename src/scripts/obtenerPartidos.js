@@ -52,8 +52,6 @@ function obtenerContenidoNube(programas) {
         // Obtiene el factor relativo
         const factor = ((TAMANYO_MAXIMO_LETRA_NUBE - Math.round((programas.length - 1 * 15 / nombresPartido.length - 1))) / calcularPalabrasRelativas(arrayFusion[0]));
 
-        console.log('factor :>> ', factor);
-
 
         return arrayFusion.splice(0, 75).map((w) => {
 
