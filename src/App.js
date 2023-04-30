@@ -1,5 +1,3 @@
-import './App.css';
-
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
 import Main from './pages/main';
 import Analisis from './pages/analisis';

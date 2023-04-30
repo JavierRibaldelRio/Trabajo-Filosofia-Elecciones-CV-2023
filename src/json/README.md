@@ -1,1 +1,0 @@
-Todos los archivos en esta carpeta fueron generados por esta otra aplicación: [https://javierribaldelrio.github.io/Word-File-Counter/](https://javierribaldelrio.github.io/Word-File-Counter/)
