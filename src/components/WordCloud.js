@@ -24,14 +24,28 @@ class NubePalabras extends Component {
         this.contenedorNubePolitica = React.createRef();
     }
 
-    // Component did Mount
+    // Al iniciarse crea la nube
 
     componentDidMount() {
 
+        this.crearNube();
+
+    }
+
+
+    // Tras cambio  crea una nuev anube
+    componentDidUpdate() {
+
+        this.crearNube();
+    }
+
+    // Crea una nube
+
+    crearNube() {
         const width = Math.round(this.state.width);
 
         WordCloud("nube-politica", {
-            list: obtenerContenidoNube([this.props.programas]),
+            list: obtenerContenidoNube(this.props.programas),
             fontFamily: 'Nunito',
             color: (word, weight, fontSize, distance, theta, data) => data[0].color,
             rotateRatio: 0.5,
@@ -39,10 +53,7 @@ class NubePalabras extends Component {
             gridSize: Math.round(16 * width / 1024),
             weightFactor: 2.5
         });
-
-
     }
-
 
 
     // Crea el canvas donde se mostrará la nuve
