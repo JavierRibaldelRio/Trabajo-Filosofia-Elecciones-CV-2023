@@ -31,7 +31,7 @@ class NubePalabras extends Component {
         const width = Math.round(this.state.width);
 
         WordCloud("nube-politica", {
-            list: obtenerContenidoNube([[this.props.programas]]),
+            list: obtenerContenidoNube([this.props.programas]),
             fontFamily: 'Nunito',
             color: (word, weight, fontSize, distance, theta, data) => data[0].color,
             rotateRatio: 0.5,
