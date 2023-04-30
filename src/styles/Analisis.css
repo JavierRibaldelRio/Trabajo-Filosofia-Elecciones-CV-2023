@@ -1,0 +1,5 @@
+.checkbox-seleccion-programa:checked {
+
+    outline: solid black 1px;
+    border-radius: 5px;
+}
