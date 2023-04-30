@@ -28,20 +28,16 @@ class NubePalabras extends Component {
 
     componentDidMount() {
 
-        const width = this.state.width
+        const width = Math.round(this.state.width);
 
         WordCloud("nube-politica", {
             list: arrTorres,
-            fontFamily: 'Times, serif',
-            color: function (word, weight) {
-                return (weight === 12) ? '#f02222' : '#c09292';
-            },
+            fontFamily: 'Nunito',
+            color: (word, weight, fontSize, distance, theta, data) => data[0].color,
             rotateRatio: 0.5,
             rotationSteps: 3,
-            backgroundColor: '#ffe0e0',
             gridSize: Math.round(16 * width / 1024),
-            weightFactor: 3,
-
+            weightFactor: 3
         });
 
 
