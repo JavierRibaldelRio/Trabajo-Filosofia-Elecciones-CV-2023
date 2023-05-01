@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import WordCloud from 'wordcloud';
+import WordCloud, { stop } from 'wordcloud';
 
 import "../styles/WordCloud.css";
 
@@ -44,15 +44,18 @@ class NubePalabras extends Component {
     crearNube() {
         const width = Math.round(this.state.width);
 
-        WordCloud("nube-politica", {
-            list: obtenerContenidoNube(this.props.programas),
-            fontFamily: 'Nunito',
-            color: (word, weight, fontSize, distance, theta, data) => data[0].color,
-            rotateRatio: 0.5,
-            rotationSteps: 3,
-            gridSize: Math.round(16 * width / 1024),
-            weightFactor: 2.5
-        });
+        if (this.props.programas.length !== 0) {
+            WordCloud("nube-politica", {
+                list: obtenerContenidoNube(this.props.programas),
+                fontFamily: 'Nunito',
+                color: (word, weight, fontSize, distance, theta, data) => data[0].color,
+                rotateRatio: 0.5,
+                rotationSteps: 3,
+                gridSize: Math.round(16 * width / 1024),
+                weightFactor: 2.5
+            });
+        }
+
     }
 
 
@@ -63,7 +66,7 @@ class NubePalabras extends Component {
 
         const height = this.state.height;
 
-        return (<div id="contenedor-nube-politica" ref={this.contenedorNubePolitica} className='span12' >
+        return (<div id="contenedor-nube-politica" style={{ visibility: (this.props.programas.length === 0) ? "hidden" : "visible" }} ref={this.contenedorNubePolitica} className='span12' >
             <canvas id='nube-politica' width={width} height={height} />
         </div>);
 
