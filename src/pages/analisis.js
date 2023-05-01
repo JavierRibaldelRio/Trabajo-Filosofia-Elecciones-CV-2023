@@ -1,5 +1,6 @@
 // Página de analisis correspondiente /analisis
 
+import BarPlot from "../components/BarPlot";
 import SeleccionPartidos from "../components/SeleccionPartidos";
 import NubePalabras from "../components/WordCloud";
 
@@ -38,6 +39,9 @@ function Analisis() {
         <NubePalabras programas={programas} />
 
         <SeleccionPartidos seleccionados={programas} modificarSeleccion={modificarSeleccion} />
+
+
+        <BarPlot />
     </>
 }
 
