@@ -1,9 +1,27 @@
 import unirProgramas from "./unirJSONprogramas";
 import contenidoNubePartidos from "./obtenerPartidos";
+import calcularPalabrasRelativas from "./calcularPalabrasRelativas";
+
+
+const PALABRAS_POR_REPETICION = 10000;
 
 // Obtiene el contenido de la gráfica
 
 function obtenerContenidoGrafica(programas) {
+
+    // Obtiene los datos
+    const datosGrafica = obtenerDatosGrafica(programas);
+
+
+
+    // Opera con los datos y lo devulve
+    return operarDatos(datosGrafica);
+
+
+}
+
+// Calcula cuales son las 10 palabras comunes y las ordena
+function obtenerDatosGrafica(programas) {
 
     // Si hay más de un programa busca las uniones de los paertidos
     if (programas.length > 1) {
@@ -16,7 +34,7 @@ function obtenerContenidoGrafica(programas) {
             return 0;
         });
 
-        const unionProgramas = buscarUnirComunes(palabrasProgramas, programas.length - 1, [])
+        const unionProgramas = buscarUnirComunes(palabrasProgramas, programas.length, [])
 
         // Ordena las palabras por repetidas comunes > mas veces repetidas  y deja 10
         return unionProgramas.sort((w1, w2) => {
@@ -62,16 +80,19 @@ function buscarUnirComunes(programas, posi, resultado = []) {
 
     let pos = posi;
 
-    while (word !== programas[pos][0]) {
+    while (word !== programas[pos - 1][0]) {
         pos--;
     }
 
     // Si está repetida más de una vez la añade al aray de las repetidas
     if (pos !== 0) {
+        const newItem = [word, []]
 
-        const newItem = [word, [programas[0][2]]]
-
+        // El for empieza en uno porque  el
         for (let i = 0; i < pos; i++) {
+
+            console.log(' :>> ',);
+
             newItem[1].push(programas[i][2]);
         }
 
@@ -81,5 +102,12 @@ function buscarUnirComunes(programas, posi, resultado = []) {
     return buscarUnirComunes(programas.slice(pos + 1), posi, resultado);
 }
 
+// Rebibe las 10 palabras más comunes entre todos los jsones seleccionados, los calcula y saca estadísticcas
+
+const operarDatos = (data) => data.map((d) => [d[0], pasarDatosARepetcionesPorMilPalabras(d[1])]);
+
+const pasarDatosARepetcionesPorMilPalabras = (data) => data.map((x) => { return { ...x, palabrasPorRepeticion: calcularNuevoTamaño(x) } });
+
+const calcularNuevoTamaño = (word) => Math.round(PALABRAS_POR_REPETICION * calcularPalabrasRelativas(word));
 
 export default obtenerContenidoGrafica;
