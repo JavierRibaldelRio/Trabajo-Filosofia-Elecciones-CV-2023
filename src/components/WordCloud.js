@@ -4,7 +4,7 @@ import WordCloud, { stop } from 'wordcloud';
 
 import "../styles/WordCloud.css";
 
-import obtenerContenidoNube from '../scripts/obtenerPartidos';
+import obtenerContenidoNube from '../scripts/generarNube';
 
 
 
