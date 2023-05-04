@@ -23,7 +23,7 @@ function obtenerContenidoNube(programas) {
         // Ordena el array por repeticiones de palabras relativa
         arrayFusion = arrayFusion.sort((w1, w2) =>
 
-            calcularPalabrasRelativas(w1) < calcularPalabrasRelativas(w2)
+            calcularPalabrasRelativas(w1[2]) < calcularPalabrasRelativas(w2[2])
         )
 
         // Obtiene el factor relativo
