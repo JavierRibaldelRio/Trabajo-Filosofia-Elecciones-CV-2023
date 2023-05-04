@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import * as d3 from 'd3';
-import { obtenerContenidoGrafica } from '../scripts/obtenerPartidos';
+import obtenerContenidoGrafica from '../scripts/generarGrafica';
 
 
 class BarPlot extends Component {
@@ -14,7 +14,7 @@ class BarPlot extends Component {
 
     componentDidMount() {
 
-        // console.log(obtenerContenidoGrafica([0, 1, 2, 3, 4, 5]));
+        console.log("rasdf" + JSON.stringify(obtenerContenidoGrafica([0, 1, 2, 3, 4, 5])));
 
         this.crearGrafico();
     }
@@ -415,7 +415,7 @@ class BarPlot extends Component {
 
         const partidosImplicados = ['1984', "Camino", "Cripta", "Peekay", "Idhun", "Trafalgar"];
 
-        console.log('data :>> ', data);
+        // console.log('data :>> ', data);
 
         // Obtiene unidades
         const { margin } = this.props;
@@ -432,10 +432,10 @@ class BarPlot extends Component {
 
 
 
-        // Obtiene el nombre de las columnas
-        const subgroups = data.map(word => word[0]);
+        // Obtiene los datos
+        const subgroups = data.map(d => d[1]);
 
-        // List of groups = species here = value of the first column called group -> I show them on the X axis
+        // Palabras que se van a mostratrar
         const palabras = data.map(d => d[0]);
 
         // Crea el eje Y
