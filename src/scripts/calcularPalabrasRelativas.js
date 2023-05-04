@@ -1,4 +1,4 @@
 // Calcula el número de palabras relativas de cada programa  
-const calcularPalabrasRelativas = (w) => w[2].repeticiones / w[2].totalWords
+const calcularPalabrasRelativas = (w) => w.repeticiones / w.totalWords
 
 export default calcularPalabrasRelativas;
