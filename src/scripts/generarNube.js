@@ -1,5 +1,6 @@
 import contenidoNubePartidos, { TAMANYO_MAXIMO_LETRA_NUBE, nombresPartido } from "./obtenerPartidos";
 
+import calcularPalabrasRelativas from "./calcularPalabrasRelativas";
 import unirProgramas from "./unirJSONprogramas";
 
 
@@ -15,9 +16,6 @@ function obtenerContenidoNube(programas) {
 
     // Si no fusionamos
     else {
-
-        // Calcula el número de palabras relativas de cada programa  
-        const calcularPalabrasRelativas = (w) => w[2].repeticiones / w[2].totalWords
 
         // Une el contenido de los JSON se lecccionados
         let arrayFusion = unirProgramas(programas);
