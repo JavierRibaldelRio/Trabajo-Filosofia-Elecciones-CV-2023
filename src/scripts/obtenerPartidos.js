@@ -8,7 +8,7 @@ import crearArray from './crearArrayPrograma.js';
 const TAMANYO_MAXIMO_LETRA_NUBE = 48;
 
 // Almacena el nombre de los archvos JSOn de los partidos en orden alfabético
-const nombresPartido = ['1984', "Camino", "Cripta", "Peekay", "Idhun", "Trafalgar"];
+const nombresPartido = ['1984', "Camino", "Cripta", "Peekay", "Idhun", "Trafalgar"].sort();
 
 
 // Crear un array con todo el desglose de palabras para obtener datos

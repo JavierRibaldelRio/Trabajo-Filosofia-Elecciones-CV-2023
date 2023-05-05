@@ -26,12 +26,12 @@ function Analisis() {
 
             programasSeleccionados.splice(programas.indexOf(nuevoPrograma), 1);
 
-            setProgramas(programasSeleccionados);
+            setProgramas(programasSeleccionados.sort((a, b) => a - b));
 
         }
         else {
 
-            setProgramas([nuevoPrograma, ...programas]);
+            setProgramas([nuevoPrograma, ...programas].sort((a, b) => a - b));
         }
     }
 
