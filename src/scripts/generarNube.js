@@ -27,7 +27,7 @@ function obtenerContenidoNube(programas) {
         )
 
         // Obtiene el factor relativo
-        const factor = ((TAMANYO_MAXIMO_LETRA_NUBE - Math.round((programas.length - 1 * 15 / nombresPartido.length - 1))) / calcularPalabrasRelativas(arrayFusion[0]));
+        const factor = ((TAMANYO_MAXIMO_LETRA_NUBE - Math.round((programas.length - 1 * 15 / nombresPartido.length - 1))) / calcularPalabrasRelativas(arrayFusion[0][2]));
 
         return arrayFusion.splice(0, 75).map((w) => {
 
@@ -35,6 +35,7 @@ function obtenerContenidoNube(programas) {
 
             return w
         });
+
     }
 }
 
