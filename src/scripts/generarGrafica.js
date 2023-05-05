@@ -91,8 +91,6 @@ function buscarUnirComunes(programas, posi, resultado = []) {
         // El for empieza en uno porque  el
         for (let i = 0; i < pos; i++) {
 
-            console.log(' :>> ',);
-
             newItem[1].push(programas[i][2]);
         }
 
