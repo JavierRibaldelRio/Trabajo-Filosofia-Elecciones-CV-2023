@@ -3,3 +3,21 @@
     outline: solid black 1px;
     border-radius: 5px;
 }
+
+#Seleccion-Partidos {
+
+    margin: 2vmin;
+}
+
+#leyenda {
+
+    width: 100%;
+    text-align: right;
+
+    font-size: 2vmin;
+
+    margin-top: 5vmin;
+
+    padding: 2vmin;
+
+}

@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 
 import * as d3 from 'd3';
-import obtenerContenidoGrafica from '../scripts/generarGrafica';
+import obtenerContenidoGrafica, { PALABRAS_POR_REPETICION } from '../scripts/generarGrafica';
 import { nombresPartido } from '../scripts/obtenerPartidos';
 
 
@@ -12,8 +12,6 @@ class BarPlot extends Component {
 
     componentDidMount() {
         const programasSeleccionados = this.props.programas;
-
-        console.log('sf :>> ');
         const data = obtenerContenidoGrafica(programasSeleccionados);
         this.crearGrafico(data, programasSeleccionados);
     }
@@ -65,13 +63,15 @@ class BarPlot extends Component {
         svg.append("g")
             .attr("transform", `translate(0,${height})`)
             .call(d3.axisBottom(xScale));
+        svg.append("g")
+            .call(d3.axisTop(xScale))
 
         // Crea los subgrupos
 
         const ySubGrupo = d3.scaleBand()
             .domain(partidosSeleccionados)
             .range([yScale.bandwidth(), 0])
-            .padding([0.1])
+            .padding([0.2])
 
         svg.append('g')
             .selectAll('g')
@@ -92,7 +92,12 @@ class BarPlot extends Component {
 
     }
     render() {
-        return <div id='bar-plot' />;
+        return <>
+            {/* El to locale String añade los puntos o las comas según el correpondiente locale */}
+            <p id='leyenda'>Número repeticiones por {PALABRAS_POR_REPETICION.toLocaleString()} palabras</p>
+
+            <div id='bar-plot' />;
+        </>
     }
 }
 

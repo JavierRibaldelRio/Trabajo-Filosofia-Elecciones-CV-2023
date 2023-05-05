@@ -98,3 +98,5 @@ const pasarDatosARepetcionesPorMilPalabras = (data) => data.map((x) => { return 
 const calcularNuevoTamaño = (word) => Math.round(PALABRAS_POR_REPETICION * calcularPalabrasRelativas(word));
 
 export default obtenerContenidoGrafica;
+
+export { PALABRAS_POR_REPETICION };
