@@ -1,5 +1,4 @@
 import unirProgramas from "./unirJSONprogramas";
-import contenidoNubePartidos from "./obtenerPartidos";
 import calcularPalabrasRelativas from "./calcularPalabrasRelativas";
 
 
@@ -17,51 +16,41 @@ function obtenerContenidoGrafica(programas) {
     // Opera con los datos y lo devulve
     return operarDatos(datosGrafica);
 
-
 }
 
 // Calcula cuales son las 10 palabras comunes y las ordena
 function obtenerDatosGrafica(programas) {
 
-    // Si hay más de un programa busca las uniones de los paertidos
-    if (programas.length > 1) {
+    // Carga las palabras en el array
+    const palabrasProgramas = unirProgramas(programas).sort((w1, w2) => {
 
-        // Carga las palabras en el array
-        const palabrasProgramas = unirProgramas(programas).sort((w1, w2) => {
+        if (w1[0] > w2[0]) { return 1; }
+        else if (w1[0] < w2[0]) { return -1; }
+        return 0;
+    });
 
-            if (w1[0] > w2[0]) { return 1; }
-            else if (w1[0] < w2[0]) { return -1; }
-            return 0;
-        });
+    const unionProgramas = buscarUnirComunes(palabrasProgramas, programas.length, [])
 
-        const unionProgramas = buscarUnirComunes(palabrasProgramas, programas.length, [])
+    // Ordena las palabras por repetidas comunes > mas veces repetidas  y deja 10
+    return unionProgramas.sort((w1, w2) => {
 
-        // Ordena las palabras por repetidas comunes > mas veces repetidas  y deja 10
-        return unionProgramas.sort((w1, w2) => {
+        if (w1[1].length < w2[1].length) { return 1 }
+        else if (w1[1].length > w2[1].length) { return -1 }
+        else {
 
-            if (w1[1].length < w2[1].length) { return 1 }
-            else if (w1[1].length > w2[1].length) { return -1 }
-            else {
+            //Calcula cuaal tien ela palabra mas repetida
 
-                //Calcula cuaal tien ela palabra mas repetida
+            const sumaRelativa = (sum, word) => word.repeticiones / word.totalWords + sum;
 
-                const sumaRelativa = (sum, word) => word.repeticiones / word.totalWords + sum;
+            const sumaRw1 = w1[1].reduce(sumaRelativa, 0);
 
-                const sumaRw1 = w1[1].reduce(sumaRelativa, 0);
+            const sumaRw2 = w2[1].reduce(sumaRelativa, 0);
 
-                const sumaRw2 = w2[1].reduce(sumaRelativa, 0);
-
-                return sumaRw2 - sumaRw1;
-            }
-        }).splice(0, 10);
-    }
-
-    // Si solo hay un partido selccionad devuelve sólo sus datos
-
-    else {
-        return contenidoNubePartidos[programas[0]].splice(0, 10);
-    }
+            return sumaRw2 - sumaRw1;
+        }
+    }).splice(0, 10);
 }
+
 
 // Busca las palabras en el array y las une formando el array con toda la combinacion función recursiva
 function buscarUnirComunes(programas, posi, resultado = []) {
@@ -97,7 +86,7 @@ function buscarUnirComunes(programas, posi, resultado = []) {
         resultado.push(newItem);
     }
 
-    return buscarUnirComunes(programas.slice(pos + 1), posi, resultado);
+    return buscarUnirComunes(programas.slice(pos), posi, resultado);
 }
 
 // Rebibe las 10 palabras más comunes entre todos los jsones seleccionados, los calcula y saca estadísticcas

@@ -41,7 +41,7 @@ function Analisis() {
         <SeleccionPartidos seleccionados={programas} modificarSeleccion={modificarSeleccion} />
 
 
-        <BarPlot />
+        <BarPlot programas={programas} height={200 * programas.length} key={programas.length} />
     </>
 }
 
