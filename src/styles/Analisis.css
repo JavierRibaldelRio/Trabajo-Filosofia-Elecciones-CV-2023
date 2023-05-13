@@ -3,3 +3,41 @@
     outline: solid black 1px;
     border-radius: 5px;
 }
+
+#Seleccion-Partidos {
+    margin: 1vmin;
+
+    margin-top: 0;
+}
+
+#analisis {
+
+    display: flex;
+
+    flex-direction: column;
+
+
+    gap: 0;
+
+    align-items: center;
+}
+
+#leyenda {
+
+    width: 100%;
+    text-align: right;
+
+    font-size: 2vmin;
+
+    margin-top: 5vmin;
+
+    padding: 2vmin;
+
+}
+
+.switch-nube {
+
+
+    margin-top: 1vmin;
+
+}

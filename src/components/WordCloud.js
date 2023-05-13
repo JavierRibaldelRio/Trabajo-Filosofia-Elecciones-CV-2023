@@ -1,19 +1,11 @@
 import React, { Component } from 'react';
-
-import WordCloud, { stop } from 'wordcloud';
-
+import WordCloud from 'wordcloud';
 import "../styles/WordCloud.css";
-
-import obtenerContenidoNube from '../scripts/obtenerPartidos';
-
-
-
-
+import obtenerContenidoNube from '../scripts/generarNube';
 
 /**
  * En lace que he segido para entenderlo que había que hacer https://codesandbox.io/s/9435woonpy?file=/index.js
  */
-
 
 class NubePalabras extends Component {
     constructor(props) {
@@ -47,7 +39,7 @@ class NubePalabras extends Component {
         if (this.props.programas.length !== 0) {
             WordCloud("nube-politica", {
                 list: obtenerContenidoNube(this.props.programas),
-                fontFamily: 'Nunito',
+                fontFamily: "monserrat, arial, roboto",
                 color: (word, weight, fontSize, distance, theta, data) => data[0].color,
                 rotateRatio: 0.5,
                 rotationSteps: 3,

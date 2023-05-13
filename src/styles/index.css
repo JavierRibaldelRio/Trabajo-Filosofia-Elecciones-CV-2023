@@ -16,3 +16,7 @@ code {
   text-align: center;
 
 }
+
+/* Importa la tipografía Monserrat para la nube */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
