@@ -3,6 +3,7 @@
 import BarPlot from "../components/BarPlot";
 import SeleccionPartidos from "../components/SeleccionPartidos";
 import NubePalabras from "../components/WordCloud";
+import SwitchGraficaNube from "../components/SwitchGraficaNube";
 
 import "../styles/Analisis.css"
 
@@ -14,6 +15,11 @@ function Analisis() {
 
     // Crea el estado que almacena los programas que ha de mostrar y elige uno aleatoriamente para mostar 
     const [programas, setProgramas] = useState([Math.floor(Math.random() * 100 % 6)]);
+
+    // Crea el estado que almacena si se ha de mostrar la nube o la gráfica
+
+    const [mostrarNube, setMostrarNube] = useState([true]);
+
 
     // Función que añade un nuevo programa o si ya está añadido lo elimina
 
@@ -35,13 +41,18 @@ function Analisis() {
         }
     }
 
-    return <><h1>Hola soc analisis pàgina</h1>
-        <NubePalabras programas={programas} />
+    return <>
+        <div id="analisis">
+            {mostrarNube ? <NubePalabras programas={programas} /> : null}
 
-        <SeleccionPartidos seleccionados={programas} modificarSeleccion={modificarSeleccion} />
+            <SwitchGraficaNube mostrarNube={mostrarNube} cambiarNube={setMostrarNube} />
+
+            <SeleccionPartidos seleccionados={programas} modificarSeleccion={modificarSeleccion} />
 
 
-        <BarPlot programas={programas} height={1.3 * window.innerHeight} key={programas.length} />
+            {!mostrarNube ? <BarPlot programas={programas} height={1.3 * window.innerHeight} key={programas.length} /> : null}
+        </div >
+
     </>
 }
 
