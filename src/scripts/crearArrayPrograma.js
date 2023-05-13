@@ -5,7 +5,7 @@ import pasarAMayusPalabra from './pasarAMayusPalabra';
 const vacias = require('../json/PalabrasVacias.json');
 
 
-const palabrasPorNube = 80;
+const palabrasPorNube = 50;
 
 
 
