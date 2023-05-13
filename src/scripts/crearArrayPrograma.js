@@ -5,6 +5,9 @@ import pasarAMayusPalabra from './pasarAMayusPalabra';
 const vacias = require('../json/PalabrasVacias.json');
 
 
+const palabrasPorNube = 80;
+
+
 
 // Crea el array con las palabras de un programa
 
@@ -22,9 +25,10 @@ function crearArray(partido, tamanyo_max) {
     // Obtiene el multiplicante de la proporción del tamaño
     const factor = tamanyo_max / palabras[0].count;
 
-    return palabras.splice(0, 75).map(x => [pasarAMayusPalabra(x.word), Math.round(x.count * factor), { repeticiones: x.count, totalWords, nombrePartido, color }])
+    return palabras.splice(0, palabrasPorNube).map(x => [pasarAMayusPalabra(x.word), Math.round(x.count * factor), { repeticiones: x.count, totalWords, nombrePartido, color }])
 
 }
 
 export default crearArray;
 
+export { palabrasPorNube };

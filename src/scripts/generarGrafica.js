@@ -11,8 +11,6 @@ function obtenerContenidoGrafica(programas) {
     // Obtiene los datos
     const datosGrafica = obtenerDatosGrafica(programas);
 
-
-
     // Opera con los datos y lo devulve
     return operarDatos(datosGrafica);
 
@@ -68,9 +66,17 @@ function buscarUnirComunes(programas, posi, resultado = []) {
     // Almacena el último índice donde la palabra es la misma ya que el indice no ha cambiado
 
     let pos = posi;
+    try {
+        while (word !== programas[pos - 1][0]) {
+            pos--;
+        }
 
-    while (word !== programas[pos - 1][0]) {
-        pos--;
+
+    }
+
+    catch (e) {
+
+        return resultado;
     }
 
     // Si está repetida más de una vez la añade al aray de las repetidas
