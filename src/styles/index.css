@@ -24,8 +24,15 @@ code {
   line-height: 5vh;
 
   column-count: 2;
-  column-rule: black 1px;
+  column-rule: black 1px solidjf;
   column-gap: 25vw
+}
+
+#introduccion {
+
+  margin: 10vmin 15vmin;
+
+  text-align: justify
 }
 
 /* Importa la tipografía Monserrat para la nube */
