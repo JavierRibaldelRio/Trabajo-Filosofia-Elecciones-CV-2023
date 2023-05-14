@@ -17,6 +17,17 @@ code {
 
 }
 
+#lista-palabras-eliminadas {
+
+  text-align: left;
+  text-transform: capitalize;
+  line-height: 5vh;
+
+  column-count: 2;
+  column-rule: black 1px;
+  column-gap: 25vw
+}
+
 /* Importa la tipografía Monserrat para la nube */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
