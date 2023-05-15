@@ -28,9 +28,9 @@ code {
   column-gap: 25vw
 }
 
-#introduccion {
+.texto {
 
-  margin: 10vmin 15vmin;
+  margin: 10vmin 15vmin 2vmin;
 
   text-align: justify
 }
