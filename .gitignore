@@ -33,5 +33,9 @@ torre.txt
 # Programas de prueva
 
 
-programas/
+src/json/programas/pdf/**
+src/json/programas/txt/**
 
+#Dist
+
+.env

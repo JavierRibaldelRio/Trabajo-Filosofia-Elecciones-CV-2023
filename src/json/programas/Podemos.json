@@ -1,0 +1,9625 @@
+{
+    "totalWords": 10555,
+    "diferentWords": 2407,
+    "nombrePartido": "Podemos",
+    "hexPartido": "#6b1f5f",
+    "characters": 66025,
+    "count": [
+        {
+            "word": "de",
+            "count": 946
+        },
+        {
+            "word": "la",
+            "count": 476
+        },
+        {
+            "word": "y",
+            "count": 369
+        },
+        {
+            "word": "en",
+            "count": 323
+        },
+        {
+            "word": "las",
+            "count": 233
+        },
+        {
+            "word": "que",
+            "count": 232
+        },
+        {
+            "word": "a",
+            "count": 216
+        },
+        {
+            "word": "los",
+            "count": 215
+        },
+        {
+            "word": "el",
+            "count": 202
+        },
+        {
+            "word": "para",
+            "count": 169
+        },
+        {
+            "word": "se",
+            "count": 120
+        },
+        {
+            "word": "del",
+            "count": 108
+        },
+        {
+            "word": "un",
+            "count": 105
+        },
+        {
+            "word": "con",
+            "count": 102
+        },
+        {
+            "word": "una",
+            "count": 93
+        },
+        {
+            "word": "por",
+            "count": 89
+        },
+        {
+            "word": "o",
+            "count": 68
+        },
+        {
+            "word": "al",
+            "count": 58
+        },
+        {
+            "word": "como",
+            "count": 56
+        },
+        {
+            "word": "más",
+            "count": 45
+        },
+        {
+            "word": "no",
+            "count": 44
+        },
+        {
+            "word": "es",
+            "count": 43
+        },
+        {
+            "word": "pública",
+            "count": 41
+        },
+        {
+            "word": "personas",
+            "count": 39
+        },
+        {
+            "word": "vivienda",
+            "count": 38
+        },
+        {
+            "word": "creación",
+            "count": 37
+        },
+        {
+            "word": "viviendas",
+            "count": 35
+        },
+        {
+            "word": "públicas",
+            "count": 31
+        },
+        {
+            "word": "lo",
+            "count": 29
+        },
+        {
+            "word": "marco",
+            "count": 27
+        },
+        {
+            "word": "servicios",
+            "count": 27
+        },
+        {
+            "word": "programa",
+            "count": 25
+        },
+        {
+            "word": "desde",
+            "count": 24
+        },
+        {
+            "word": "también",
+            "count": 23
+        },
+        {
+            "word": "así",
+            "count": 22
+        },
+        {
+            "word": "este",
+            "count": 22
+        },
+        {
+            "word": "esta",
+            "count": 21
+        },
+        {
+            "word": "forma",
+            "count": 21
+        },
+        {
+            "word": "mujeres",
+            "count": 21
+        },
+        {
+            "word": "público",
+            "count": 20
+        },
+        {
+            "word": "calidad",
+            "count": 19
+        },
+        {
+            "word": "grandes",
+            "count": 19
+        },
+        {
+            "word": "locales",
+            "count": 19
+        },
+        {
+            "word": "menos",
+            "count": 19
+        },
+        {
+            "word": "sistema",
+            "count": 19
+        },
+        {
+            "word": "su",
+            "count": 19
+        },
+        {
+            "word": "atención",
+            "count": 18
+        },
+        {
+            "word": "mediante",
+            "count": 18
+        },
+        {
+            "word": "si",
+            "count": 18
+        },
+        {
+            "word": "territorios",
+            "count": 18
+        },
+        {
+            "word": "todos",
+            "count": 18
+        },
+        {
+            "word": "directa",
+            "count": 17
+        },
+        {
+            "word": "españa",
+            "count": 17
+        },
+        {
+            "word": "gestión",
+            "count": 17
+        },
+        {
+            "word": "ingresos",
+            "count": 17
+        },
+        {
+            "word": "derechos",
+            "count": 16
+        },
+        {
+            "word": "lgtbi",
+            "count": 16
+        },
+        {
+            "word": "públicos",
+            "count": 16
+        },
+        {
+            "word": "sin",
+            "count": 16
+        },
+        {
+            "word": "años",
+            "count": 15
+        },
+        {
+            "word": "cabo",
+            "count": 15
+        },
+        {
+            "word": "contra",
+            "count": 15
+        },
+        {
+            "word": "empresas",
+            "count": 15
+        },
+        {
+            "word": "garantizar",
+            "count": 15
+        },
+        {
+            "word": "ha",
+            "count": 15
+        },
+        {
+            "word": "políticas",
+            "count": 15
+        },
+        {
+            "word": "tiempo",
+            "count": 15
+        },
+        {
+            "word": "cada",
+            "count": 14
+        },
+        {
+            "word": "dos",
+            "count": 14
+        },
+        {
+            "word": "euros",
+            "count": 14
+        },
+        {
+            "word": "garantía",
+            "count": 14
+        },
+        {
+            "word": "igualdad",
+            "count": 14
+        },
+        {
+            "word": "impuesto",
+            "count": 14
+        },
+        {
+            "word": "parte",
+            "count": 14
+        },
+        {
+            "word": "plan",
+            "count": 14
+        },
+        {
+            "word": "renta",
+            "count": 14
+        },
+        {
+            "word": "social",
+            "count": 14
+        },
+        {
+            "word": "son",
+            "count": 14
+        },
+        {
+            "word": "administración",
+            "count": 13
+        },
+        {
+            "word": "autonómico",
+            "count": 13
+        },
+        {
+            "word": "cualquier",
+            "count": 13
+        },
+        {
+            "word": "ello",
+            "count": 13
+        },
+        {
+            "word": "empleo",
+            "count": 13
+        },
+        {
+            "word": "hasta",
+            "count": 13
+        },
+        {
+            "word": "medidas",
+            "count": 13
+        },
+        {
+            "word": "mismo",
+            "count": 13
+        },
+        {
+            "word": "nuestro",
+            "count": 13
+        },
+        {
+            "word": "sector",
+            "count": 13
+        },
+        {
+            "word": "todas",
+            "count": 13
+        },
+        {
+            "word": "autónomas",
+            "count": 12
+        },
+        {
+            "word": "comunidades",
+            "count": 12
+        },
+        {
+            "word": "e",
+            "count": 12
+        },
+        {
+            "word": "energética",
+            "count": 12
+        },
+        {
+            "word": "esto",
+            "count": 12
+        },
+        {
+            "word": "personal",
+            "count": 12
+        },
+        {
+            "word": "ser",
+            "count": 12
+        },
+        {
+            "word": "sobre",
+            "count": 12
+        },
+        {
+            "word": "territorio",
+            "count": 12
+        },
+        {
+            "word": "alcanzar",
+            "count": 11
+        },
+        {
+            "word": "autonómicas",
+            "count": 11
+        },
+        {
+            "word": "centros",
+            "count": 11
+        },
+        {
+            "word": "educación",
+            "count": 11
+        },
+        {
+            "word": "ejemplo",
+            "count": 11
+        },
+        {
+            "word": "entre",
+            "count": 11
+        },
+        {
+            "word": "estas",
+            "count": 11
+        },
+        {
+            "word": "formación",
+            "count": 11
+        },
+        {
+            "word": "fuerza",
+            "count": 11
+        },
+        {
+            "word": "género",
+            "count": 11
+        },
+        {
+            "word": "intervención",
+            "count": 11
+        },
+        {
+            "word": "recursos",
+            "count": 11
+        },
+        {
+            "word": "sanidad",
+            "count": 11
+        },
+        {
+            "word": "violencia",
+            "count": 11
+        },
+        {
+            "word": "además",
+            "count": 10
+        },
+        {
+            "word": "alquiler",
+            "count": 10
+        },
+        {
+            "word": "aumento",
+            "count": 10
+        },
+        {
+            "word": "autonómicos",
+            "count": 10
+        },
+        {
+            "word": "ción",
+            "count": 10
+        },
+        {
+            "word": "derecho",
+            "count": 10
+        },
+        {
+            "word": "diversidad",
+            "count": 10
+        },
+        {
+            "word": "entidades",
+            "count": 10
+        },
+        {
+            "word": "familias",
+            "count": 10
+        },
+        {
+            "word": "financiación",
+            "count": 10
+        },
+        {
+            "word": "mercado",
+            "count": 10
+        },
+        {
+            "word": "municipal",
+            "count": 10
+        },
+        {
+            "word": "nivel",
+            "count": 10
+        },
+        {
+            "word": "plazas",
+            "count": 10
+        },
+        {
+            "word": "podemos",
+            "count": 10
+        },
+        {
+            "word": "precios",
+            "count": 10
+        },
+        {
+            "word": "primaria",
+            "count": 10
+        },
+        {
+            "word": "sea",
+            "count": 10
+        },
+        {
+            "word": "sino",
+            "count": 10
+        },
+        {
+            "word": "tipo",
+            "count": 10
+        },
+        {
+            "word": "través",
+            "count": 10
+        },
+        {
+            "word": "universal",
+            "count": 10
+        },
+        {
+            "word": "ámbito",
+            "count": 10
+        },
+        {
+            "word": "acceso",
+            "count": 9
+        },
+        {
+            "word": "administraciones",
+            "count": 9
+        },
+        {
+            "word": "aquellos",
+            "count": 9
+        },
+        {
+            "word": "asistencia",
+            "count": 9
+        },
+        {
+            "word": "bajos",
+            "count": 9
+        },
+        {
+            "word": "bien",
+            "count": 9
+        },
+        {
+            "word": "centro",
+            "count": 9
+        },
+        {
+            "word": "cuidados",
+            "count": 9
+        },
+        {
+            "word": "domicilio",
+            "count": 9
+        },
+        {
+            "word": "especialmente",
+            "count": 9
+        },
+        {
+            "word": "gratuita",
+            "count": 9
+        },
+        {
+            "word": "municipales",
+            "count": 9
+        },
+        {
+            "word": "nuevas",
+            "count": 9
+        },
+        {
+            "word": "podrá",
+            "count": 9
+        },
+        {
+            "word": "puedan",
+            "count": 9
+        },
+        {
+            "word": "pueden",
+            "count": 9
+        },
+        {
+            "word": "salud",
+            "count": 9
+        },
+        {
+            "word": "siguientes",
+            "count": 9
+        },
+        {
+            "word": "suficiente",
+            "count": 9
+        },
+        {
+            "word": "vaciada",
+            "count": 9
+        },
+        {
+            "word": "aumentar",
+            "count": 8
+        },
+        {
+            "word": "ciudades",
+            "count": 8
+        },
+        {
+            "word": "diferentes",
+            "count": 8
+        },
+        {
+            "word": "economía",
+            "count": 8
+        },
+        {
+            "word": "elecciones",
+            "count": 8
+        },
+        {
+            "word": "gobierno",
+            "count": 8
+        },
+        {
+            "word": "gobiernos",
+            "count": 8
+        },
+        {
+            "word": "mayo",
+            "count": 8
+        },
+        {
+            "word": "mucho",
+            "count": 8
+        },
+        {
+            "word": "otros",
+            "count": 8
+        },
+        {
+            "word": "país",
+            "count": 8
+        },
+        {
+            "word": "persona",
+            "count": 8
+        },
+        {
+            "word": "población",
+            "count": 8
+        },
+        {
+            "word": "poder",
+            "count": 8
+        },
+        {
+            "word": "puede",
+            "count": 8
+        },
+        {
+            "word": "red",
+            "count": 8
+        },
+        {
+            "word": "sexual",
+            "count": 8
+        },
+        {
+            "word": "tanto",
+            "count": 8
+        },
+        {
+            "word": "todo",
+            "count": 8
+        },
+        {
+            "word": "vulnerables",
+            "count": 8
+        },
+        {
+            "word": "víctimas",
+            "count": 8
+        },
+        {
+            "word": "zonas",
+            "count": 8
+        },
+        {
+            "word": "ámbitos",
+            "count": 8
+        },
+        {
+            "word": "acción",
+            "count": 7
+        },
+        {
+            "word": "aquellas",
+            "count": 7
+        },
+        {
+            "word": "asimismo",
+            "count": 7
+        },
+        {
+            "word": "caso",
+            "count": 7
+        },
+        {
+            "word": "condiciones",
+            "count": 7
+        },
+        {
+            "word": "desprivatización",
+            "count": 7
+        },
+        {
+            "word": "establecimiento",
+            "count": 7
+        },
+        {
+            "word": "estatal",
+            "count": 7
+        },
+        {
+            "word": "evitar",
+            "count": 7
+        },
+        {
+            "word": "fomentar",
+            "count": 7
+        },
+        {
+            "word": "instalaciones",
+            "count": 7
+        },
+        {
+            "word": "ley",
+            "count": 7
+        },
+        {
+            "word": "llevar",
+            "count": 7
+        },
+        {
+            "word": "mantenimiento",
+            "count": 7
+        },
+        {
+            "word": "medida",
+            "count": 7
+        },
+        {
+            "word": "mínimo",
+            "count": 7
+        },
+        {
+            "word": "nuestros",
+            "count": 7
+        },
+        {
+            "word": "otras",
+            "count": 7
+        },
+        {
+            "word": "participación",
+            "count": 7
+        },
+        {
+            "word": "política",
+            "count": 7
+        },
+        {
+            "word": "producción",
+            "count": 7
+        },
+        {
+            "word": "profesionales",
+            "count": 7
+        },
+        {
+            "word": "protección",
+            "count": 7
+        },
+        {
+            "word": "sanitario",
+            "count": 7
+        },
+        {
+            "word": "sociales",
+            "count": 7
+        },
+        {
+            "word": "solamente",
+            "count": 7
+        },
+        {
+            "word": "subvenciones",
+            "count": 7
+        },
+        {
+            "word": "sus",
+            "count": 7
+        },
+        {
+            "word": "tenemos",
+            "count": 7
+        },
+        {
+            "word": "tener",
+            "count": 7
+        },
+        {
+            "word": "tienen",
+            "count": 7
+        },
+        {
+            "word": "titularidad",
+            "count": 7
+        },
+        {
+            "word": "transición",
+            "count": 7
+        },
+        {
+            "word": "uso",
+            "count": 7
+        },
+        {
+            "word": "violencias",
+            "count": 7
+        },
+        {
+            "word": "ya",
+            "count": 7
+        },
+        {
+            "word": "autonómica",
+            "count": 6
+        },
+        {
+            "word": "cobertura",
+            "count": 6
+        },
+        {
+            "word": "conjunto",
+            "count": 6
+        },
+        {
+            "word": "contar",
+            "count": 6
+        },
+        {
+            "word": "correspondiente",
+            "count": 6
+        },
+        {
+            "word": "dar",
+            "count": 6
+        },
+        {
+            "word": "donde",
+            "count": 6
+        },
+        {
+            "word": "establecer",
+            "count": 6
+        },
+        {
+            "word": "fomento",
+            "count": 6
+        },
+        {
+            "word": "fondos",
+            "count": 6
+        },
+        {
+            "word": "formas",
+            "count": 6
+        },
+        {
+            "word": "garantizada",
+            "count": 6
+        },
+        {
+            "word": "gas",
+            "count": 6
+        },
+        {
+            "word": "hacer",
+            "count": 6
+        },
+        {
+            "word": "hacia",
+            "count": 6
+        },
+        {
+            "word": "hemos",
+            "count": 6
+        },
+        {
+            "word": "humanos",
+            "count": 6
+        },
+        {
+            "word": "implementar",
+            "count": 6
+        },
+        {
+            "word": "impulso",
+            "count": 6
+        },
+        {
+            "word": "instalación",
+            "count": 6
+        },
+        {
+            "word": "introducción",
+            "count": 6
+        },
+        {
+            "word": "justa",
+            "count": 6
+        },
+        {
+            "word": "jóvenes",
+            "count": 6
+        },
+        {
+            "word": "laborales",
+            "count": 6
+        },
+        {
+            "word": "legislación",
+            "count": 6
+        },
+        {
+            "word": "machista",
+            "count": 6
+        },
+        {
+            "word": "manera",
+            "count": 6
+        },
+        {
+            "word": "materia",
+            "count": 6
+        },
+        {
+            "word": "municipios",
+            "count": 6
+        },
+        {
+            "word": "muy",
+            "count": 6
+        },
+        {
+            "word": "nuestra",
+            "count": 6
+        },
+        {
+            "word": "nuevos",
+            "count": 6
+        },
+        {
+            "word": "objetivo",
+            "count": 6
+        },
+        {
+            "word": "otra",
+            "count": 6
+        },
+        {
+            "word": "permita",
+            "count": 6
+        },
+        {
+            "word": "plantas",
+            "count": 6
+        },
+        {
+            "word": "posible",
+            "count": 6
+        },
+        {
+            "word": "privada",
+            "count": 6
+        },
+        {
+            "word": "proceso",
+            "count": 6
+        },
+        {
+            "word": "propuestas",
+            "count": 6
+        },
+        {
+            "word": "proximidad",
+            "count": 6
+        },
+        {
+            "word": "renovables",
+            "count": 6
+        },
+        {
+            "word": "salariales",
+            "count": 6
+        },
+        {
+            "word": "toda",
+            "count": 6
+        },
+        {
+            "word": "total",
+            "count": 6
+        },
+        {
+            "word": "tramos",
+            "count": 6
+        },
+        {
+            "word": "transporte",
+            "count": 6
+        },
+        {
+            "word": "vacías",
+            "count": 6
+        },
+        {
+            "word": "algo",
+            "count": 5
+        },
+        {
+            "word": "alta",
+            "count": 5
+        },
+        {
+            "word": "apuesta",
+            "count": 5
+        },
+        {
+            "word": "bonificaciones",
+            "count": 5
+        },
+        {
+            "word": "brecha",
+            "count": 5
+        },
+        {
+            "word": "capacidad",
+            "count": 5
+        },
+        {
+            "word": "carácter",
+            "count": 5
+        },
+        {
+            "word": "casos",
+            "count": 5
+        },
+        {
+            "word": "ciones",
+            "count": 5
+        },
+        {
+            "word": "comunidad",
+            "count": 5
+        },
+        {
+            "word": "construcción",
+            "count": 5
+        },
+        {
+            "word": "debe",
+            "count": 5
+        },
+        {
+            "word": "democrática",
+            "count": 5
+        },
+        {
+            "word": "dicha",
+            "count": 5
+        },
+        {
+            "word": "digital",
+            "count": 5
+        },
+        {
+            "word": "dignas",
+            "count": 5
+        },
+        {
+            "word": "dirección",
+            "count": 5
+        },
+        {
+            "word": "distancia",
+            "count": 5
+        },
+        {
+            "word": "dores",
+            "count": 5
+        },
+        {
+            "word": "durante",
+            "count": 5
+        },
+        {
+            "word": "edificios",
+            "count": 5
+        },
+        {
+            "word": "energía",
+            "count": 5
+        },
+        {
+            "word": "específicos",
+            "count": 5
+        },
+        {
+            "word": "estado",
+            "count": 5
+        },
+        {
+            "word": "familiar",
+            "count": 5
+        },
+        {
+            "word": "frente",
+            "count": 5
+        },
+        {
+            "word": "gobernar",
+            "count": 5
+        },
+        {
+            "word": "gran",
+            "count": 5
+        },
+        {
+            "word": "han",
+            "count": 5
+        },
+        {
+            "word": "horizonte",
+            "count": 5
+        },
+        {
+            "word": "ibi",
+            "count": 5
+        },
+        {
+            "word": "lucha",
+            "count": 5
+        },
+        {
+            "word": "madrid",
+            "count": 5
+        },
+        {
+            "word": "marcha",
+            "count": 5
+        },
+        {
+            "word": "mejora",
+            "count": 5
+        },
+        {
+            "word": "mes",
+            "count": 5
+        },
+        {
+            "word": "modo",
+            "count": 5
+        },
+        {
+            "word": "moratoria",
+            "count": 5
+        },
+        {
+            "word": "máximo",
+            "count": 5
+        },
+        {
+            "word": "natural",
+            "count": 5
+        },
+        {
+            "word": "necesario",
+            "count": 5
+        },
+        {
+            "word": "nueva",
+            "count": 5
+        },
+        {
+            "word": "núcleo",
+            "count": 5
+        },
+        {
+            "word": "partir",
+            "count": 5
+        },
+        {
+            "word": "pequeños",
+            "count": 5
+        },
+        {
+            "word": "pero",
+            "count": 5
+        },
+        {
+            "word": "planes",
+            "count": 5
+        },
+        {
+            "word": "posibilidad",
+            "count": 5
+        },
+        {
+            "word": "precio",
+            "count": 5
+        },
+        {
+            "word": "privadas",
+            "count": 5
+        },
+        {
+            "word": "privado",
+            "count": 5
+        },
+        {
+            "word": "propietarios",
+            "count": 5
+        },
+        {
+            "word": "pueda",
+            "count": 5
+        },
+        {
+            "word": "rentas",
+            "count": 5
+        },
+        {
+            "word": "residencias",
+            "count": 5
+        },
+        {
+            "word": "sanitarios",
+            "count": 5
+        },
+        {
+            "word": "seguridad",
+            "count": 5
+        },
+        {
+            "word": "según",
+            "count": 5
+        },
+        {
+            "word": "servicio",
+            "count": 5
+        },
+        {
+            "word": "situación",
+            "count": 5
+        },
+        {
+            "word": "solo",
+            "count": 5
+        },
+        {
+            "word": "supermercados",
+            "count": 5
+        },
+        {
+            "word": "tejido",
+            "count": 5
+        },
+        {
+            "word": "trabajo",
+            "count": 5
+        },
+        {
+            "word": "términos",
+            "count": 5
+        },
+        {
+            "word": "vecinos",
+            "count": 5
+        },
+        {
+            "word": "vida",
+            "count": 5
+        },
+        {
+            "word": "zona",
+            "count": 5
+        },
+        {
+            "word": "último",
+            "count": 5
+        },
+        {
+            "word": "últimos",
+            "count": 5
+        },
+        {
+            "word": "actividades",
+            "count": 4
+        },
+        {
+            "word": "actuaciones",
+            "count": 4
+        },
+        {
+            "word": "admi",
+            "count": 4
+        },
+        {
+            "word": "afectados",
+            "count": 4
+        },
+        {
+            "word": "algunos",
+            "count": 4
+        },
+        {
+            "word": "atender",
+            "count": 4
+        },
+        {
+            "word": "bajar",
+            "count": 4
+        },
+        {
+            "word": "barrio",
+            "count": 4
+        },
+        {
+            "word": "base",
+            "count": 4
+        },
+        {
+            "word": "ciudadanía",
+            "count": 4
+        },
+        {
+            "word": "comerciales",
+            "count": 4
+        },
+        {
+            "word": "completa",
+            "count": 4
+        },
+        {
+            "word": "compra",
+            "count": 4
+        },
+        {
+            "word": "concreto",
+            "count": 4
+        },
+        {
+            "word": "convenios",
+            "count": 4
+        },
+        {
+            "word": "cuando",
+            "count": 4
+        },
+        {
+            "word": "debería",
+            "count": 4
+        },
+        {
+            "word": "dependientes",
+            "count": 4
+        },
+        {
+            "word": "derecha",
+            "count": 4
+        },
+        {
+            "word": "desahucios",
+            "count": 4
+        },
+        {
+            "word": "después",
+            "count": 4
+        },
+        {
+            "word": "doctorado",
+            "count": 4
+        },
+        {
+            "word": "día",
+            "count": 4
+        },
+        {
+            "word": "eliminación",
+            "count": 4
+        },
+        {
+            "word": "entorno",
+            "count": 4
+        },
+        {
+            "word": "equipamientos",
+            "count": 4
+        },
+        {
+            "word": "esa",
+            "count": 4
+        },
+        {
+            "word": "escuelas",
+            "count": 4
+        },
+        {
+            "word": "espacios",
+            "count": 4
+        },
+        {
+            "word": "estos",
+            "count": 4
+        },
+        {
+            "word": "están",
+            "count": 4
+        },
+        {
+            "word": "europea",
+            "count": 4
+        },
+        {
+            "word": "existencia",
+            "count": 4
+        },
+        {
+            "word": "factura",
+            "count": 4
+        },
+        {
+            "word": "feminista",
+            "count": 4
+        },
+        {
+            "word": "fiscal",
+            "count": 4
+        },
+        {
+            "word": "gratuidad",
+            "count": 4
+        },
+        {
+            "word": "gratuito",
+            "count": 4
+        },
+        {
+            "word": "hayan",
+            "count": 4
+        },
+        {
+            "word": "instituciones",
+            "count": 4
+        },
+        {
+            "word": "largo",
+            "count": 4
+        },
+        {
+            "word": "les",
+            "count": 4
+        },
+        {
+            "word": "libertad",
+            "count": 4
+        },
+        {
+            "word": "local",
+            "count": 4
+        },
+        {
+            "word": "lugar",
+            "count": 4
+        },
+        {
+            "word": "luz",
+            "count": 4
+        },
+        {
+            "word": "machistas",
+            "count": 4
+        },
+        {
+            "word": "macroplantas",
+            "count": 4
+        },
+        {
+            "word": "mayor",
+            "count": 4
+        },
+        {
+            "word": "mente",
+            "count": 4
+        },
+        {
+            "word": "mercados",
+            "count": 4
+        },
+        {
+            "word": "meses",
+            "count": 4
+        },
+        {
+            "word": "necesidad",
+            "count": 4
+        },
+        {
+            "word": "niveles",
+            "count": 4
+        },
+        {
+            "word": "nuevo",
+            "count": 4
+        },
+        {
+            "word": "ofrecer",
+            "count": 4
+        },
+        {
+            "word": "pago",
+            "count": 4
+        },
+        {
+            "word": "paneles",
+            "count": 4
+        },
+        {
+            "word": "parque",
+            "count": 4
+        },
+        {
+            "word": "patrimonio",
+            "count": 4
+        },
+        {
+            "word": "permite",
+            "count": 4
+        },
+        {
+            "word": "permitiría",
+            "count": 4
+        },
+        {
+            "word": "perspectiva",
+            "count": 4
+        },
+        {
+            "word": "planta",
+            "count": 4
+        },
+        {
+            "word": "podría",
+            "count": 4
+        },
+        {
+            "word": "prestación",
+            "count": 4
+        },
+        {
+            "word": "productivo",
+            "count": 4
+        },
+        {
+            "word": "productores",
+            "count": 4
+        },
+        {
+            "word": "proponemos",
+            "count": 4
+        },
+        {
+            "word": "prácticas",
+            "count": 4
+        },
+        {
+            "word": "puesta",
+            "count": 4
+        },
+        {
+            "word": "reducir",
+            "count": 4
+        },
+        {
+            "word": "será",
+            "count": 4
+        },
+        {
+            "word": "significativa",
+            "count": 4
+        },
+        {
+            "word": "solución",
+            "count": 4
+        },
+        {
+            "word": "tan",
+            "count": 4
+        },
+        {
+            "word": "tasa",
+            "count": 4
+        },
+        {
+            "word": "terri",
+            "count": 4
+        },
+        {
+            "word": "trans",
+            "count": 4
+        },
+        {
+            "word": "tras",
+            "count": 4
+        },
+        {
+            "word": "trata",
+            "count": 4
+        },
+        {
+            "word": "turísticos",
+            "count": 4
+        },
+        {
+            "word": "uno",
+            "count": 4
+        },
+        {
+            "word": "vecinas",
+            "count": 4
+        },
+        {
+            "word": "única",
+            "count": 4
+        },
+        {
+            "word": "abonar",
+            "count": 3
+        },
+        {
+            "word": "adecuada",
+            "count": 3
+        },
+        {
+            "word": "adquisición",
+            "count": 3
+        },
+        {
+            "word": "ahorro",
+            "count": 3
+        },
+        {
+            "word": "algunas",
+            "count": 3
+        },
+        {
+            "word": "allí",
+            "count": 3
+        },
+        {
+            "word": "alquileres",
+            "count": 3
+        },
+        {
+            "word": "anteriores",
+            "count": 3
+        },
+        {
+            "word": "antes",
+            "count": 3
+        },
+        {
+            "word": "aplicación",
+            "count": 3
+        },
+        {
+            "word": "apoyo",
+            "count": 3
+        },
+        {
+            "word": "aprobación",
+            "count": 3
+        },
+        {
+            "word": "auto",
+            "count": 3
+        },
+        {
+            "word": "autoconsumo",
+            "count": 3
+        },
+        {
+            "word": "avanzar",
+            "count": 3
+        },
+        {
+            "word": "ayuntamientos",
+            "count": 3
+        },
+        {
+            "word": "año",
+            "count": 3
+        },
+        {
+            "word": "barrios",
+            "count": 3
+        },
+        {
+            "word": "burocráticos",
+            "count": 3
+        },
+        {
+            "word": "cambio",
+            "count": 3
+        },
+        {
+            "word": "cambios",
+            "count": 3
+        },
+        {
+            "word": "canon",
+            "count": 3
+        },
+        {
+            "word": "cargo",
+            "count": 3
+        },
+        {
+            "word": "cios",
+            "count": 3
+        },
+        {
+            "word": "comercio",
+            "count": 3
+        },
+        {
+            "word": "comunitat",
+            "count": 3
+        },
+        {
+            "word": "concertada",
+            "count": 3
+        },
+        {
+            "word": "concesión",
+            "count": 3
+        },
+        {
+            "word": "conciertos",
+            "count": 3
+        },
+        {
+            "word": "conciliación",
+            "count": 3
+        },
+        {
+            "word": "consumo",
+            "count": 3
+        },
+        {
+            "word": "continua",
+            "count": 3
+        },
+        {
+            "word": "correspondientes",
+            "count": 3
+        },
+        {
+            "word": "corresponsabilidad",
+            "count": 3
+        },
+        {
+            "word": "coste",
+            "count": 3
+        },
+        {
+            "word": "criterios",
+            "count": 3
+        },
+        {
+            "word": "cuerpo",
+            "count": 3
+        },
+        {
+            "word": "cultura",
+            "count": 3
+        },
+        {
+            "word": "culturales",
+            "count": 3
+        },
+        {
+            "word": "decir",
+            "count": 3
+        },
+        {
+            "word": "deducciones",
+            "count": 3
+        },
+        {
+            "word": "densidad",
+            "count": 3
+        },
+        {
+            "word": "dependencia",
+            "count": 3
+        },
+        {
+            "word": "desean",
+            "count": 3
+        },
+        {
+            "word": "determinados",
+            "count": 3
+        },
+        {
+            "word": "dichas",
+            "count": 3
+        },
+        {
+            "word": "dichos",
+            "count": 3
+        },
+        {
+            "word": "digna",
+            "count": 3
+        },
+        {
+            "word": "directamente",
+            "count": 3
+        },
+        {
+            "word": "distintos",
+            "count": 3
+        },
+        {
+            "word": "documento",
+            "count": 3
+        },
+        {
+            "word": "económicas",
+            "count": 3
+        },
+        {
+            "word": "económico",
+            "count": 3
+        },
+        {
+            "word": "educativos",
+            "count": 3
+        },
+        {
+            "word": "eficiencia",
+            "count": 3
+        },
+        {
+            "word": "ejemplos",
+            "count": 3
+        },
+        {
+            "word": "embargo",
+            "count": 3
+        },
+        {
+            "word": "energéticas",
+            "count": 3
+        },
+        {
+            "word": "energético",
+            "count": 3
+        },
+        {
+            "word": "energías",
+            "count": 3
+        },
+        {
+            "word": "equiparables",
+            "count": 3
+        },
+        {
+            "word": "escala",
+            "count": 3
+        },
+        {
+            "word": "escolar",
+            "count": 3
+        },
+        {
+            "word": "escolares",
+            "count": 3
+        },
+        {
+            "word": "eso",
+            "count": 3
+        },
+        {
+            "word": "espacio",
+            "count": 3
+        },
+        {
+            "word": "especializados",
+            "count": 3
+        },
+        {
+            "word": "específico",
+            "count": 3
+        },
+        {
+            "word": "establecerán",
+            "count": 3
+        },
+        {
+            "word": "etcétera",
+            "count": 3
+        },
+        {
+            "word": "existen",
+            "count": 3
+        },
+        {
+            "word": "existentes",
+            "count": 3
+        },
+        {
+            "word": "farmacéuticas",
+            "count": 3
+        },
+        {
+            "word": "feminismo",
+            "count": 3
+        },
+        {
+            "word": "fin",
+            "count": 3
+        },
+        {
+            "word": "fiscalidad",
+            "count": 3
+        },
+        {
+            "word": "fraude",
+            "count": 3
+        },
+        {
+            "word": "función",
+            "count": 3
+        },
+        {
+            "word": "fundamentalmente",
+            "count": 3
+        },
+        {
+            "word": "fértil",
+            "count": 3
+        },
+        {
+            "word": "habitante",
+            "count": 3
+        },
+        {
+            "word": "hay",
+            "count": 3
+        },
+        {
+            "word": "hogar",
+            "count": 3
+        },
+        {
+            "word": "igual",
+            "count": 3
+        },
+        {
+            "word": "incentivo",
+            "count": 3
+        },
+        {
+            "word": "incluida",
+            "count": 3
+        },
+        {
+            "word": "inclusión",
+            "count": 3
+        },
+        {
+            "word": "incluso",
+            "count": 3
+        },
+        {
+            "word": "incorporación",
+            "count": 3
+        },
+        {
+            "word": "indicadores",
+            "count": 3
+        },
+        {
+            "word": "indispensable",
+            "count": 3
+        },
+        {
+            "word": "industrial",
+            "count": 3
+        },
+        {
+            "word": "inhabitada",
+            "count": 3
+        },
+        {
+            "word": "inicio",
+            "count": 3
+        },
+        {
+            "word": "inmobiliarias",
+            "count": 3
+        },
+        {
+            "word": "institucional",
+            "count": 3
+        },
+        {
+            "word": "llevarán",
+            "count": 3
+        },
+        {
+            "word": "lógica",
+            "count": 3
+        },
+        {
+            "word": "mantener",
+            "count": 3
+        },
+        {
+            "word": "mayores",
+            "count": 3
+        },
+        {
+            "word": "media",
+            "count": 3
+        },
+        {
+            "word": "mental",
+            "count": 3
+        },
+        {
+            "word": "mientras",
+            "count": 3
+        },
+        {
+            "word": "migrantes",
+            "count": 3
+        },
+        {
+            "word": "misma",
+            "count": 3
+        },
+        {
+            "word": "movilidad",
+            "count": 3
+        },
+        {
+            "word": "máxima",
+            "count": 3
+        },
+        {
+            "word": "nacimiento",
+            "count": 3
+        },
+        {
+            "word": "necesitan",
+            "count": 3
+        },
+        {
+            "word": "nistración",
+            "count": 3
+        },
+        {
+            "word": "niños",
+            "count": 3
+        },
+        {
+            "word": "nos",
+            "count": 3
+        },
+        {
+            "word": "nuestras",
+            "count": 3
+        },
+        {
+            "word": "núcleos",
+            "count": 3
+        },
+        {
+            "word": "número",
+            "count": 3
+        },
+        {
+            "word": "objeto",
+            "count": 3
+        },
+        {
+            "word": "ocio",
+            "count": 3
+        },
+        {
+            "word": "paguen",
+            "count": 3
+        },
+        {
+            "word": "paisaje",
+            "count": 3
+        },
+        {
+            "word": "países",
+            "count": 3
+        },
+        {
+            "word": "permitirá",
+            "count": 3
+        },
+        {
+            "word": "pesar",
+            "count": 3
+        },
+        {
+            "word": "pilar",
+            "count": 3
+        },
+        {
+            "word": "pisos",
+            "count": 3
+        },
+        {
+            "word": "placas",
+            "count": 3
+        },
+        {
+            "word": "pobreza",
+            "count": 3
+        },
+        {
+            "word": "podrán",
+            "count": 3
+        },
+        {
+            "word": "polí",
+            "count": 3
+        },
+        {
+            "word": "poner",
+            "count": 3
+        },
+        {
+            "word": "porque",
+            "count": 3
+        },
+        {
+            "word": "presupuesto",
+            "count": 3
+        },
+        {
+            "word": "primera",
+            "count": 3
+        },
+        {
+            "word": "privatización",
+            "count": 3
+        },
+        {
+            "word": "problemas",
+            "count": 3
+        },
+        {
+            "word": "profe",
+            "count": 3
+        },
+        {
+            "word": "progresiva",
+            "count": 3
+        },
+        {
+            "word": "progresividad",
+            "count": 3
+        },
+        {
+            "word": "promoción",
+            "count": 3
+        },
+        {
+            "word": "propiedad",
+            "count": 3
+        },
+        {
+            "word": "propio",
+            "count": 3
+        },
+        {
+            "word": "propone",
+            "count": 3
+        },
+        {
+            "word": "proyectos",
+            "count": 3
+        },
+        {
+            "word": "puntos",
+            "count": 3
+        },
+        {
+            "word": "pymes",
+            "count": 3
+        },
+        {
+            "word": "realizar",
+            "count": 3
+        },
+        {
+            "word": "rebaja",
+            "count": 3
+        },
+        {
+            "word": "recargo",
+            "count": 3
+        },
+        {
+            "word": "refuerzo",
+            "count": 3
+        },
+        {
+            "word": "rehabilitación",
+            "count": 3
+        },
+        {
+            "word": "reparación",
+            "count": 3
+        },
+        {
+            "word": "respecto",
+            "count": 3
+        },
+        {
+            "word": "respuesta",
+            "count": 3
+        },
+        {
+            "word": "sectores",
+            "count": 3
+        },
+        {
+            "word": "secundaria",
+            "count": 3
+        },
+        {
+            "word": "seguir",
+            "count": 3
+        },
+        {
+            "word": "sensibilización",
+            "count": 3
+        },
+        {
+            "word": "sición",
+            "count": 3
+        },
+        {
+            "word": "siempre",
+            "count": 3
+        },
+        {
+            "word": "siendo",
+            "count": 3
+        },
+        {
+            "word": "situaciones",
+            "count": 3
+        },
+        {
+            "word": "sostenible",
+            "count": 3
+        },
+        {
+            "word": "subida",
+            "count": 3
+        },
+        {
+            "word": "suficientemente",
+            "count": 3
+        },
+        {
+            "word": "sufren",
+            "count": 3
+        },
+        {
+            "word": "superpoblada",
+            "count": 3
+        },
+        {
+            "word": "tal",
+            "count": 3
+        },
+        {
+            "word": "tamaño",
+            "count": 3
+        },
+        {
+            "word": "tasas",
+            "count": 3
+        },
+        {
+            "word": "techos",
+            "count": 3
+        },
+        {
+            "word": "tendrán",
+            "count": 3
+        },
+        {
+            "word": "tengan",
+            "count": 3
+        },
+        {
+            "word": "tenido",
+            "count": 3
+        },
+        {
+            "word": "territorial",
+            "count": 3
+        },
+        {
+            "word": "ticas",
+            "count": 3
+        },
+        {
+            "word": "tiene",
+            "count": 3
+        },
+        {
+            "word": "tierra",
+            "count": 3
+        },
+        {
+            "word": "tipos",
+            "count": 3
+        },
+        {
+            "word": "torios",
+            "count": 3
+        },
+        {
+            "word": "trabajadores",
+            "count": 3
+        },
+        {
+            "word": "transforma",
+            "count": 3
+        },
+        {
+            "word": "tres",
+            "count": 3
+        },
+        {
+            "word": "tributos",
+            "count": 3
+        },
+        {
+            "word": "trámite",
+            "count": 3
+        },
+        {
+            "word": "turística",
+            "count": 3
+        },
+        {
+            "word": "u",
+            "count": 3
+        },
+        {
+            "word": "unos",
+            "count": 3
+        },
+        {
+            "word": "utilizar",
+            "count": 3
+        },
+        {
+            "word": "valenciana",
+            "count": 3
+        },
+        {
+            "word": "venta",
+            "count": 3
+        },
+        {
+            "word": "ventanillas",
+            "count": 3
+        },
+        {
+            "word": "verde",
+            "count": 3
+        },
+        {
+            "word": "árboles",
+            "count": 3
+        },
+        {
+            "word": "únicas",
+            "count": 3
+        },
+        {
+            "word": "accedan",
+            "count": 2
+        },
+        {
+            "word": "accesibilidad",
+            "count": 2
+        },
+        {
+            "word": "accesibles",
+            "count": 2
+        },
+        {
+            "word": "acciones",
+            "count": 2
+        },
+        {
+            "word": "acoso",
+            "count": 2
+        },
+        {
+            "word": "activar",
+            "count": 2
+        },
+        {
+            "word": "actividad",
+            "count": 2
+        },
+        {
+            "word": "actuación",
+            "count": 2
+        },
+        {
+            "word": "actual",
+            "count": 2
+        },
+        {
+            "word": "adecuadamente",
+            "count": 2
+        },
+        {
+            "word": "adecuado",
+            "count": 2
+        },
+        {
+            "word": "adicionales",
+            "count": 2
+        },
+        {
+            "word": "administra",
+            "count": 2
+        },
+        {
+            "word": "adquiridas",
+            "count": 2
+        },
+        {
+            "word": "agentes",
+            "count": 2
+        },
+        {
+            "word": "agrícolas",
+            "count": 2
+        },
+        {
+            "word": "alimentos",
+            "count": 2
+        },
+        {
+            "word": "altas",
+            "count": 2
+        },
+        {
+            "word": "alternativa",
+            "count": 2
+        },
+        {
+            "word": "alumno",
+            "count": 2
+        },
+        {
+            "word": "ambos",
+            "count": 2
+        },
+        {
+            "word": "ampliación",
+            "count": 2
+        },
+        {
+            "word": "anterior",
+            "count": 2
+        },
+        {
+            "word": "anti",
+            "count": 2
+        },
+        {
+            "word": "apartado",
+            "count": 2
+        },
+        {
+            "word": "apertura",
+            "count": 2
+        },
+        {
+            "word": "apostamos",
+            "count": 2
+        },
+        {
+            "word": "arrendador",
+            "count": 2
+        },
+        {
+            "word": "asegurando",
+            "count": 2
+        },
+        {
+            "word": "asegurar",
+            "count": 2
+        },
+        {
+            "word": "asequible",
+            "count": 2
+        },
+        {
+            "word": "aumentarán",
+            "count": 2
+        },
+        {
+            "word": "aunque",
+            "count": 2
+        },
+        {
+            "word": "ausencia",
+            "count": 2
+        },
+        {
+            "word": "autonomía",
+            "count": 2
+        },
+        {
+            "word": "avanzado",
+            "count": 2
+        },
+        {
+            "word": "avanzando",
+            "count": 2
+        },
+        {
+            "word": "ayuda",
+            "count": 2
+        },
+        {
+            "word": "ayudará",
+            "count": 2
+        },
+        {
+            "word": "bajas",
+            "count": 2
+        },
+        {
+            "word": "banca",
+            "count": 2
+        },
+        {
+            "word": "barcelona",
+            "count": 2
+        },
+        {
+            "word": "bisexuales",
+            "count": 2
+        },
+        {
+            "word": "blandos",
+            "count": 2
+        },
+        {
+            "word": "bles",
+            "count": 2
+        },
+        {
+            "word": "blindar",
+            "count": 2
+        },
+        {
+            "word": "bonificación",
+            "count": 2
+        },
+        {
+            "word": "buen",
+            "count": 2
+        },
+        {
+            "word": "buenas",
+            "count": 2
+        },
+        {
+            "word": "busca",
+            "count": 2
+        },
+        {
+            "word": "básico",
+            "count": 2
+        },
+        {
+            "word": "básicos",
+            "count": 2
+        },
+        {
+            "word": "cabecera",
+            "count": 2
+        },
+        {
+            "word": "cajeros",
+            "count": 2
+        },
+        {
+            "word": "calderas",
+            "count": 2
+        },
+        {
+            "word": "calificación",
+            "count": 2
+        },
+        {
+            "word": "calor",
+            "count": 2
+        },
+        {
+            "word": "canarias",
+            "count": 2
+        },
+        {
+            "word": "capa",
+            "count": 2
+        },
+        {
+            "word": "capaces",
+            "count": 2
+        },
+        {
+            "word": "capital",
+            "count": 2
+        },
+        {
+            "word": "características",
+            "count": 2
+        },
+        {
+            "word": "carga",
+            "count": 2
+        },
+        {
+            "word": "catálogo",
+            "count": 2
+        },
+        {
+            "word": "centrado",
+            "count": 2
+        },
+        {
+            "word": "cidad",
+            "count": 2
+        },
+        {
+            "word": "ciertas",
+            "count": 2
+        },
+        {
+            "word": "circunstancias",
+            "count": 2
+        },
+        {
+            "word": "ciuda",
+            "count": 2
+        },
+        {
+            "word": "cláusulas",
+            "count": 2
+        },
+        {
+            "word": "coalición",
+            "count": 2
+        },
+        {
+            "word": "cobro",
+            "count": 2
+        },
+        {
+            "word": "coeducación",
+            "count": 2
+        },
+        {
+            "word": "colectivo",
+            "count": 2
+        },
+        {
+            "word": "comarca",
+            "count": 2
+        },
+        {
+            "word": "combatir",
+            "count": 2
+        },
+        {
+            "word": "come",
+            "count": 2
+        },
+        {
+            "word": "comedor",
+            "count": 2
+        },
+        {
+            "word": "commerce",
+            "count": 2
+        },
+        {
+            "word": "competencias",
+            "count": 2
+        },
+        {
+            "word": "competente",
+            "count": 2
+        },
+        {
+            "word": "competir",
+            "count": 2
+        },
+        {
+            "word": "complementarias",
+            "count": 2
+        },
+        {
+            "word": "complemento",
+            "count": 2
+        },
+        {
+            "word": "comunitaria",
+            "count": 2
+        },
+        {
+            "word": "conlleva",
+            "count": 2
+        },
+        {
+            "word": "consulta",
+            "count": 2
+        },
+        {
+            "word": "consultas",
+            "count": 2
+        },
+        {
+            "word": "contamos",
+            "count": 2
+        },
+        {
+            "word": "contenidos",
+            "count": 2
+        },
+        {
+            "word": "contratación",
+            "count": 2
+        },
+        {
+            "word": "contrato",
+            "count": 2
+        },
+        {
+            "word": "contratos",
+            "count": 2
+        },
+        {
+            "word": "convertir",
+            "count": 2
+        },
+        {
+            "word": "convocatorias",
+            "count": 2
+        },
+        {
+            "word": "cooperativas",
+            "count": 2
+        },
+        {
+            "word": "corporaciones",
+            "count": 2
+        },
+        {
+            "word": "corresponsables",
+            "count": 2
+        },
+        {
+            "word": "cotidiana",
+            "count": 2
+        },
+        {
+            "word": "covid",
+            "count": 2
+        },
+        {
+            "word": "crear",
+            "count": 2
+        },
+        {
+            "word": "crisis",
+            "count": 2
+        },
+        {
+            "word": "créditos",
+            "count": 2
+        },
+        {
+            "word": "cual",
+            "count": 2
+        },
+        {
+            "word": "cuatro",
+            "count": 2
+        },
+        {
+            "word": "cuenta",
+            "count": 2
+        },
+        {
+            "word": "cuestión",
+            "count": 2
+        },
+        {
+            "word": "cuidadoras",
+            "count": 2
+        },
+        {
+            "word": "cumplimiento",
+            "count": 2
+        },
+        {
+            "word": "cumplir",
+            "count": 2
+        },
+        {
+            "word": "cuota",
+            "count": 2
+        },
+        {
+            "word": "cupo",
+            "count": 2
+        },
+        {
+            "word": "cuyo",
+            "count": 2
+        },
+        {
+            "word": "cómo",
+            "count": 2
+        },
+        {
+            "word": "dación",
+            "count": 2
+        },
+        {
+            "word": "dado",
+            "count": 2
+        },
+        {
+            "word": "dando",
+            "count": 2
+        },
+        {
+            "word": "danía",
+            "count": 2
+        },
+        {
+            "word": "datos",
+            "count": 2
+        },
+        {
+            "word": "deberá",
+            "count": 2
+        },
+        {
+            "word": "definitiva",
+            "count": 2
+        },
+        {
+            "word": "delitos",
+            "count": 2
+        },
+        {
+            "word": "demostrado",
+            "count": 2
+        },
+        {
+            "word": "deseada",
+            "count": 2
+        },
+        {
+            "word": "deterioro",
+            "count": 2
+        },
+        {
+            "word": "determi",
+            "count": 2
+        },
+        {
+            "word": "dificultades",
+            "count": 2
+        },
+        {
+            "word": "diputaciones",
+            "count": 2
+        },
+        {
+            "word": "disposición",
+            "count": 2
+        },
+        {
+            "word": "distribución",
+            "count": 2
+        },
+        {
+            "word": "documentación",
+            "count": 2
+        },
+        {
+            "word": "domésticas",
+            "count": 2
+        },
+        {
+            "word": "doméstico",
+            "count": 2
+        },
+        {
+            "word": "econó",
+            "count": 2
+        },
+        {
+            "word": "eficaces",
+            "count": 2
+        },
+        {
+            "word": "eficacia",
+            "count": 2
+        },
+        {
+            "word": "eficaz",
+            "count": 2
+        },
+        {
+            "word": "eficiente",
+            "count": 2
+        },
+        {
+            "word": "elaboración",
+            "count": 2
+        },
+        {
+            "word": "eliminar",
+            "count": 2
+        },
+        {
+            "word": "ella",
+            "count": 2
+        },
+        {
+            "word": "ellos",
+            "count": 2
+        },
+        {
+            "word": "eléctrico",
+            "count": 2
+        },
+        {
+            "word": "equiparación",
+            "count": 2
+        },
+        {
+            "word": "equivalente",
+            "count": 2
+        },
+        {
+            "word": "erradicación",
+            "count": 2
+        },
+        {
+            "word": "esos",
+            "count": 2
+        },
+        {
+            "word": "espe",
+            "count": 2
+        },
+        {
+            "word": "especial",
+            "count": 2
+        },
+        {
+            "word": "especulación",
+            "count": 2
+        },
+        {
+            "word": "estabilización",
+            "count": 2
+        },
+        {
+            "word": "establecerá",
+            "count": 2
+        },
+        {
+            "word": "estableciendo",
+            "count": 2
+        },
+        {
+            "word": "estables",
+            "count": 2
+        },
+        {
+            "word": "está",
+            "count": 2
+        },
+        {
+            "word": "esté",
+            "count": 2
+        },
+        {
+            "word": "evidente",
+            "count": 2
+        },
+        {
+            "word": "evitando",
+            "count": 2
+        },
+        {
+            "word": "externalidades",
+            "count": 2
+        },
+        {
+            "word": "externalizaciones",
+            "count": 2
+        },
+        {
+            "word": "falta",
+            "count": 2
+        },
+        {
+            "word": "fami",
+            "count": 2
+        },
+        {
+            "word": "familia",
+            "count": 2
+        },
+        {
+            "word": "feministas",
+            "count": 2
+        },
+        {
+            "word": "ficación",
+            "count": 2
+        },
+        {
+            "word": "final",
+            "count": 2
+        },
+        {
+            "word": "finalidad",
+            "count": 2
+        },
+        {
+            "word": "financiado",
+            "count": 2
+        },
+        {
+            "word": "fondo",
+            "count": 2
+        },
+        {
+            "word": "forales",
+            "count": 2
+        },
+        {
+            "word": "fotovoltaicas",
+            "count": 2
+        },
+        {
+            "word": "fuera",
+            "count": 2
+        },
+        {
+            "word": "garantice",
+            "count": 2
+        },
+        {
+            "word": "general",
+            "count": 2
+        },
+        {
+            "word": "generales",
+            "count": 2
+        },
+        {
+            "word": "generando",
+            "count": 2
+        },
+        {
+            "word": "generar",
+            "count": 2
+        },
+        {
+            "word": "gestiones",
+            "count": 2
+        },
+        {
+            "word": "global",
+            "count": 2
+        },
+        {
+            "word": "gobernados",
+            "count": 2
+        },
+        {
+            "word": "gratuitas",
+            "count": 2
+        },
+        {
+            "word": "habitabilidad",
+            "count": 2
+        },
+        {
+            "word": "hace",
+            "count": 2
+        },
+        {
+            "word": "hacerse",
+            "count": 2
+        },
+        {
+            "word": "haya",
+            "count": 2
+        },
+        {
+            "word": "homologación",
+            "count": 2
+        },
+        {
+            "word": "igualmente",
+            "count": 2
+        },
+        {
+            "word": "ilegales",
+            "count": 2
+        },
+        {
+            "word": "impacto",
+            "count": 2
+        },
+        {
+            "word": "impactos",
+            "count": 2
+        },
+        {
+            "word": "implementación",
+            "count": 2
+        },
+        {
+            "word": "importante",
+            "count": 2
+        },
+        {
+            "word": "importantes",
+            "count": 2
+        },
+        {
+            "word": "importantísimo",
+            "count": 2
+        },
+        {
+            "word": "impulsados",
+            "count": 2
+        },
+        {
+            "word": "indefinido",
+            "count": 2
+        },
+        {
+            "word": "indirectamente",
+            "count": 2
+        },
+        {
+            "word": "infancia",
+            "count": 2
+        },
+        {
+            "word": "infantiles",
+            "count": 2
+        },
+        {
+            "word": "información",
+            "count": 2
+        },
+        {
+            "word": "infraestructuras",
+            "count": 2
+        },
+        {
+            "word": "infraviviendas",
+            "count": 2
+        },
+        {
+            "word": "iniciativas",
+            "count": 2
+        },
+        {
+            "word": "inmobiliaria",
+            "count": 2
+        },
+        {
+            "word": "insta",
+            "count": 2
+        },
+        {
+            "word": "instalar",
+            "count": 2
+        },
+        {
+            "word": "instalarlos",
+            "count": 2
+        },
+        {
+            "word": "instancia",
+            "count": 2
+        },
+        {
+            "word": "integral",
+            "count": 2
+        },
+        {
+            "word": "interinidad",
+            "count": 2
+        },
+        {
+            "word": "interés",
+            "count": 2
+        },
+        {
+            "word": "inversión",
+            "count": 2
+        },
+        {
+            "word": "investigación",
+            "count": 2
+        },
+        {
+            "word": "ir",
+            "count": 2
+        },
+        {
+            "word": "irpf",
+            "count": 2
+        },
+        {
+            "word": "islas",
+            "count": 2
+        },
+        {
+            "word": "juego",
+            "count": 2
+        },
+        {
+            "word": "justicia",
+            "count": 2
+        },
+        {
+            "word": "justiprecio",
+            "count": 2
+        },
+        {
+            "word": "kilómetros",
+            "count": 2
+        },
+        {
+            "word": "labo",
+            "count": 2
+        },
+        {
+            "word": "laboral",
+            "count": 2
+        },
+        {
+            "word": "legislatura",
+            "count": 2
+        },
+        {
+            "word": "lesbianas",
+            "count": 2
+        },
+        {
+            "word": "leyes",
+            "count": 2
+        },
+        {
+            "word": "libertades",
+            "count": 2
+        },
+        {
+            "word": "libre",
+            "count": 2
+        },
+        {
+            "word": "licencias",
+            "count": 2
+        },
+        {
+            "word": "limitación",
+            "count": 2
+        },
+        {
+            "word": "limitadas",
+            "count": 2
+        },
+        {
+            "word": "llevará",
+            "count": 2
+        },
+        {
+            "word": "materiales",
+            "count": 2
+        },
+        {
+            "word": "mayoría",
+            "count": 2
+        },
+        {
+            "word": "mecanismos",
+            "count": 2
+        },
+        {
+            "word": "medianas",
+            "count": 2
+        },
+        {
+            "word": "medianos",
+            "count": 2
+        },
+        {
+            "word": "medioambiente",
+            "count": 2
+        },
+        {
+            "word": "medios",
+            "count": 2
+        },
+        {
+            "word": "mejorando",
+            "count": 2
+        },
+        {
+            "word": "mejorar",
+            "count": 2
+        },
+        {
+            "word": "mejores",
+            "count": 2
+        },
+        {
+            "word": "mencionado",
+            "count": 2
+        },
+        {
+            "word": "millones",
+            "count": 2
+        },
+        {
+            "word": "mitad",
+            "count": 2
+        },
+        {
+            "word": "momento",
+            "count": 2
+        },
+        {
+            "word": "necesaria",
+            "count": 2
+        },
+        {
+            "word": "necesidades",
+            "count": 2
+        },
+        {
+            "word": "negociación",
+            "count": 2
+        },
+        {
+            "word": "negocios",
+            "count": 2
+        },
+        {
+            "word": "neoliberal",
+            "count": 2
+        },
+        {
+            "word": "ningún",
+            "count": 2
+        },
+        {
+            "word": "nismo",
+            "count": 2
+        },
+        {
+            "word": "niñas",
+            "count": 2
+        },
+        {
+            "word": "nomía",
+            "count": 2
+        },
+        {
+            "word": "obligación",
+            "count": 2
+        },
+        {
+            "word": "obstante",
+            "count": 2
+        },
+        {
+            "word": "ocupación",
+            "count": 2
+        },
+        {
+            "word": "ocupante",
+            "count": 2
+        },
+        {
+            "word": "odio",
+            "count": 2
+        },
+        {
+            "word": "oficinas",
+            "count": 2
+        },
+        {
+            "word": "olvidar",
+            "count": 2
+        },
+        {
+            "word": "omisión",
+            "count": 2
+        },
+        {
+            "word": "opción",
+            "count": 2
+        },
+        {
+            "word": "opera",
+            "count": 2
+        },
+        {
+            "word": "operadores",
+            "count": 2
+        },
+        {
+            "word": "orgánica",
+            "count": 2
+        },
+        {
+            "word": "orien",
+            "count": 2
+        },
+        {
+            "word": "orientada",
+            "count": 2
+        },
+        {
+            "word": "otro",
+            "count": 2
+        },
+        {
+            "word": "pandemia",
+            "count": 2
+        },
+        {
+            "word": "parcial",
+            "count": 2
+        },
+        {
+            "word": "parcialmente",
+            "count": 2
+        },
+        {
+            "word": "parques",
+            "count": 2
+        },
+        {
+            "word": "particulares",
+            "count": 2
+        },
+        {
+            "word": "parámetros",
+            "count": 2
+        },
+        {
+            "word": "paso",
+            "count": 2
+        },
+        {
+            "word": "pequeñas",
+            "count": 2
+        },
+        {
+            "word": "permanente",
+            "count": 2
+        },
+        {
+            "word": "permitan",
+            "count": 2
+        },
+        {
+            "word": "permitirán",
+            "count": 2
+        },
+        {
+            "word": "pib",
+            "count": 2
+        },
+        {
+            "word": "pocos",
+            "count": 2
+        },
+        {
+            "word": "podrían",
+            "count": 2
+        },
+        {
+            "word": "polonia",
+            "count": 2
+        },
+        {
+            "word": "pondremos",
+            "count": 2
+        },
+        {
+            "word": "primer",
+            "count": 2
+        },
+        {
+            "word": "principales",
+            "count": 2
+        },
+        {
+            "word": "prioridad",
+            "count": 2
+        },
+        {
+            "word": "prioritaria",
+            "count": 2
+        },
+        {
+            "word": "privados",
+            "count": 2
+        },
+        {
+            "word": "procesos",
+            "count": 2
+        },
+        {
+            "word": "producir",
+            "count": 2
+        },
+        {
+            "word": "productos",
+            "count": 2
+        },
+        {
+            "word": "programas",
+            "count": 2
+        },
+        {
+            "word": "promoverán",
+            "count": 2
+        },
+        {
+            "word": "propietarias",
+            "count": 2
+        },
+        {
+            "word": "propios",
+            "count": 2
+        },
+        {
+            "word": "proponen",
+            "count": 2
+        },
+        {
+            "word": "proporcionar",
+            "count": 2
+        },
+        {
+            "word": "proteger",
+            "count": 2
+        },
+        {
+            "word": "práctica",
+            "count": 2
+        },
+        {
+            "word": "psicó",
+            "count": 2
+        },
+        {
+            "word": "psicólogas",
+            "count": 2
+        },
+        {
+            "word": "puestos",
+            "count": 2
+        },
+        {
+            "word": "rable",
+            "count": 2
+        },
+        {
+            "word": "rales",
+            "count": 2
+        },
+        {
+            "word": "ratio",
+            "count": 2
+        },
+        {
+            "word": "ratios",
+            "count": 2
+        },
+        {
+            "word": "razonable",
+            "count": 2
+        },
+        {
+            "word": "reacción",
+            "count": 2
+        },
+        {
+            "word": "realidad",
+            "count": 2
+        },
+        {
+            "word": "recaudación",
+            "count": 2
+        },
+        {
+            "word": "recibiría",
+            "count": 2
+        },
+        {
+            "word": "recuperación",
+            "count": 2
+        },
+        {
+            "word": "recuperar",
+            "count": 2
+        },
+        {
+            "word": "reducción",
+            "count": 2
+        },
+        {
+            "word": "referencia",
+            "count": 2
+        },
+        {
+            "word": "reformas",
+            "count": 2
+        },
+        {
+            "word": "regional",
+            "count": 2
+        },
+        {
+            "word": "registro",
+            "count": 2
+        },
+        {
+            "word": "regresivo",
+            "count": 2
+        },
+        {
+            "word": "renova",
+            "count": 2
+        },
+        {
+            "word": "repositorio",
+            "count": 2
+        },
+        {
+            "word": "representación",
+            "count": 2
+        },
+        {
+            "word": "resi",
+            "count": 2
+        },
+        {
+            "word": "residencia",
+            "count": 2
+        },
+        {
+            "word": "residenciales",
+            "count": 2
+        },
+        {
+            "word": "retracto",
+            "count": 2
+        },
+        {
+            "word": "revisión",
+            "count": 2
+        },
+        {
+            "word": "riesgo",
+            "count": 2
+        },
+        {
+            "word": "rios",
+            "count": 2
+        },
+        {
+            "word": "rurales",
+            "count": 2
+        },
+        {
+            "word": "salarial",
+            "count": 2
+        },
+        {
+            "word": "segundas",
+            "count": 2
+        },
+        {
+            "word": "seguros",
+            "count": 2
+        },
+        {
+            "word": "serie",
+            "count": 2
+        },
+        {
+            "word": "servi",
+            "count": 2
+        },
+        {
+            "word": "servir",
+            "count": 2
+        },
+        {
+            "word": "sexuales",
+            "count": 2
+        },
+        {
+            "word": "sido",
+            "count": 2
+        },
+        {
+            "word": "sionales",
+            "count": 2
+        },
+        {
+            "word": "sistemas",
+            "count": 2
+        },
+        {
+            "word": "sociedad",
+            "count": 2
+        },
+        {
+            "word": "sola",
+            "count": 2
+        },
+        {
+            "word": "solares",
+            "count": 2
+        },
+        {
+            "word": "soledad",
+            "count": 2
+        },
+        {
+            "word": "somos",
+            "count": 2
+        },
+        {
+            "word": "sostenibilidad",
+            "count": 2
+        },
+        {
+            "word": "suponen",
+            "count": 2
+        },
+        {
+            "word": "supuestos",
+            "count": 2
+        },
+        {
+            "word": "sustitución",
+            "count": 2
+        },
+        {
+            "word": "sustituir",
+            "count": 2
+        },
+        {
+            "word": "tablas",
+            "count": 2
+        },
+        {
+            "word": "tabúes",
+            "count": 2
+        },
+        {
+            "word": "tadas",
+            "count": 2
+        },
+        {
+            "word": "tales",
+            "count": 2
+        },
+        {
+            "word": "tanteo",
+            "count": 2
+        },
+        {
+            "word": "tarifa",
+            "count": 2
+        },
+        {
+            "word": "telecomunicaciones",
+            "count": 2
+        },
+        {
+            "word": "tendrá",
+            "count": 2
+        },
+        {
+            "word": "tenedores",
+            "count": 2
+        },
+        {
+            "word": "titular",
+            "count": 2
+        },
+        {
+            "word": "tope",
+            "count": 2
+        },
+        {
+            "word": "totalidad",
+            "count": 2
+        },
+        {
+            "word": "trabajadoras",
+            "count": 2
+        },
+        {
+            "word": "trabajando",
+            "count": 2
+        },
+        {
+            "word": "trabajar",
+            "count": 2
+        },
+        {
+            "word": "tran",
+            "count": 2
+        },
+        {
+            "word": "trámites",
+            "count": 2
+        },
+        {
+            "word": "turismo",
+            "count": 2
+        },
+        {
+            "word": "turísticas",
+            "count": 2
+        },
+        {
+            "word": "tú",
+            "count": 2
+        },
+        {
+            "word": "unidad",
+            "count": 2
+        },
+        {
+            "word": "universidad",
+            "count": 2
+        },
+        {
+            "word": "universidades",
+            "count": 2
+        },
+        {
+            "word": "usos",
+            "count": 2
+        },
+        {
+            "word": "utilicen",
+            "count": 2
+        },
+        {
+            "word": "valor",
+            "count": 2
+        },
+        {
+            "word": "veces",
+            "count": 2
+        },
+        {
+            "word": "vencimiento",
+            "count": 2
+        },
+        {
+            "word": "ventajas",
+            "count": 2
+        },
+        {
+            "word": "ventanilla",
+            "count": 2
+        },
+        {
+            "word": "vez",
+            "count": 2
+        },
+        {
+            "word": "vivir",
+            "count": 2
+        },
+        {
+            "word": "última",
+            "count": 2
+        },
+        {
+            "word": "últimas",
+            "count": 2
+        },
+        {
+            "word": "",
+            "count": 1
+        },
+        {
+            "word": "abandonen",
+            "count": 1
+        },
+        {
+            "word": "abiertos",
+            "count": 1
+        },
+        {
+            "word": "abone",
+            "count": 1
+        },
+        {
+            "word": "abono",
+            "count": 1
+        },
+        {
+            "word": "abordar",
+            "count": 1
+        },
+        {
+            "word": "aborto",
+            "count": 1
+        },
+        {
+            "word": "abriendo",
+            "count": 1
+        },
+        {
+            "word": "abrir",
+            "count": 1
+        },
+        {
+            "word": "abrirá",
+            "count": 1
+        },
+        {
+            "word": "absoluta",
+            "count": 1
+        },
+        {
+            "word": "absoluto",
+            "count": 1
+        },
+        {
+            "word": "abusos",
+            "count": 1
+        },
+        {
+            "word": "acabar",
+            "count": 1
+        },
+        {
+            "word": "acabase",
+            "count": 1
+        },
+        {
+            "word": "académico",
+            "count": 1
+        },
+        {
+            "word": "accede",
+            "count": 1
+        },
+        {
+            "word": "acceder",
+            "count": 1
+        },
+        {
+            "word": "accesible",
+            "count": 1
+        },
+        {
+            "word": "aceleración",
+            "count": 1
+        },
+        {
+            "word": "acelerar",
+            "count": 1
+        },
+        {
+            "word": "aceptar",
+            "count": 1
+        },
+        {
+            "word": "acepte",
+            "count": 1
+        },
+        {
+            "word": "acerca",
+            "count": 1
+        },
+        {
+            "word": "acomodo",
+            "count": 1
+        },
+        {
+            "word": "activa",
+            "count": 1
+        },
+        {
+            "word": "activas",
+            "count": 1
+        },
+        {
+            "word": "actores",
+            "count": 1
+        },
+        {
+            "word": "actualizadas",
+            "count": 1
+        },
+        {
+            "word": "acudir",
+            "count": 1
+        },
+        {
+            "word": "acuerdo",
+            "count": 1
+        },
+        {
+            "word": "adelantando",
+            "count": 1
+        },
+        {
+            "word": "adelantar",
+            "count": 1
+        },
+        {
+            "word": "adelante",
+            "count": 1
+        },
+        {
+            "word": "adhesión",
+            "count": 1
+        },
+        {
+            "word": "adminis",
+            "count": 1
+        },
+        {
+            "word": "administrativa",
+            "count": 1
+        },
+        {
+            "word": "adolescencia",
+            "count": 1
+        },
+        {
+            "word": "adoptar",
+            "count": 1
+        },
+        {
+            "word": "adquiera",
+            "count": 1
+        },
+        {
+            "word": "adquieran",
+            "count": 1
+        },
+        {
+            "word": "adquirirán",
+            "count": 1
+        },
+        {
+            "word": "adultas",
+            "count": 1
+        },
+        {
+            "word": "adultos",
+            "count": 1
+        },
+        {
+            "word": "aerotermia",
+            "count": 1
+        },
+        {
+            "word": "afectan",
+            "count": 1
+        },
+        {
+            "word": "afectarán",
+            "count": 1
+        },
+        {
+            "word": "afecten",
+            "count": 1
+        },
+        {
+            "word": "afectiva",
+            "count": 1
+        },
+        {
+            "word": "afrontamiento",
+            "count": 1
+        },
+        {
+            "word": "afrontar",
+            "count": 1
+        },
+        {
+            "word": "agencia",
+            "count": 1
+        },
+        {
+            "word": "agencias",
+            "count": 1
+        },
+        {
+            "word": "agilizarán",
+            "count": 1
+        },
+        {
+            "word": "agresión",
+            "count": 1
+        },
+        {
+            "word": "agua",
+            "count": 1
+        },
+        {
+            "word": "ahora",
+            "count": 1
+        },
+        {
+            "word": "ahorrar",
+            "count": 1
+        },
+        {
+            "word": "ahí",
+            "count": 1
+        },
+        {
+            "word": "alberga",
+            "count": 1
+        },
+        {
+            "word": "allá",
+            "count": 1
+        },
+        {
+            "word": "alojamientos",
+            "count": 1
+        },
+        {
+            "word": "alternativas",
+            "count": 1
+        },
+        {
+            "word": "alternativo",
+            "count": 1
+        },
+        {
+            "word": "alumna",
+            "count": 1
+        },
+        {
+            "word": "amazon",
+            "count": 1
+        },
+        {
+            "word": "ambiciosa",
+            "count": 1
+        },
+        {
+            "word": "ambicioso",
+            "count": 1
+        },
+        {
+            "word": "ambientales",
+            "count": 1
+        },
+        {
+            "word": "ambulatorio",
+            "count": 1
+        },
+        {
+            "word": "amplia",
+            "count": 1
+        },
+        {
+            "word": "ampliamente",
+            "count": 1
+        },
+        {
+            "word": "ampliarán",
+            "count": 1
+        },
+        {
+            "word": "ancha",
+            "count": 1
+        },
+        {
+            "word": "ancho",
+            "count": 1
+        },
+        {
+            "word": "ante",
+            "count": 1
+        },
+        {
+            "word": "anteriormente",
+            "count": 1
+        },
+        {
+            "word": "anticonceptivas",
+            "count": 1
+        },
+        {
+            "word": "antidistributivo",
+            "count": 1
+        },
+        {
+            "word": "antirrumores",
+            "count": 1
+        },
+        {
+            "word": "apar",
+            "count": 1
+        },
+        {
+            "word": "aparcamiento",
+            "count": 1
+        },
+        {
+            "word": "aparte",
+            "count": 1
+        },
+        {
+            "word": "aplausos",
+            "count": 1
+        },
+        {
+            "word": "apli",
+            "count": 1
+        },
+        {
+            "word": "aplicable",
+            "count": 1
+        },
+        {
+            "word": "aplicados",
+            "count": 1
+        },
+        {
+            "word": "aplicando",
+            "count": 1
+        },
+        {
+            "word": "aplicar",
+            "count": 1
+        },
+        {
+            "word": "aplicarse",
+            "count": 1
+        },
+        {
+            "word": "aplicarían",
+            "count": 1
+        },
+        {
+            "word": "apoyando",
+            "count": 1
+        },
+        {
+            "word": "aprendido",
+            "count": 1
+        },
+        {
+            "word": "aprobará",
+            "count": 1
+        },
+        {
+            "word": "aprovechando",
+            "count": 1
+        },
+        {
+            "word": "aprovechar",
+            "count": 1
+        },
+        {
+            "word": "apueste",
+            "count": 1
+        },
+        {
+            "word": "aragón",
+            "count": 1
+        },
+        {
+            "word": "archipiélagos",
+            "count": 1
+        },
+        {
+            "word": "archivo",
+            "count": 1
+        },
+        {
+            "word": "arquitectura",
+            "count": 1
+        },
+        {
+            "word": "arrendamiento",
+            "count": 1
+        },
+        {
+            "word": "arrendataria",
+            "count": 1
+        },
+        {
+            "word": "articula",
+            "count": 1
+        },
+        {
+            "word": "artificialmente",
+            "count": 1
+        },
+        {
+            "word": "asequibles",
+            "count": 1
+        },
+        {
+            "word": "asignará",
+            "count": 1
+        },
+        {
+            "word": "asignaturas",
+            "count": 1
+        },
+        {
+            "word": "asis",
+            "count": 1
+        },
+        {
+            "word": "asistida",
+            "count": 1
+        },
+        {
+            "word": "asociaciones",
+            "count": 1
+        },
+        {
+            "word": "asociado",
+            "count": 1
+        },
+        {
+            "word": "aten",
+            "count": 1
+        },
+        {
+            "word": "atienden",
+            "count": 1
+        },
+        {
+            "word": "atractivos",
+            "count": 1
+        },
+        {
+            "word": "atrás",
+            "count": 1
+        },
+        {
+            "word": "aumentará",
+            "count": 1
+        },
+        {
+            "word": "aumente",
+            "count": 1
+        },
+        {
+            "word": "autogobierno",
+            "count": 1
+        },
+        {
+            "word": "automática",
+            "count": 1
+        },
+        {
+            "word": "autónoma",
+            "count": 1
+        },
+        {
+            "word": "avance",
+            "count": 1
+        },
+        {
+            "word": "avanzará",
+            "count": 1
+        },
+        {
+            "word": "averiguar",
+            "count": 1
+        },
+        {
+            "word": "ayudas",
+            "count": 1
+        },
+        {
+            "word": "ayudase",
+            "count": 1
+        },
+        {
+            "word": "azucaradas",
+            "count": 1
+        },
+        {
+            "word": "añadir",
+            "count": 1
+        },
+        {
+            "word": "aún",
+            "count": 1
+        },
+        {
+            "word": "baja",
+            "count": 1
+        },
+        {
+            "word": "bajada",
+            "count": 1
+        },
+        {
+            "word": "balears",
+            "count": 1
+        },
+        {
+            "word": "bancarias",
+            "count": 1
+        },
+        {
+            "word": "bancario",
+            "count": 1
+        },
+        {
+            "word": "banda",
+            "count": 1
+        },
+        {
+            "word": "baratos",
+            "count": 1
+        },
+        {
+            "word": "basado",
+            "count": 1
+        },
+        {
+            "word": "basuras",
+            "count": 1
+        },
+        {
+            "word": "bcn",
+            "count": 1
+        },
+        {
+            "word": "bebidas",
+            "count": 1
+        },
+        {
+            "word": "beneficiará",
+            "count": 1
+        },
+        {
+            "word": "beneficiándonos",
+            "count": 1
+        },
+        {
+            "word": "bici",
+            "count": 1
+        },
+        {
+            "word": "bicicletas",
+            "count": 1
+        },
+        {
+            "word": "bienes",
+            "count": 1
+        },
+        {
+            "word": "biría",
+            "count": 1
+        },
+        {
+            "word": "blecimiento",
+            "count": 1
+        },
+        {
+            "word": "bolsas",
+            "count": 1
+        },
+        {
+            "word": "bombas",
+            "count": 1
+        },
+        {
+            "word": "boni",
+            "count": 1
+        },
+        {
+            "word": "bonifica",
+            "count": 1
+        },
+        {
+            "word": "boración",
+            "count": 1
+        },
+        {
+            "word": "botella",
+            "count": 1
+        },
+        {
+            "word": "brar",
+            "count": 1
+        },
+        {
+            "word": "brindará",
+            "count": 1
+        },
+        {
+            "word": "brújula",
+            "count": 1
+        },
+        {
+            "word": "bucodental",
+            "count": 1
+        },
+        {
+            "word": "buena",
+            "count": 1
+        },
+        {
+            "word": "buitre",
+            "count": 1
+        },
+        {
+            "word": "buscar",
+            "count": 1
+        },
+        {
+            "word": "buscaría",
+            "count": 1
+        },
+        {
+            "word": "básica",
+            "count": 1
+        },
+        {
+            "word": "búsquedas",
+            "count": 1
+        },
+        {
+            "word": "c",
+            "count": 1
+        },
+        {
+            "word": "cabe",
+            "count": 1
+        },
+        {
+            "word": "cabida",
+            "count": 1
+        },
+        {
+            "word": "cabildos",
+            "count": 1
+        },
+        {
+            "word": "cadas",
+            "count": 1
+        },
+        {
+            "word": "caducando",
+            "count": 1
+        },
+        {
+            "word": "caducar",
+            "count": 1
+        },
+        {
+            "word": "cafetería",
+            "count": 1
+        },
+        {
+            "word": "calcular",
+            "count": 1
+        },
+        {
+            "word": "calefacción",
+            "count": 1
+        },
+        {
+            "word": "cambie",
+            "count": 1
+        },
+        {
+            "word": "camente",
+            "count": 1
+        },
+        {
+            "word": "camentos",
+            "count": 1
+        },
+        {
+            "word": "caminar",
+            "count": 1
+        },
+        {
+            "word": "campamentos",
+            "count": 1
+        },
+        {
+            "word": "campaña",
+            "count": 1
+        },
+        {
+            "word": "campañas",
+            "count": 1
+        },
+        {
+            "word": "capacitación",
+            "count": 1
+        },
+        {
+            "word": "cara",
+            "count": 1
+        },
+        {
+            "word": "carburantes",
+            "count": 1
+        },
+        {
+            "word": "carencias",
+            "count": 1
+        },
+        {
+            "word": "cargará",
+            "count": 1
+        },
+        {
+            "word": "carrera",
+            "count": 1
+        },
+        {
+            "word": "carril",
+            "count": 1
+        },
+        {
+            "word": "carán",
+            "count": 1
+        },
+        {
+            "word": "castigados",
+            "count": 1
+        },
+        {
+            "word": "castilla",
+            "count": 1
+        },
+        {
+            "word": "cataluña",
+            "count": 1
+        },
+        {
+            "word": "categorización",
+            "count": 1
+        },
+        {
+            "word": "causa",
+            "count": 1
+        },
+        {
+            "word": "causadas",
+            "count": 1
+        },
+        {
+            "word": "caído",
+            "count": 1
+        },
+        {
+            "word": "ceder",
+            "count": 1
+        },
+        {
+            "word": "cemento",
+            "count": 1
+        },
+        {
+            "word": "central",
+            "count": 1
+        },
+        {
+            "word": "centrales",
+            "count": 1
+        },
+        {
+            "word": "centralizados",
+            "count": 1
+        },
+        {
+            "word": "cesión",
+            "count": 1
+        },
+        {
+            "word": "cesta",
+            "count": 1
+        },
+        {
+            "word": "ceuta",
+            "count": 1
+        },
+        {
+            "word": "chollo",
+            "count": 1
+        },
+        {
+            "word": "choque",
+            "count": 1
+        },
+        {
+            "word": "cialidades",
+            "count": 1
+        },
+        {
+            "word": "cialmente",
+            "count": 1
+        },
+        {
+            "word": "cias",
+            "count": 1
+        },
+        {
+            "word": "ciclo",
+            "count": 1
+        },
+        {
+            "word": "cierre",
+            "count": 1
+        },
+        {
+            "word": "cierta",
+            "count": 1
+        },
+        {
+            "word": "cierto",
+            "count": 1
+        },
+        {
+            "word": "cionan",
+            "count": 1
+        },
+        {
+            "word": "cipal",
+            "count": 1
+        },
+        {
+            "word": "cipales",
+            "count": 1
+        },
+        {
+            "word": "cipar",
+            "count": 1
+        },
+        {
+            "word": "circuito",
+            "count": 1
+        },
+        {
+            "word": "ciudad",
+            "count": 1
+        },
+        {
+            "word": "ciudadana",
+            "count": 1
+        },
+        {
+            "word": "ciudadanas",
+            "count": 1
+        },
+        {
+            "word": "ciudadanos",
+            "count": 1
+        },
+        {
+            "word": "claras",
+            "count": 1
+        },
+        {
+            "word": "claro",
+            "count": 1
+        },
+        {
+            "word": "clave",
+            "count": 1
+        },
+        {
+            "word": "cobrar",
+            "count": 1
+        },
+        {
+            "word": "cocinas",
+            "count": 1
+        },
+        {
+            "word": "cognitiva",
+            "count": 1
+        },
+        {
+            "word": "coherente",
+            "count": 1
+        },
+        {
+            "word": "coherentes",
+            "count": 1
+        },
+        {
+            "word": "cola",
+            "count": 1
+        },
+        {
+            "word": "colaboración",
+            "count": 1
+        },
+        {
+            "word": "colaborasen",
+            "count": 1
+        },
+        {
+            "word": "colec",
+            "count": 1
+        },
+        {
+            "word": "colectivos",
+            "count": 1
+        },
+        {
+            "word": "colegios",
+            "count": 1
+        },
+        {
+            "word": "colocado",
+            "count": 1
+        },
+        {
+            "word": "colocar",
+            "count": 1
+        },
+        {
+            "word": "coloquiales",
+            "count": 1
+        },
+        {
+            "word": "comarcas",
+            "count": 1
+        },
+        {
+            "word": "combustibles",
+            "count": 1
+        },
+        {
+            "word": "comercialización",
+            "count": 1
+        },
+        {
+            "word": "comisiones",
+            "count": 1
+        },
+        {
+            "word": "compartidas",
+            "count": 1
+        },
+        {
+            "word": "compartido",
+            "count": 1
+        },
+        {
+            "word": "compatible",
+            "count": 1
+        },
+        {
+            "word": "compensación",
+            "count": 1
+        },
+        {
+            "word": "competenciales",
+            "count": 1
+        },
+        {
+            "word": "competitiva",
+            "count": 1
+        },
+        {
+            "word": "compleja",
+            "count": 1
+        },
+        {
+            "word": "complejo",
+            "count": 1
+        },
+        {
+            "word": "complementarían",
+            "count": 1
+        },
+        {
+            "word": "completamente",
+            "count": 1
+        },
+        {
+            "word": "compo",
+            "count": 1
+        },
+        {
+            "word": "comprar",
+            "count": 1
+        },
+        {
+            "word": "compraventa",
+            "count": 1
+        },
+        {
+            "word": "comprender",
+            "count": 1
+        },
+        {
+            "word": "computará",
+            "count": 1
+        },
+        {
+            "word": "comu",
+            "count": 1
+        },
+        {
+            "word": "comunes",
+            "count": 1
+        },
+        {
+            "word": "comuni",
+            "count": 1
+        },
+        {
+            "word": "común",
+            "count": 1
+        },
+        {
+            "word": "concentración",
+            "count": 1
+        },
+        {
+            "word": "concentrada",
+            "count": 1
+        },
+        {
+            "word": "concepto",
+            "count": 1
+        },
+        {
+            "word": "concertación",
+            "count": 1
+        },
+        {
+            "word": "concertados",
+            "count": 1
+        },
+        {
+            "word": "conci",
+            "count": 1
+        },
+        {
+            "word": "conciencia",
+            "count": 1
+        },
+        {
+            "word": "concretas",
+            "count": 1
+        },
+        {
+            "word": "concretos",
+            "count": 1
+        },
+        {
+            "word": "condición",
+            "count": 1
+        },
+        {
+            "word": "conectada",
+            "count": 1
+        },
+        {
+            "word": "conectados",
+            "count": 1
+        },
+        {
+            "word": "conectividad",
+            "count": 1
+        },
+        {
+            "word": "conexión",
+            "count": 1
+        },
+        {
+            "word": "conformar",
+            "count": 1
+        },
+        {
+            "word": "conforme",
+            "count": 1
+        },
+        {
+            "word": "confort",
+            "count": 1
+        },
+        {
+            "word": "conquis",
+            "count": 1
+        },
+        {
+            "word": "conquistados",
+            "count": 1
+        },
+        {
+            "word": "conscientes",
+            "count": 1
+        },
+        {
+            "word": "conseguirla",
+            "count": 1
+        },
+        {
+            "word": "consejerías",
+            "count": 1
+        },
+        {
+            "word": "consells",
+            "count": 1
+        },
+        {
+            "word": "conser",
+            "count": 1
+        },
+        {
+            "word": "conside",
+            "count": 1
+        },
+        {
+            "word": "considerable",
+            "count": 1
+        },
+        {
+            "word": "considerar",
+            "count": 1
+        },
+        {
+            "word": "consiga",
+            "count": 1
+        },
+        {
+            "word": "consigamos",
+            "count": 1
+        },
+        {
+            "word": "consistirán",
+            "count": 1
+        },
+        {
+            "word": "consolidar",
+            "count": 1
+        },
+        {
+            "word": "constaría",
+            "count": 1
+        },
+        {
+            "word": "construcciones",
+            "count": 1
+        },
+        {
+            "word": "construido",
+            "count": 1
+        },
+        {
+            "word": "construir",
+            "count": 1
+        },
+        {
+            "word": "contaminación",
+            "count": 1
+        },
+        {
+            "word": "contenidas",
+            "count": 1
+        },
+        {
+            "word": "contratar",
+            "count": 1
+        },
+        {
+            "word": "contribuir",
+            "count": 1
+        },
+        {
+            "word": "control",
+            "count": 1
+        },
+        {
+            "word": "controles",
+            "count": 1
+        },
+        {
+            "word": "convencional",
+            "count": 1
+        },
+        {
+            "word": "convendría",
+            "count": 1
+        },
+        {
+            "word": "convenio",
+            "count": 1
+        },
+        {
+            "word": "conver",
+            "count": 1
+        },
+        {
+            "word": "convertirse",
+            "count": 1
+        },
+        {
+            "word": "coordinen",
+            "count": 1
+        },
+        {
+            "word": "copago",
+            "count": 1
+        },
+        {
+            "word": "corres",
+            "count": 1
+        },
+        {
+            "word": "correspondan",
+            "count": 1
+        },
+        {
+            "word": "corresponde",
+            "count": 1
+        },
+        {
+            "word": "corresponderán",
+            "count": 1
+        },
+        {
+            "word": "cosas",
+            "count": 1
+        },
+        {
+            "word": "costeras",
+            "count": 1
+        },
+        {
+            "word": "costes",
+            "count": 1
+        },
+        {
+            "word": "coyuntura",
+            "count": 1
+        },
+        {
+            "word": "crea",
+            "count": 1
+        },
+        {
+            "word": "creciente",
+            "count": 1
+        },
+        {
+            "word": "criterio",
+            "count": 1
+        },
+        {
+            "word": "cruce",
+            "count": 1
+        },
+        {
+            "word": "cuadrados",
+            "count": 1
+        },
+        {
+            "word": "cuales",
+            "count": 1
+        },
+        {
+            "word": "cuantía",
+            "count": 1
+        },
+        {
+            "word": "cuantías",
+            "count": 1
+        },
+        {
+            "word": "cuasi",
+            "count": 1
+        },
+        {
+            "word": "cubiertas",
+            "count": 1
+        },
+        {
+            "word": "cubrir",
+            "count": 1
+        },
+        {
+            "word": "cubrirá",
+            "count": 1
+        },
+        {
+            "word": "cuellos",
+            "count": 1
+        },
+        {
+            "word": "cuentan",
+            "count": 1
+        },
+        {
+            "word": "cuerpos",
+            "count": 1
+        },
+        {
+            "word": "cuidado",
+            "count": 1
+        },
+        {
+            "word": "cultural",
+            "count": 1
+        },
+        {
+            "word": "cuotas",
+            "count": 1
+        },
+        {
+            "word": "cursar",
+            "count": 1
+        },
+        {
+            "word": "cuya",
+            "count": 1
+        },
+        {
+            "word": "daciones",
+            "count": 1
+        },
+        {
+            "word": "dades",
+            "count": 1
+        },
+        {
+            "word": "debajo",
+            "count": 1
+        },
+        {
+            "word": "deben",
+            "count": 1
+        },
+        {
+            "word": "deberán",
+            "count": 1
+        },
+        {
+            "word": "debido",
+            "count": 1
+        },
+        {
+            "word": "deci",
+            "count": 1
+        },
+        {
+            "word": "decidida",
+            "count": 1
+        },
+        {
+            "word": "decisiones",
+            "count": 1
+        },
+        {
+            "word": "decisión",
+            "count": 1
+        },
+        {
+            "word": "dedi",
+            "count": 1
+        },
+        {
+            "word": "dedicada",
+            "count": 1
+        },
+        {
+            "word": "definición",
+            "count": 1
+        },
+        {
+            "word": "degra",
+            "count": 1
+        },
+        {
+            "word": "dejar",
+            "count": 1
+        },
+        {
+            "word": "delicadas",
+            "count": 1
+        },
+        {
+            "word": "delinear",
+            "count": 1
+        },
+        {
+            "word": "demasiado",
+            "count": 1
+        },
+        {
+            "word": "demos",
+            "count": 1
+        },
+        {
+            "word": "demás",
+            "count": 1
+        },
+        {
+            "word": "dencial",
+            "count": 1
+        },
+        {
+            "word": "dencias",
+            "count": 1
+        },
+        {
+            "word": "depen",
+            "count": 1
+        },
+        {
+            "word": "dependen",
+            "count": 1
+        },
+        {
+            "word": "dependiente",
+            "count": 1
+        },
+        {
+            "word": "deporte",
+            "count": 1
+        },
+        {
+            "word": "deportivas",
+            "count": 1
+        },
+        {
+            "word": "deportivos",
+            "count": 1
+        },
+        {
+            "word": "deprimidas",
+            "count": 1
+        },
+        {
+            "word": "deros",
+            "count": 1
+        },
+        {
+            "word": "derá",
+            "count": 1
+        },
+        {
+            "word": "desahucio",
+            "count": 1
+        },
+        {
+            "word": "desalojar",
+            "count": 1
+        },
+        {
+            "word": "desarrollada",
+            "count": 1
+        },
+        {
+            "word": "desarrollado",
+            "count": 1
+        },
+        {
+            "word": "desarrollando",
+            "count": 1
+        },
+        {
+            "word": "desarrollaremos",
+            "count": 1
+        },
+        {
+            "word": "desarrollo",
+            "count": 1
+        },
+        {
+            "word": "desatendido",
+            "count": 1
+        },
+        {
+            "word": "descanso",
+            "count": 1
+        },
+        {
+            "word": "descarbonización",
+            "count": 1
+        },
+        {
+            "word": "deseen",
+            "count": 1
+        },
+        {
+            "word": "desempleo",
+            "count": 1
+        },
+        {
+            "word": "desgracia",
+            "count": 1
+        },
+        {
+            "word": "deshabi",
+            "count": 1
+        },
+        {
+            "word": "desmontar",
+            "count": 1
+        },
+        {
+            "word": "desocupación",
+            "count": 1
+        },
+        {
+            "word": "despersonalizados",
+            "count": 1
+        },
+        {
+            "word": "desplacen",
+            "count": 1
+        },
+        {
+            "word": "desplazarse",
+            "count": 1
+        },
+        {
+            "word": "despoblación",
+            "count": 1
+        },
+        {
+            "word": "despobladas",
+            "count": 1
+        },
+        {
+            "word": "desprivatizada",
+            "count": 1
+        },
+        {
+            "word": "destacar",
+            "count": 1
+        },
+        {
+            "word": "destinadas",
+            "count": 1
+        },
+        {
+            "word": "detallado",
+            "count": 1
+        },
+        {
+            "word": "deter",
+            "count": 1
+        },
+        {
+            "word": "determinadas",
+            "count": 1
+        },
+        {
+            "word": "determinar",
+            "count": 1
+        },
+        {
+            "word": "devolver",
+            "count": 1
+        },
+        {
+            "word": "diatamente",
+            "count": 1
+        },
+        {
+            "word": "dicho",
+            "count": 1
+        },
+        {
+            "word": "dida",
+            "count": 1
+        },
+        {
+            "word": "diente",
+            "count": 1
+        },
+        {
+            "word": "diferencia",
+            "count": 1
+        },
+        {
+            "word": "diferencias",
+            "count": 1
+        },
+        {
+            "word": "diferente",
+            "count": 1
+        },
+        {
+            "word": "difusión",
+            "count": 1
+        },
+        {
+            "word": "digitales",
+            "count": 1
+        },
+        {
+            "word": "dimensión",
+            "count": 1
+        },
+        {
+            "word": "dinamarca",
+            "count": 1
+        },
+        {
+            "word": "dinamizar",
+            "count": 1
+        },
+        {
+            "word": "dinero",
+            "count": 1
+        },
+        {
+            "word": "direcciones",
+            "count": 1
+        },
+        {
+            "word": "dirigida",
+            "count": 1
+        },
+        {
+            "word": "dirigido",
+            "count": 1
+        },
+        {
+            "word": "dirigidos",
+            "count": 1
+        },
+        {
+            "word": "dirigir",
+            "count": 1
+        },
+        {
+            "word": "dirigirse",
+            "count": 1
+        },
+        {
+            "word": "discapacidad",
+            "count": 1
+        },
+        {
+            "word": "discriminación",
+            "count": 1
+        },
+        {
+            "word": "diseñar",
+            "count": 1
+        },
+        {
+            "word": "diseñará",
+            "count": 1
+        },
+        {
+            "word": "disfrute",
+            "count": 1
+        },
+        {
+            "word": "disponen",
+            "count": 1
+        },
+        {
+            "word": "disponga",
+            "count": 1
+        },
+        {
+            "word": "distintas",
+            "count": 1
+        },
+        {
+            "word": "distrito",
+            "count": 1
+        },
+        {
+            "word": "diversas",
+            "count": 1
+        },
+        {
+            "word": "diverso",
+            "count": 1
+        },
+        {
+            "word": "dividirá",
+            "count": 1
+        },
+        {
+            "word": "domés",
+            "count": 1
+        },
+        {
+            "word": "doméstica",
+            "count": 1
+        },
+        {
+            "word": "donaciones",
+            "count": 1
+        },
+        {
+            "word": "dotadas",
+            "count": 1
+        },
+        {
+            "word": "dotado",
+            "count": 1
+        },
+        {
+            "word": "dotando",
+            "count": 1
+        },
+        {
+            "word": "dotar",
+            "count": 1
+        },
+        {
+            "word": "dronados",
+            "count": 1
+        },
+        {
+            "word": "duración",
+            "count": 1
+        },
+        {
+            "word": "dé",
+            "count": 1
+        },
+        {
+            "word": "décima",
+            "count": 1
+        },
+        {
+            "word": "eclesiásticos",
+            "count": 1
+        },
+        {
+            "word": "ecológi",
+            "count": 1
+        },
+        {
+            "word": "económica",
+            "count": 1
+        },
+        {
+            "word": "ecosistema",
+            "count": 1
+        },
+        {
+            "word": "ecosistemas",
+            "count": 1
+        },
+        {
+            "word": "edifi",
+            "count": 1
+        },
+        {
+            "word": "educativa",
+            "count": 1
+        },
+        {
+            "word": "educativo",
+            "count": 1
+        },
+        {
+            "word": "eduque",
+            "count": 1
+        },
+        {
+            "word": "efecto",
+            "count": 1
+        },
+        {
+            "word": "efectos",
+            "count": 1
+        },
+        {
+            "word": "ejecución",
+            "count": 1
+        },
+        {
+            "word": "ejercer",
+            "count": 1
+        },
+        {
+            "word": "ejercicio",
+            "count": 1
+        },
+        {
+            "word": "electorales",
+            "count": 1
+        },
+        {
+            "word": "electricidad",
+            "count": 1
+        },
+        {
+            "word": "electrificadas",
+            "count": 1
+        },
+        {
+            "word": "elevada",
+            "count": 1
+        },
+        {
+            "word": "eléctricas",
+            "count": 1
+        },
+        {
+            "word": "eléctricos",
+            "count": 1
+        },
+        {
+            "word": "emergente",
+            "count": 1
+        },
+        {
+            "word": "emigrar",
+            "count": 1
+        },
+        {
+            "word": "empa",
+            "count": 1
+        },
+        {
+            "word": "empezaría",
+            "count": 1
+        },
+        {
+            "word": "empiece",
+            "count": 1
+        },
+        {
+            "word": "empresa",
+            "count": 1
+        },
+        {
+            "word": "empresariales",
+            "count": 1
+        },
+        {
+            "word": "enajenación",
+            "count": 1
+        },
+        {
+            "word": "encontrados",
+            "count": 1
+        },
+        {
+            "word": "encontramos",
+            "count": 1
+        },
+        {
+            "word": "encontrar",
+            "count": 1
+        },
+        {
+            "word": "encuentre",
+            "count": 1
+        },
+        {
+            "word": "ener",
+            "count": 1
+        },
+        {
+            "word": "enfermeros",
+            "count": 1
+        },
+        {
+            "word": "enorme",
+            "count": 1
+        },
+        {
+            "word": "enormemente",
+            "count": 1
+        },
+        {
+            "word": "enormes",
+            "count": 1
+        },
+        {
+            "word": "enseñanza",
+            "count": 1
+        },
+        {
+            "word": "entender",
+            "count": 1
+        },
+        {
+            "word": "entenderse",
+            "count": 1
+        },
+        {
+            "word": "entendiendo",
+            "count": 1
+        },
+        {
+            "word": "entornos",
+            "count": 1
+        },
+        {
+            "word": "entrar",
+            "count": 1
+        },
+        {
+            "word": "entregando",
+            "count": 1
+        },
+        {
+            "word": "entregas",
+            "count": 1
+        },
+        {
+            "word": "equili",
+            "count": 1
+        },
+        {
+            "word": "erradicar",
+            "count": 1
+        },
+        {
+            "word": "esas",
+            "count": 1
+        },
+        {
+            "word": "escriben",
+            "count": 1
+        },
+        {
+            "word": "ese",
+            "count": 1
+        },
+        {
+            "word": "esfuerzos",
+            "count": 1
+        },
+        {
+            "word": "españolas",
+            "count": 1
+        },
+        {
+            "word": "españoles",
+            "count": 1
+        },
+        {
+            "word": "especializada",
+            "count": 1
+        },
+        {
+            "word": "especializado",
+            "count": 1
+        },
+        {
+            "word": "especializar",
+            "count": 1
+        },
+        {
+            "word": "especulativo",
+            "count": 1
+        },
+        {
+            "word": "especí",
+            "count": 1
+        },
+        {
+            "word": "específica",
+            "count": 1
+        },
+        {
+            "word": "específicamente",
+            "count": 1
+        },
+        {
+            "word": "específicas",
+            "count": 1
+        },
+        {
+            "word": "espera",
+            "count": 1
+        },
+        {
+            "word": "esquema",
+            "count": 1
+        },
+        {
+            "word": "estabilidad",
+            "count": 1
+        },
+        {
+            "word": "estados",
+            "count": 1
+        },
+        {
+            "word": "estamos",
+            "count": 1
+        },
+        {
+            "word": "estar",
+            "count": 1
+        },
+        {
+            "word": "estatutos",
+            "count": 1
+        },
+        {
+            "word": "estival",
+            "count": 1
+        },
+        {
+            "word": "estratégicos",
+            "count": 1
+        },
+        {
+            "word": "estructura",
+            "count": 1
+        },
+        {
+            "word": "estructural",
+            "count": 1
+        },
+        {
+            "word": "estudiar",
+            "count": 1
+        },
+        {
+            "word": "estudiará",
+            "count": 1
+        },
+        {
+            "word": "estudios",
+            "count": 1
+        },
+        {
+            "word": "estándares",
+            "count": 1
+        },
+        {
+            "word": "estén",
+            "count": 1
+        },
+        {
+            "word": "estética",
+            "count": 1
+        },
+        {
+            "word": "euro",
+            "count": 1
+        },
+        {
+            "word": "europeo",
+            "count": 1
+        },
+        {
+            "word": "europeos",
+            "count": 1
+        },
+        {
+            "word": "euríbor",
+            "count": 1
+        },
+        {
+            "word": "euskadi",
+            "count": 1
+        },
+        {
+            "word": "evaluación",
+            "count": 1
+        },
+        {
+            "word": "evaluar",
+            "count": 1
+        },
+        {
+            "word": "evidentemente",
+            "count": 1
+        },
+        {
+            "word": "evita",
+            "count": 1
+        },
+        {
+            "word": "evite",
+            "count": 1
+        },
+        {
+            "word": "exactamente",
+            "count": 1
+        },
+        {
+            "word": "excepciones",
+            "count": 1
+        },
+        {
+            "word": "exclusión",
+            "count": 1
+        },
+        {
+            "word": "exención",
+            "count": 1
+        },
+        {
+            "word": "exhaustivo",
+            "count": 1
+        },
+        {
+            "word": "exista",
+            "count": 1
+        },
+        {
+            "word": "existan",
+            "count": 1
+        },
+        {
+            "word": "existir",
+            "count": 1
+        },
+        {
+            "word": "existirá",
+            "count": 1
+        },
+        {
+            "word": "existirán",
+            "count": 1
+        },
+        {
+            "word": "expareja",
+            "count": 1
+        },
+        {
+            "word": "exploren",
+            "count": 1
+        },
+        {
+            "word": "explotación",
+            "count": 1
+        },
+        {
+            "word": "exponen",
+            "count": 1
+        },
+        {
+            "word": "expresión",
+            "count": 1
+        },
+        {
+            "word": "extender",
+            "count": 1
+        },
+        {
+            "word": "extenderse",
+            "count": 1
+        },
+        {
+            "word": "extensiones",
+            "count": 1
+        },
+        {
+            "word": "externalización",
+            "count": 1
+        },
+        {
+            "word": "extraescolares",
+            "count": 1
+        },
+        {
+            "word": "extrema",
+            "count": 1
+        },
+        {
+            "word": "facilitando",
+            "count": 1
+        },
+        {
+            "word": "factible",
+            "count": 1
+        },
+        {
+            "word": "factu",
+            "count": 1
+        },
+        {
+            "word": "facturación",
+            "count": 1
+        },
+        {
+            "word": "facturan",
+            "count": 1
+        },
+        {
+            "word": "familiares",
+            "count": 1
+        },
+        {
+            "word": "farmacológico",
+            "count": 1
+        },
+        {
+            "word": "fases",
+            "count": 1
+        },
+        {
+            "word": "favorecer",
+            "count": 1
+        },
+        {
+            "word": "fecha",
+            "count": 1
+        },
+        {
+            "word": "femi",
+            "count": 1
+        },
+        {
+            "word": "feminización",
+            "count": 1
+        },
+        {
+            "word": "fenómeno",
+            "count": 1
+        },
+        {
+            "word": "ferroviarias",
+            "count": 1
+        },
+        {
+            "word": "ficada",
+            "count": 1
+        },
+        {
+            "word": "ficos",
+            "count": 1
+        },
+        {
+            "word": "figuras",
+            "count": 1
+        },
+        {
+            "word": "fijado",
+            "count": 1
+        },
+        {
+            "word": "fijar",
+            "count": 1
+        },
+        {
+            "word": "finales",
+            "count": 1
+        },
+        {
+            "word": "financia",
+            "count": 1
+        },
+        {
+            "word": "financiará",
+            "count": 1
+        },
+        {
+            "word": "financiera",
+            "count": 1
+        },
+        {
+            "word": "financiero",
+            "count": 1
+        },
+        {
+            "word": "firmen",
+            "count": 1
+        },
+        {
+            "word": "fiscales",
+            "count": 1
+        },
+        {
+            "word": "fisio",
+            "count": 1
+        },
+        {
+            "word": "flipping",
+            "count": 1
+        },
+        {
+            "word": "fomenten",
+            "count": 1
+        },
+        {
+            "word": "forense",
+            "count": 1
+        },
+        {
+            "word": "formales",
+            "count": 1
+        },
+        {
+            "word": "fortalece",
+            "count": 1
+        },
+        {
+            "word": "fortaleciendo",
+            "count": 1
+        },
+        {
+            "word": "forzar",
+            "count": 1
+        },
+        {
+            "word": "fotovoltaica",
+            "count": 1
+        },
+        {
+            "word": "frecuen",
+            "count": 1
+        },
+        {
+            "word": "frentes",
+            "count": 1
+        },
+        {
+            "word": "fuente",
+            "count": 1
+        },
+        {
+            "word": "fuentes",
+            "count": 1
+        },
+        {
+            "word": "fuerzas",
+            "count": 1
+        },
+        {
+            "word": "funcionan",
+            "count": 1
+        },
+        {
+            "word": "funcionar",
+            "count": 1
+        },
+        {
+            "word": "funcionarial",
+            "count": 1
+        },
+        {
+            "word": "funcionarias",
+            "count": 1
+        },
+        {
+            "word": "funcionarios",
+            "count": 1
+        },
+        {
+            "word": "fundación",
+            "count": 1
+        },
+        {
+            "word": "fundamental",
+            "count": 1
+        },
+        {
+            "word": "funerarios",
+            "count": 1
+        },
+        {
+            "word": "futuro",
+            "count": 1
+        },
+        {
+            "word": "futuros",
+            "count": 1
+        },
+        {
+            "word": "fácil",
+            "count": 1
+        },
+        {
+            "word": "física",
+            "count": 1
+        },
+        {
+            "word": "fósiles",
+            "count": 1
+        },
+        {
+            "word": "gais",
+            "count": 1
+        },
+        {
+            "word": "gana",
+            "count": 1
+        },
+        {
+            "word": "ganaderos",
+            "count": 1
+        },
+        {
+            "word": "garan",
+            "count": 1
+        },
+        {
+            "word": "garanticen",
+            "count": 1
+        },
+        {
+            "word": "garantizarse",
+            "count": 1
+        },
+        {
+            "word": "garantizará",
+            "count": 1
+        },
+        {
+            "word": "garantizarán",
+            "count": 1
+        },
+        {
+            "word": "garantizaría",
+            "count": 1
+        },
+        {
+            "word": "garantías",
+            "count": 1
+        },
+        {
+            "word": "gasoil",
+            "count": 1
+        },
+        {
+            "word": "gasolina",
+            "count": 1
+        },
+        {
+            "word": "generan",
+            "count": 1
+        },
+        {
+            "word": "genere",
+            "count": 1
+        },
+        {
+            "word": "gentri",
+            "count": 1
+        },
+        {
+            "word": "genéricos",
+            "count": 1
+        },
+        {
+            "word": "geográficamente",
+            "count": 1
+        },
+        {
+            "word": "gestar",
+            "count": 1
+        },
+        {
+            "word": "gestionada",
+            "count": 1
+        },
+        {
+            "word": "gidas",
+            "count": 1
+        },
+        {
+            "word": "gigante",
+            "count": 1
+        },
+        {
+            "word": "ginecológica",
+            "count": 1
+        },
+        {
+            "word": "giren",
+            "count": 1
+        },
+        {
+            "word": "grado",
+            "count": 1
+        },
+        {
+            "word": "grados",
+            "count": 1
+        },
+        {
+            "word": "grande",
+            "count": 1
+        },
+        {
+            "word": "gravamen",
+            "count": 1
+        },
+        {
+            "word": "gravar",
+            "count": 1
+        },
+        {
+            "word": "grave",
+            "count": 1
+        },
+        {
+            "word": "grifo",
+            "count": 1
+        },
+        {
+            "word": "grupos",
+            "count": 1
+        },
+        {
+            "word": "guas",
+            "count": 1
+        },
+        {
+            "word": "gusta",
+            "count": 1
+        },
+        {
+            "word": "gética",
+            "count": 1
+        },
+        {
+            "word": "haber",
+            "count": 1
+        },
+        {
+            "word": "habilitación",
+            "count": 1
+        },
+        {
+            "word": "habilitante",
+            "count": 1
+        },
+        {
+            "word": "habilitar",
+            "count": 1
+        },
+        {
+            "word": "habitacional",
+            "count": 1
+        },
+        {
+            "word": "habitan",
+            "count": 1
+        },
+        {
+            "word": "habitantes",
+            "count": 1
+        },
+        {
+            "word": "habitual",
+            "count": 1
+        },
+        {
+            "word": "hablamos",
+            "count": 1
+        },
+        {
+            "word": "hacen",
+            "count": 1
+        },
+        {
+            "word": "hacerlo",
+            "count": 1
+        },
+        {
+            "word": "haciendo",
+            "count": 1
+        },
+        {
+            "word": "hará",
+            "count": 1
+        },
+        {
+            "word": "haría",
+            "count": 1
+        },
+        {
+            "word": "hecho",
+            "count": 1
+        },
+        {
+            "word": "heterogeneidad",
+            "count": 1
+        },
+        {
+            "word": "heterogéneo",
+            "count": 1
+        },
+        {
+            "word": "hipotecas",
+            "count": 1
+        },
+        {
+            "word": "hogares",
+            "count": 1
+        },
+        {
+            "word": "hoja",
+            "count": 1
+        },
+        {
+            "word": "horas",
+            "count": 1
+        },
+        {
+            "word": "hostil",
+            "count": 1
+        },
+        {
+            "word": "hoteleras",
+            "count": 1
+        },
+        {
+            "word": "hoy",
+            "count": 1
+        },
+        {
+            "word": "humano",
+            "count": 1
+        },
+        {
+            "word": "humillante",
+            "count": 1
+        },
+        {
+            "word": "hungría",
+            "count": 1
+        },
+        {
+            "word": "hábitos",
+            "count": 1
+        },
+        {
+            "word": "identidad",
+            "count": 1
+        },
+        {
+            "word": "identificarán",
+            "count": 1
+        },
+        {
+            "word": "ideológica",
+            "count": 1
+        },
+        {
+            "word": "ido",
+            "count": 1
+        },
+        {
+            "word": "idéntica",
+            "count": 1
+        },
+        {
+            "word": "iglesia",
+            "count": 1
+        },
+        {
+            "word": "ilegal",
+            "count": 1
+        },
+        {
+            "word": "illes",
+            "count": 1
+        },
+        {
+            "word": "impago",
+            "count": 1
+        },
+        {
+            "word": "impedir",
+            "count": 1
+        },
+        {
+            "word": "impide",
+            "count": 1
+        },
+        {
+            "word": "implantación",
+            "count": 1
+        },
+        {
+            "word": "implica",
+            "count": 1
+        },
+        {
+            "word": "implicar",
+            "count": 1
+        },
+        {
+            "word": "impor",
+            "count": 1
+        },
+        {
+            "word": "importantísimos",
+            "count": 1
+        },
+        {
+            "word": "impuestos",
+            "count": 1
+        },
+        {
+            "word": "impulsada",
+            "count": 1
+        },
+        {
+            "word": "impulsar",
+            "count": 1
+        },
+        {
+            "word": "impulse",
+            "count": 1
+        },
+        {
+            "word": "inaccesibles",
+            "count": 1
+        },
+        {
+            "word": "inaplicables",
+            "count": 1
+        },
+        {
+            "word": "incluidos",
+            "count": 1
+        },
+        {
+            "word": "incluir",
+            "count": 1
+        },
+        {
+            "word": "incluirá",
+            "count": 1
+        },
+        {
+            "word": "inclusivas",
+            "count": 1
+        },
+        {
+            "word": "incluya",
+            "count": 1
+        },
+        {
+            "word": "incluye",
+            "count": 1
+        },
+        {
+            "word": "inconvenientes",
+            "count": 1
+        },
+        {
+            "word": "incorporen",
+            "count": 1
+        },
+        {
+            "word": "incrementando",
+            "count": 1
+        },
+        {
+            "word": "incremento",
+            "count": 1
+        },
+        {
+            "word": "incumpla",
+            "count": 1
+        },
+        {
+            "word": "incumplan",
+            "count": 1
+        },
+        {
+            "word": "indefinición",
+            "count": 1
+        },
+        {
+            "word": "indefinida",
+            "count": 1
+        },
+        {
+            "word": "independencia",
+            "count": 1
+        },
+        {
+            "word": "independiente",
+            "count": 1
+        },
+        {
+            "word": "independientemente",
+            "count": 1
+        },
+        {
+            "word": "individual",
+            "count": 1
+        },
+        {
+            "word": "individuales",
+            "count": 1
+        },
+        {
+            "word": "inducción",
+            "count": 1
+        },
+        {
+            "word": "indus",
+            "count": 1
+        },
+        {
+            "word": "industriales",
+            "count": 1
+        },
+        {
+            "word": "ineficiencia",
+            "count": 1
+        },
+        {
+            "word": "infantil",
+            "count": 1
+        },
+        {
+            "word": "inflación",
+            "count": 1
+        },
+        {
+            "word": "influyen",
+            "count": 1
+        },
+        {
+            "word": "infor",
+            "count": 1
+        },
+        {
+            "word": "informatizado",
+            "count": 1
+        },
+        {
+            "word": "infraatendidas",
+            "count": 1
+        },
+        {
+            "word": "infradotados",
+            "count": 1
+        },
+        {
+            "word": "infraes",
+            "count": 1
+        },
+        {
+            "word": "ingresen",
+            "count": 1
+        },
+        {
+            "word": "ingreso",
+            "count": 1
+        },
+        {
+            "word": "inicial",
+            "count": 1
+        },
+        {
+            "word": "iniciar",
+            "count": 1
+        },
+        {
+            "word": "iniciativa",
+            "count": 1
+        },
+        {
+            "word": "injusticias",
+            "count": 1
+        },
+        {
+            "word": "inme",
+            "count": 1
+        },
+        {
+            "word": "inmediata",
+            "count": 1
+        },
+        {
+            "word": "inmediatamente",
+            "count": 1
+        },
+        {
+            "word": "inmobi",
+            "count": 1
+        },
+        {
+            "word": "inmueble",
+            "count": 1
+        },
+        {
+            "word": "inmuebles",
+            "count": 1
+        },
+        {
+            "word": "innumerables",
+            "count": 1
+        },
+        {
+            "word": "inquilino",
+            "count": 1
+        },
+        {
+            "word": "insistencia",
+            "count": 1
+        },
+        {
+            "word": "inspección",
+            "count": 1
+        },
+        {
+            "word": "instala",
+            "count": 1
+        },
+        {
+            "word": "instaladas",
+            "count": 1
+        },
+        {
+            "word": "instalados",
+            "count": 1
+        },
+        {
+            "word": "instalando",
+            "count": 1
+        },
+        {
+            "word": "instalen",
+            "count": 1
+        },
+        {
+            "word": "institucionales",
+            "count": 1
+        },
+        {
+            "word": "insulares",
+            "count": 1
+        },
+        {
+            "word": "integrado",
+            "count": 1
+        },
+        {
+            "word": "integrar",
+            "count": 1
+        },
+        {
+            "word": "interanual",
+            "count": 1
+        },
+        {
+            "word": "intercultural",
+            "count": 1
+        },
+        {
+            "word": "internet",
+            "count": 1
+        },
+        {
+            "word": "interrelacionada",
+            "count": 1
+        },
+        {
+            "word": "interrelación",
+            "count": 1
+        },
+        {
+            "word": "interseccional",
+            "count": 1
+        },
+        {
+            "word": "interven",
+            "count": 1
+        },
+        {
+            "word": "introducidos",
+            "count": 1
+        },
+        {
+            "word": "introducir",
+            "count": 1
+        },
+        {
+            "word": "invasivo",
+            "count": 1
+        },
+        {
+            "word": "invasión",
+            "count": 1
+        },
+        {
+            "word": "inventario",
+            "count": 1
+        },
+        {
+            "word": "irracional",
+            "count": 1
+        },
+        {
+            "word": "italia",
+            "count": 1
+        },
+        {
+            "word": "italiana",
+            "count": 1
+        },
+        {
+            "word": "jadoras",
+            "count": 1
+        },
+        {
+            "word": "jubilado",
+            "count": 1
+        },
+        {
+            "word": "junto",
+            "count": 1
+        },
+        {
+            "word": "jurídicas",
+            "count": 1
+        },
+        {
+            "word": "justas",
+            "count": 1
+        },
+        {
+            "word": "justi",
+            "count": 1
+        },
+        {
+            "word": "laberintos",
+            "count": 1
+        },
+        {
+            "word": "laciones",
+            "count": 1
+        },
+        {
+            "word": "lación",
+            "count": 1
+        },
+        {
+            "word": "lado",
+            "count": 1
+        },
+        {
+            "word": "lanza",
+            "count": 1
+        },
+        {
+            "word": "larga",
+            "count": 1
+        },
+        {
+            "word": "largas",
+            "count": 1
+        },
+        {
+            "word": "legal",
+            "count": 1
+        },
+        {
+            "word": "legislaturas",
+            "count": 1
+        },
+        {
+            "word": "león",
+            "count": 1
+        },
+        {
+            "word": "lgbti",
+            "count": 1
+        },
+        {
+            "word": "liación",
+            "count": 1
+        },
+        {
+            "word": "liares",
+            "count": 1
+        },
+        {
+            "word": "liario",
+            "count": 1
+        },
+        {
+            "word": "lias",
+            "count": 1
+        },
+        {
+            "word": "liberen",
+            "count": 1
+        },
+        {
+            "word": "libramiento",
+            "count": 1
+        },
+        {
+            "word": "libremente",
+            "count": 1
+        },
+        {
+            "word": "libres",
+            "count": 1
+        },
+        {
+            "word": "lidades",
+            "count": 1
+        },
+        {
+            "word": "liderados",
+            "count": 1
+        },
+        {
+            "word": "liderar",
+            "count": 1
+        },
+        {
+            "word": "lideraría",
+            "count": 1
+        },
+        {
+            "word": "ligados",
+            "count": 1
+        },
+        {
+            "word": "limitaciones",
+            "count": 1
+        },
+        {
+            "word": "limitado",
+            "count": 1
+        },
+        {
+            "word": "limpieza",
+            "count": 1
+        },
+        {
+            "word": "llamamos",
+            "count": 1
+        },
+        {
+            "word": "llave",
+            "count": 1
+        },
+        {
+            "word": "llaves",
+            "count": 1
+        },
+        {
+            "word": "llenar",
+            "count": 1
+        },
+        {
+            "word": "lleva",
+            "count": 1
+        },
+        {
+            "word": "llevado",
+            "count": 1
+        },
+        {
+            "word": "llevan",
+            "count": 1
+        },
+        {
+            "word": "llevaremos",
+            "count": 1
+        },
+        {
+            "word": "llevarlas",
+            "count": 1
+        },
+        {
+            "word": "llevaría",
+            "count": 1
+        },
+        {
+            "word": "logas",
+            "count": 1
+        },
+        {
+            "word": "logos",
+            "count": 1
+        },
+        {
+            "word": "lograrlo",
+            "count": 1
+        },
+        {
+            "word": "luche",
+            "count": 1
+        },
+        {
+            "word": "lugares",
+            "count": 1
+        },
+        {
+            "word": "líneas",
+            "count": 1
+        },
+        {
+            "word": "lógico",
+            "count": 1
+        },
+        {
+            "word": "macrocentros",
+            "count": 1
+        },
+        {
+            "word": "macroinstalaciones",
+            "count": 1
+        },
+        {
+            "word": "madurez",
+            "count": 1
+        },
+        {
+            "word": "males",
+            "count": 1
+        },
+        {
+            "word": "manos",
+            "count": 1
+        },
+        {
+            "word": "mapa",
+            "count": 1
+        },
+        {
+            "word": "mar",
+            "count": 1
+        },
+        {
+            "word": "margen",
+            "count": 1
+        },
+        {
+            "word": "mascarillas",
+            "count": 1
+        },
+        {
+            "word": "masificación",
+            "count": 1
+        },
+        {
+            "word": "masificado",
+            "count": 1
+        },
+        {
+            "word": "masivo",
+            "count": 1
+        },
+        {
+            "word": "material",
+            "count": 1
+        },
+        {
+            "word": "matrícula",
+            "count": 1
+        },
+        {
+            "word": "maximice",
+            "count": 1
+        },
+        {
+            "word": "meca",
+            "count": 1
+        },
+        {
+            "word": "medi",
+            "count": 1
+        },
+        {
+            "word": "mediación",
+            "count": 1
+        },
+        {
+            "word": "medicamentos",
+            "count": 1
+        },
+        {
+            "word": "medio",
+            "count": 1
+        },
+        {
+            "word": "mejor",
+            "count": 1
+        },
+        {
+            "word": "mejore",
+            "count": 1
+        },
+        {
+            "word": "melilla",
+            "count": 1
+        },
+        {
+            "word": "memoria",
+            "count": 1
+        },
+        {
+            "word": "mencionar",
+            "count": 1
+        },
+        {
+            "word": "mencionemos",
+            "count": 1
+        },
+        {
+            "word": "menstrual",
+            "count": 1
+        },
+        {
+            "word": "mensuales",
+            "count": 1
+        },
+        {
+            "word": "mercantilizado",
+            "count": 1
+        },
+        {
+            "word": "metas",
+            "count": 1
+        },
+        {
+            "word": "metodologías",
+            "count": 1
+        },
+        {
+            "word": "metros",
+            "count": 1
+        },
+        {
+            "word": "mica",
+            "count": 1
+        },
+        {
+            "word": "micamente",
+            "count": 1
+        },
+        {
+            "word": "micas",
+            "count": 1
+        },
+        {
+            "word": "miembro",
+            "count": 1
+        },
+        {
+            "word": "miembros",
+            "count": 1
+        },
+        {
+            "word": "millón",
+            "count": 1
+        },
+        {
+            "word": "minados",
+            "count": 1
+        },
+        {
+            "word": "minis",
+            "count": 1
+        },
+        {
+            "word": "minorando",
+            "count": 1
+        },
+        {
+            "word": "mirada",
+            "count": 1
+        },
+        {
+            "word": "mixta",
+            "count": 1
+        },
+        {
+            "word": "moda",
+            "count": 1
+        },
+        {
+            "word": "modalidades",
+            "count": 1
+        },
+        {
+            "word": "modelo",
+            "count": 1
+        },
+        {
+            "word": "modestos",
+            "count": 1
+        },
+        {
+            "word": "modificaciones",
+            "count": 1
+        },
+        {
+            "word": "modificar",
+            "count": 1
+        },
+        {
+            "word": "modular",
+            "count": 1
+        },
+        {
+            "word": "motivo",
+            "count": 1
+        },
+        {
+            "word": "motivos",
+            "count": 1
+        },
+        {
+            "word": "muchas",
+            "count": 1
+        },
+        {
+            "word": "muchísimo",
+            "count": 1
+        },
+        {
+            "word": "muerte",
+            "count": 1
+        },
+        {
+            "word": "multidisciplinar",
+            "count": 1
+        },
+        {
+            "word": "multinacionales",
+            "count": 1
+        },
+        {
+            "word": "multinivel",
+            "count": 1
+        },
+        {
+            "word": "mundial",
+            "count": 1
+        },
+        {
+            "word": "mundo",
+            "count": 1
+        },
+        {
+            "word": "muni",
+            "count": 1
+        },
+        {
+            "word": "munici",
+            "count": 1
+        },
+        {
+            "word": "márgenes",
+            "count": 1
+        },
+        {
+            "word": "mínimas",
+            "count": 1
+        },
+        {
+            "word": "mínimos",
+            "count": 1
+        },
+        {
+            "word": "módulos",
+            "count": 1
+        },
+        {
+            "word": "móviles",
+            "count": 1
+        },
+        {
+            "word": "múltiples",
+            "count": 1
+        },
+        {
+            "word": "nada",
+            "count": 1
+        },
+        {
+            "word": "nadas",
+            "count": 1
+        },
+        {
+            "word": "nado",
+            "count": 1
+        },
+        {
+            "word": "nados",
+            "count": 1
+        },
+        {
+            "word": "naturales",
+            "count": 1
+        },
+        {
+            "word": "naves",
+            "count": 1
+        },
+        {
+            "word": "necesarias",
+            "count": 1
+        },
+        {
+            "word": "necesita",
+            "count": 1
+        },
+        {
+            "word": "necesitados",
+            "count": 1
+        },
+        {
+            "word": "necesitar",
+            "count": 1
+        },
+        {
+            "word": "necesite",
+            "count": 1
+        },
+        {
+            "word": "negativo",
+            "count": 1
+        },
+        {
+            "word": "negocio",
+            "count": 1
+        },
+        {
+            "word": "neoliberales",
+            "count": 1
+        },
+        {
+            "word": "nidades",
+            "count": 1
+        },
+        {
+            "word": "ninguna",
+            "count": 1
+        },
+        {
+            "word": "nistraciones",
+            "count": 1
+        },
+        {
+            "word": "niña",
+            "count": 1
+        },
+        {
+            "word": "niño",
+            "count": 1
+        },
+        {
+            "word": "norma",
+            "count": 1
+        },
+        {
+            "word": "normas",
+            "count": 1
+        },
+        {
+            "word": "normativa",
+            "count": 1
+        },
+        {
+            "word": "normativos",
+            "count": 1
+        },
+        {
+            "word": "norte",
+            "count": 1
+        },
+        {
+            "word": "nosotros",
+            "count": 1
+        },
+        {
+            "word": "nucleares",
+            "count": 1
+        },
+        {
+            "word": "nómicas",
+            "count": 1
+        },
+        {
+            "word": "objetivos",
+            "count": 1
+        },
+        {
+            "word": "objetores",
+            "count": 1
+        },
+        {
+            "word": "obligatoriamente",
+            "count": 1
+        },
+        {
+            "word": "obligatorio",
+            "count": 1
+        },
+        {
+            "word": "obra",
+            "count": 1
+        },
+        {
+            "word": "obras",
+            "count": 1
+        },
+        {
+            "word": "obste",
+            "count": 1
+        },
+        {
+            "word": "obtenga",
+            "count": 1
+        },
+        {
+            "word": "obtienen",
+            "count": 1
+        },
+        {
+            "word": "obvia",
+            "count": 1
+        },
+        {
+            "word": "obvio",
+            "count": 1
+        },
+        {
+            "word": "ocasiona",
+            "count": 1
+        },
+        {
+            "word": "ocasiones",
+            "count": 1
+        },
+        {
+            "word": "ocde",
+            "count": 1
+        },
+        {
+            "word": "ocurrido",
+            "count": 1
+        },
+        {
+            "word": "ocurrió",
+            "count": 1
+        },
+        {
+            "word": "oferta",
+            "count": 1
+        },
+        {
+            "word": "oficina",
+            "count": 1
+        },
+        {
+            "word": "ofrecerá",
+            "count": 1
+        },
+        {
+            "word": "oftalmológica",
+            "count": 1
+        },
+        {
+            "word": "oligo",
+            "count": 1
+        },
+        {
+            "word": "onu",
+            "count": 1
+        },
+        {
+            "word": "opciones",
+            "count": 1
+        },
+        {
+            "word": "operador",
+            "count": 1
+        },
+        {
+            "word": "operan",
+            "count": 1
+        },
+        {
+            "word": "operativa",
+            "count": 1
+        },
+        {
+            "word": "oportunidad",
+            "count": 1
+        },
+        {
+            "word": "oportunidades",
+            "count": 1
+        },
+        {
+            "word": "oposición",
+            "count": 1
+        },
+        {
+            "word": "opuesta",
+            "count": 1
+        },
+        {
+            "word": "orden",
+            "count": 1
+        },
+        {
+            "word": "orientación",
+            "count": 1
+        },
+        {
+            "word": "origen",
+            "count": 1
+        },
+        {
+            "word": "original",
+            "count": 1
+        },
+        {
+            "word": "oro",
+            "count": 1
+        },
+        {
+            "word": "otorgarán",
+            "count": 1
+        },
+        {
+            "word": "pacto",
+            "count": 1
+        },
+        {
+            "word": "pactos",
+            "count": 1
+        },
+        {
+            "word": "pacífico",
+            "count": 1
+        },
+        {
+            "word": "padecen",
+            "count": 1
+        },
+        {
+            "word": "pagar",
+            "count": 1
+        },
+        {
+            "word": "pagarían",
+            "count": 1
+        },
+        {
+            "word": "pague",
+            "count": 1
+        },
+        {
+            "word": "paisajes",
+            "count": 1
+        },
+        {
+            "word": "palanca",
+            "count": 1
+        },
+        {
+            "word": "pales",
+            "count": 1
+        },
+        {
+            "word": "paradas",
+            "count": 1
+        },
+        {
+            "word": "parados",
+            "count": 1
+        },
+        {
+            "word": "paralelo",
+            "count": 1
+        },
+        {
+            "word": "pareja",
+            "count": 1
+        },
+        {
+            "word": "parti",
+            "count": 1
+        },
+        {
+            "word": "participaciones",
+            "count": 1
+        },
+        {
+            "word": "particular",
+            "count": 1
+        },
+        {
+            "word": "particularmente",
+            "count": 1
+        },
+        {
+            "word": "partidas",
+            "count": 1
+        },
+        {
+            "word": "partido",
+            "count": 1
+        },
+        {
+            "word": "partiendo",
+            "count": 1
+        },
+        {
+            "word": "paráme",
+            "count": 1
+        },
+        {
+            "word": "pasado",
+            "count": 1
+        },
+        {
+            "word": "pasarela",
+            "count": 1
+        },
+        {
+            "word": "pasen",
+            "count": 1
+        },
+        {
+            "word": "pasos",
+            "count": 1
+        },
+        {
+            "word": "patrimonios",
+            "count": 1
+        },
+        {
+            "word": "peaje",
+            "count": 1
+        },
+        {
+            "word": "pectiva",
+            "count": 1
+        },
+        {
+            "word": "pegada",
+            "count": 1
+        },
+        {
+            "word": "peligro",
+            "count": 1
+        },
+        {
+            "word": "penalizar",
+            "count": 1
+        },
+        {
+            "word": "penitenciarias",
+            "count": 1
+        },
+        {
+            "word": "peor",
+            "count": 1
+        },
+        {
+            "word": "per",
+            "count": 1
+        },
+        {
+            "word": "perjudiciales",
+            "count": 1
+        },
+        {
+            "word": "perjuicio",
+            "count": 1
+        },
+        {
+            "word": "permanentemente",
+            "count": 1
+        },
+        {
+            "word": "permitirnos",
+            "count": 1
+        },
+        {
+            "word": "pers",
+            "count": 1
+        },
+        {
+            "word": "persecución",
+            "count": 1
+        },
+        {
+            "word": "persiga",
+            "count": 1
+        },
+        {
+            "word": "persigue",
+            "count": 1
+        },
+        {
+            "word": "personales",
+            "count": 1
+        },
+        {
+            "word": "personalizada",
+            "count": 1
+        },
+        {
+            "word": "perspectivas",
+            "count": 1
+        },
+        {
+            "word": "pertenecientes",
+            "count": 1
+        },
+        {
+            "word": "perturbarla",
+            "count": 1
+        },
+        {
+            "word": "pese",
+            "count": 1
+        },
+        {
+            "word": "piernas",
+            "count": 1
+        },
+        {
+            "word": "planificaciones",
+            "count": 1
+        },
+        {
+            "word": "planificar",
+            "count": 1
+        },
+        {
+            "word": "plantación",
+            "count": 1
+        },
+        {
+            "word": "plantea",
+            "count": 1
+        },
+        {
+            "word": "planteada",
+            "count": 1
+        },
+        {
+            "word": "plantillas",
+            "count": 1
+        },
+        {
+            "word": "plataformas",
+            "count": 1
+        },
+        {
+            "word": "plaza",
+            "count": 1
+        },
+        {
+            "word": "plazo",
+            "count": 1
+        },
+        {
+            "word": "plena",
+            "count": 1
+        },
+        {
+            "word": "plurinacional",
+            "count": 1
+        },
+        {
+            "word": "poblacional",
+            "count": 1
+        },
+        {
+            "word": "poblaciones",
+            "count": 1
+        },
+        {
+            "word": "poco",
+            "count": 1
+        },
+        {
+            "word": "podamos",
+            "count": 1
+        },
+        {
+            "word": "poderes",
+            "count": 1
+        },
+        {
+            "word": "polio",
+            "count": 1
+        },
+        {
+            "word": "político",
+            "count": 1
+        },
+        {
+            "word": "pondiente",
+            "count": 1
+        },
+        {
+            "word": "pondrán",
+            "count": 1
+        },
+        {
+            "word": "ponen",
+            "count": 1
+        },
+        {
+            "word": "ponerlos",
+            "count": 1
+        },
+        {
+            "word": "ponga",
+            "count": 1
+        },
+        {
+            "word": "poniendo",
+            "count": 1
+        },
+        {
+            "word": "porcentaje",
+            "count": 1
+        },
+        {
+            "word": "poseen",
+            "count": 1
+        },
+        {
+            "word": "posgrados",
+            "count": 1
+        },
+        {
+            "word": "posiblemente",
+            "count": 1
+        },
+        {
+            "word": "posición",
+            "count": 1
+        },
+        {
+            "word": "postales",
+            "count": 1
+        },
+        {
+            "word": "posteriores",
+            "count": 1
+        },
+        {
+            "word": "potencialidad",
+            "count": 1
+        },
+        {
+            "word": "potentes",
+            "count": 1
+        },
+        {
+            "word": "precisamente",
+            "count": 1
+        },
+        {
+            "word": "preciso",
+            "count": 1
+        },
+        {
+            "word": "presentar",
+            "count": 1
+        },
+        {
+            "word": "presupuestario",
+            "count": 1
+        },
+        {
+            "word": "presupuestarios",
+            "count": 1
+        },
+        {
+            "word": "presupuestos",
+            "count": 1
+        },
+        {
+            "word": "pretende",
+            "count": 1
+        },
+        {
+            "word": "pretendemos",
+            "count": 1
+        },
+        {
+            "word": "prevención",
+            "count": 1
+        },
+        {
+            "word": "previamente",
+            "count": 1
+        },
+        {
+            "word": "previstas",
+            "count": 1
+        },
+        {
+            "word": "primario",
+            "count": 1
+        },
+        {
+            "word": "prin",
+            "count": 1
+        },
+        {
+            "word": "principal",
+            "count": 1
+        },
+        {
+            "word": "principio",
+            "count": 1
+        },
+        {
+            "word": "principios",
+            "count": 1
+        },
+        {
+            "word": "prio",
+            "count": 1
+        },
+        {
+            "word": "prioridades",
+            "count": 1
+        },
+        {
+            "word": "problema",
+            "count": 1
+        },
+        {
+            "word": "proce",
+            "count": 1
+        },
+        {
+            "word": "producirán",
+            "count": 1
+        },
+        {
+            "word": "productiva",
+            "count": 1
+        },
+        {
+            "word": "productivas",
+            "count": 1
+        },
+        {
+            "word": "productoras",
+            "count": 1
+        },
+        {
+            "word": "produjese",
+            "count": 1
+        },
+        {
+            "word": "produjo",
+            "count": 1
+        },
+        {
+            "word": "produzca",
+            "count": 1
+        },
+        {
+            "word": "produzcan",
+            "count": 1
+        },
+        {
+            "word": "profesional",
+            "count": 1
+        },
+        {
+            "word": "profesionali",
+            "count": 1
+        },
+        {
+            "word": "profesionalizada",
+            "count": 1
+        },
+        {
+            "word": "profesorado",
+            "count": 1
+        },
+        {
+            "word": "profundamente",
+            "count": 1
+        },
+        {
+            "word": "profundas",
+            "count": 1
+        },
+        {
+            "word": "profundizar",
+            "count": 1
+        },
+        {
+            "word": "programación",
+            "count": 1
+        },
+        {
+            "word": "programática",
+            "count": 1
+        },
+        {
+            "word": "programáticos",
+            "count": 1
+        },
+        {
+            "word": "progre",
+            "count": 1
+        },
+        {
+            "word": "progresivo",
+            "count": 1
+        },
+        {
+            "word": "prohibi",
+            "count": 1
+        },
+        {
+            "word": "prohibición",
+            "count": 1
+        },
+        {
+            "word": "prohibirá",
+            "count": 1
+        },
+        {
+            "word": "proliferación",
+            "count": 1
+        },
+        {
+            "word": "promo",
+            "count": 1
+        },
+        {
+            "word": "promocionar",
+            "count": 1
+        },
+        {
+            "word": "promocionará",
+            "count": 1
+        },
+        {
+            "word": "promotora",
+            "count": 1
+        },
+        {
+            "word": "propia",
+            "count": 1
+        },
+        {
+            "word": "propieta",
+            "count": 1
+        },
+        {
+            "word": "propietario",
+            "count": 1
+        },
+        {
+            "word": "propondrán",
+            "count": 1
+        },
+        {
+            "word": "proporciona",
+            "count": 1
+        },
+        {
+            "word": "proporcione",
+            "count": 1
+        },
+        {
+            "word": "propuesta",
+            "count": 1
+        },
+        {
+            "word": "propuesto",
+            "count": 1
+        },
+        {
+            "word": "prospe",
+            "count": 1
+        },
+        {
+            "word": "prote",
+            "count": 1
+        },
+        {
+            "word": "protec",
+            "count": 1
+        },
+        {
+            "word": "protegida",
+            "count": 1
+        },
+        {
+            "word": "protejamos",
+            "count": 1
+        },
+        {
+            "word": "protocolos",
+            "count": 1
+        },
+        {
+            "word": "proveniente",
+            "count": 1
+        },
+        {
+            "word": "provincia",
+            "count": 1
+        },
+        {
+            "word": "provinciales",
+            "count": 1
+        },
+        {
+            "word": "proximidades",
+            "count": 1
+        },
+        {
+            "word": "proyec",
+            "count": 1
+        },
+        {
+            "word": "proyecto",
+            "count": 1
+        },
+        {
+            "word": "prác",
+            "count": 1
+        },
+        {
+            "word": "próximo",
+            "count": 1
+        },
+        {
+            "word": "psiquiatras",
+            "count": 1
+        },
+        {
+            "word": "psoe",
+            "count": 1
+        },
+        {
+            "word": "pudiendo",
+            "count": 1
+        },
+        {
+            "word": "pudieran",
+            "count": 1
+        },
+        {
+            "word": "pueblo",
+            "count": 1
+        },
+        {
+            "word": "pueblos",
+            "count": 1
+        },
+        {
+            "word": "pues",
+            "count": 1
+        },
+        {
+            "word": "punta",
+            "count": 1
+        },
+        {
+            "word": "punto",
+            "count": 1
+        },
+        {
+            "word": "páginas",
+            "count": 1
+        },
+        {
+            "word": "quedar",
+            "count": 1
+        },
+        {
+            "word": "quienes",
+            "count": 1
+        },
+        {
+            "word": "quieran",
+            "count": 1
+        },
+        {
+            "word": "quinta",
+            "count": 1
+        },
+        {
+            "word": "quién",
+            "count": 1
+        },
+        {
+            "word": "qué",
+            "count": 1
+        },
+        {
+            "word": "racializadas",
+            "count": 1
+        },
+        {
+            "word": "ración",
+            "count": 1
+        },
+        {
+            "word": "rango",
+            "count": 1
+        },
+        {
+            "word": "razón",
+            "count": 1
+        },
+        {
+            "word": "raíces",
+            "count": 1
+        },
+        {
+            "word": "realiza",
+            "count": 1
+        },
+        {
+            "word": "realizarlos",
+            "count": 1
+        },
+        {
+            "word": "recae",
+            "count": 1
+        },
+        {
+            "word": "recaería",
+            "count": 1
+        },
+        {
+            "word": "recargos",
+            "count": 1
+        },
+        {
+            "word": "recau",
+            "count": 1
+        },
+        {
+            "word": "recaudatoria",
+            "count": 1
+        },
+        {
+            "word": "reci",
+            "count": 1
+        },
+        {
+            "word": "recibirán",
+            "count": 1
+        },
+        {
+            "word": "recientemente",
+            "count": 1
+        },
+        {
+            "word": "recogemos",
+            "count": 1
+        },
+        {
+            "word": "recogida",
+            "count": 1
+        },
+        {
+            "word": "recogidas",
+            "count": 1
+        },
+        {
+            "word": "recomen",
+            "count": 1
+        },
+        {
+            "word": "recomendable",
+            "count": 1
+        },
+        {
+            "word": "reconocida",
+            "count": 1
+        },
+        {
+            "word": "recuperarlas",
+            "count": 1
+        },
+        {
+            "word": "recuperándolos",
+            "count": 1
+        },
+        {
+            "word": "recurso",
+            "count": 1
+        },
+        {
+            "word": "redes",
+            "count": 1
+        },
+        {
+            "word": "reduce",
+            "count": 1
+        },
+        {
+            "word": "reduciendo",
+            "count": 1
+        },
+        {
+            "word": "reforma",
+            "count": 1
+        },
+        {
+            "word": "reforzados",
+            "count": 1
+        },
+        {
+            "word": "reforzamiento",
+            "count": 1
+        },
+        {
+            "word": "reforzar",
+            "count": 1
+        },
+        {
+            "word": "reforzarán",
+            "count": 1
+        },
+        {
+            "word": "región",
+            "count": 1
+        },
+        {
+            "word": "reglas",
+            "count": 1
+        },
+        {
+            "word": "regulación",
+            "count": 1
+        },
+        {
+            "word": "rehabilita",
+            "count": 1
+        },
+        {
+            "word": "reindustrializar",
+            "count": 1
+        },
+        {
+            "word": "relacionados",
+            "count": 1
+        },
+        {
+            "word": "relación",
+            "count": 1
+        },
+        {
+            "word": "relativa",
+            "count": 1
+        },
+        {
+            "word": "relativas",
+            "count": 1
+        },
+        {
+            "word": "relativos",
+            "count": 1
+        },
+        {
+            "word": "renovación",
+            "count": 1
+        },
+        {
+            "word": "rentable",
+            "count": 1
+        },
+        {
+            "word": "reparto",
+            "count": 1
+        },
+        {
+            "word": "repatriación",
+            "count": 1
+        },
+        {
+            "word": "repetidamente",
+            "count": 1
+        },
+        {
+            "word": "replantear",
+            "count": 1
+        },
+        {
+            "word": "reposición",
+            "count": 1
+        },
+        {
+            "word": "reproduc",
+            "count": 1
+        },
+        {
+            "word": "reproducción",
+            "count": 1
+        },
+        {
+            "word": "requerirán",
+            "count": 1
+        },
+        {
+            "word": "requiere",
+            "count": 1
+        },
+        {
+            "word": "rescindirlo",
+            "count": 1
+        },
+        {
+            "word": "reservará",
+            "count": 1
+        },
+        {
+            "word": "reservarán",
+            "count": 1
+        },
+        {
+            "word": "reservas",
+            "count": 1
+        },
+        {
+            "word": "residen",
+            "count": 1
+        },
+        {
+            "word": "residencial",
+            "count": 1
+        },
+        {
+            "word": "residir",
+            "count": 1
+        },
+        {
+            "word": "resistido",
+            "count": 1
+        },
+        {
+            "word": "respectivo",
+            "count": 1
+        },
+        {
+            "word": "respetuosa",
+            "count": 1
+        },
+        {
+            "word": "responsables",
+            "count": 1
+        },
+        {
+            "word": "restante",
+            "count": 1
+        },
+        {
+            "word": "resultado",
+            "count": 1
+        },
+        {
+            "word": "resultaría",
+            "count": 1
+        },
+        {
+            "word": "retorno",
+            "count": 1
+        },
+        {
+            "word": "retrase",
+            "count": 1
+        },
+        {
+            "word": "retribución",
+            "count": 1
+        },
+        {
+            "word": "retroactivo",
+            "count": 1
+        },
+        {
+            "word": "revegetación",
+            "count": 1
+        },
+        {
+            "word": "revertir",
+            "count": 1
+        },
+        {
+            "word": "revertirla",
+            "count": 1
+        },
+        {
+            "word": "revertirán",
+            "count": 1
+        },
+        {
+            "word": "revoluciones",
+            "count": 1
+        },
+        {
+            "word": "revolución",
+            "count": 1
+        },
+        {
+            "word": "reúna",
+            "count": 1
+        },
+        {
+            "word": "ridad",
+            "count": 1
+        },
+        {
+            "word": "rioja",
+            "count": 1
+        },
+        {
+            "word": "riza",
+            "count": 1
+        },
+        {
+            "word": "rrestar",
+            "count": 1
+        },
+        {
+            "word": "ruta",
+            "count": 1
+        },
+        {
+            "word": "rápida",
+            "count": 1
+        },
+        {
+            "word": "sabrán",
+            "count": 1
+        },
+        {
+            "word": "salario",
+            "count": 1
+        },
+        {
+            "word": "salvo",
+            "count": 1
+        },
+        {
+            "word": "sancionando",
+            "count": 1
+        },
+        {
+            "word": "sancionar",
+            "count": 1
+        },
+        {
+            "word": "sareb",
+            "count": 1
+        },
+        {
+            "word": "seamos",
+            "count": 1
+        },
+        {
+            "word": "sectoriales",
+            "count": 1
+        },
+        {
+            "word": "segreguen",
+            "count": 1
+        },
+        {
+            "word": "seguimiento",
+            "count": 1
+        },
+        {
+            "word": "segunda",
+            "count": 1
+        },
+        {
+            "word": "seguras",
+            "count": 1
+        },
+        {
+            "word": "seis",
+            "count": 1
+        },
+        {
+            "word": "sencillo",
+            "count": 1
+        },
+        {
+            "word": "sentido",
+            "count": 1
+        },
+        {
+            "word": "serviría",
+            "count": 1
+        },
+        {
+            "word": "sería",
+            "count": 1
+        },
+        {
+            "word": "sexo",
+            "count": 1
+        },
+        {
+            "word": "señala",
+            "count": 1
+        },
+        {
+            "word": "siglo",
+            "count": 1
+        },
+        {
+            "word": "significa",
+            "count": 1
+        },
+        {
+            "word": "sigue",
+            "count": 1
+        },
+        {
+            "word": "siguiendo",
+            "count": 1
+        },
+        {
+            "word": "siguiente",
+            "count": 1
+        },
+        {
+            "word": "similar",
+            "count": 1
+        },
+        {
+            "word": "similares",
+            "count": 1
+        },
+        {
+            "word": "sinhogarismo",
+            "count": 1
+        },
+        {
+            "word": "sional",
+            "count": 1
+        },
+        {
+            "word": "sirve",
+            "count": 1
+        },
+        {
+            "word": "sirven",
+            "count": 1
+        },
+        {
+            "word": "sistemático",
+            "count": 1
+        },
+        {
+            "word": "situa",
+            "count": 1
+        },
+        {
+            "word": "situadas",
+            "count": 1
+        },
+        {
+            "word": "situados",
+            "count": 1
+        },
+        {
+            "word": "sivamente",
+            "count": 1
+        },
+        {
+            "word": "sión",
+            "count": 1
+        },
+        {
+            "word": "smi",
+            "count": 1
+        },
+        {
+            "word": "soberana",
+            "count": 1
+        },
+        {
+            "word": "sociedades",
+            "count": 1
+        },
+        {
+            "word": "socioeconó",
+            "count": 1
+        },
+        {
+            "word": "socioeconómico",
+            "count": 1
+        },
+        {
+            "word": "sociopolíticas",
+            "count": 1
+        },
+        {
+            "word": "solicitar",
+            "count": 1
+        },
+        {
+            "word": "solicitud",
+            "count": 1
+        },
+        {
+            "word": "soluciones",
+            "count": 1
+        },
+        {
+            "word": "subidas",
+            "count": 1
+        },
+        {
+            "word": "subir",
+            "count": 1
+        },
+        {
+            "word": "subven",
+            "count": 1
+        },
+        {
+            "word": "subvencio",
+            "count": 1
+        },
+        {
+            "word": "sucedido",
+            "count": 1
+        },
+        {
+            "word": "sucesiones",
+            "count": 1
+        },
+        {
+            "word": "sueldo",
+            "count": 1
+        },
+        {
+            "word": "suelo",
+            "count": 1
+        },
+        {
+            "word": "suficien",
+            "count": 1
+        },
+        {
+            "word": "suficiencia",
+            "count": 1
+        },
+        {
+            "word": "suficientes",
+            "count": 1
+        },
+        {
+            "word": "sufragada",
+            "count": 1
+        },
+        {
+            "word": "sufran",
+            "count": 1
+        },
+        {
+            "word": "suministros",
+            "count": 1
+        },
+        {
+            "word": "supera",
+            "count": 1
+        },
+        {
+            "word": "superar",
+            "count": 1
+        },
+        {
+            "word": "superen",
+            "count": 1
+        },
+        {
+            "word": "superficie",
+            "count": 1
+        },
+        {
+            "word": "superficies",
+            "count": 1
+        },
+        {
+            "word": "superiores",
+            "count": 1
+        },
+        {
+            "word": "supone",
+            "count": 1
+        },
+        {
+            "word": "suprimir",
+            "count": 1
+        },
+        {
+            "word": "surgir",
+            "count": 1
+        },
+        {
+            "word": "sí",
+            "count": 1
+        },
+        {
+            "word": "sólido",
+            "count": 1
+        },
+        {
+            "word": "tación",
+            "count": 1
+        },
+        {
+            "word": "tada",
+            "count": 1
+        },
+        {
+            "word": "tado",
+            "count": 1
+        },
+        {
+            "word": "tados",
+            "count": 1
+        },
+        {
+            "word": "talado",
+            "count": 1
+        },
+        {
+            "word": "tampoco",
+            "count": 1
+        },
+        {
+            "word": "tantes",
+            "count": 1
+        },
+        {
+            "word": "tarda",
+            "count": 1
+        },
+        {
+            "word": "tareas",
+            "count": 1
+        },
+        {
+            "word": "tasación",
+            "count": 1
+        },
+        {
+            "word": "taxi",
+            "count": 1
+        },
+        {
+            "word": "techo",
+            "count": 1
+        },
+        {
+            "word": "tecno",
+            "count": 1
+        },
+        {
+            "word": "tecnología",
+            "count": 1
+        },
+        {
+            "word": "tecnologías",
+            "count": 1
+        },
+        {
+            "word": "telemática",
+            "count": 1
+        },
+        {
+            "word": "temblarán",
+            "count": 1
+        },
+        {
+            "word": "temente",
+            "count": 1
+        },
+        {
+            "word": "temperatura",
+            "count": 1
+        },
+        {
+            "word": "temporal",
+            "count": 1
+        },
+        {
+            "word": "tencia",
+            "count": 1
+        },
+        {
+            "word": "tene",
+            "count": 1
+        },
+        {
+            "word": "tenedor",
+            "count": 1
+        },
+        {
+            "word": "tenga",
+            "count": 1
+        },
+        {
+            "word": "teniendo",
+            "count": 1
+        },
+        {
+            "word": "tensionado",
+            "count": 1
+        },
+        {
+            "word": "terapia",
+            "count": 1
+        },
+        {
+            "word": "tercer",
+            "count": 1
+        },
+        {
+            "word": "terciarios",
+            "count": 1
+        },
+        {
+            "word": "terio",
+            "count": 1
+        },
+        {
+            "word": "territo",
+            "count": 1
+        },
+        {
+            "word": "territoriales",
+            "count": 1
+        },
+        {
+            "word": "teruel",
+            "count": 1
+        },
+        {
+            "word": "textos",
+            "count": 1
+        },
+        {
+            "word": "tica",
+            "count": 1
+        },
+        {
+            "word": "tico",
+            "count": 1
+        },
+        {
+            "word": "tipificación",
+            "count": 1
+        },
+        {
+            "word": "tipologías",
+            "count": 1
+        },
+        {
+            "word": "tiva",
+            "count": 1
+        },
+        {
+            "word": "tivos",
+            "count": 1
+        },
+        {
+            "word": "tizada",
+            "count": 1
+        },
+        {
+            "word": "todavía",
+            "count": 1
+        },
+        {
+            "word": "toma",
+            "count": 1
+        },
+        {
+            "word": "tomado",
+            "count": 1
+        },
+        {
+            "word": "tomarán",
+            "count": 1
+        },
+        {
+            "word": "toriales",
+            "count": 1
+        },
+        {
+            "word": "torno",
+            "count": 1
+        },
+        {
+            "word": "traba",
+            "count": 1
+        },
+        {
+            "word": "trabajado",
+            "count": 1
+        },
+        {
+            "word": "trabajos",
+            "count": 1
+        },
+        {
+            "word": "traciones",
+            "count": 1
+        },
+        {
+            "word": "traducido",
+            "count": 1
+        },
+        {
+            "word": "tramo",
+            "count": 1
+        },
+        {
+            "word": "trampa",
+            "count": 1
+        },
+        {
+            "word": "transcurrido",
+            "count": 1
+        },
+        {
+            "word": "transexuales",
+            "count": 1
+        },
+        {
+            "word": "transferencia",
+            "count": 1
+        },
+        {
+            "word": "transformaciones",
+            "count": 1
+        },
+        {
+            "word": "transformador",
+            "count": 1
+        },
+        {
+            "word": "transitar",
+            "count": 1
+        },
+        {
+            "word": "transparente",
+            "count": 1
+        },
+        {
+            "word": "transversal",
+            "count": 1
+        },
+        {
+            "word": "transversales",
+            "count": 1
+        },
+        {
+            "word": "transversalización",
+            "count": 1
+        },
+        {
+            "word": "transversalizar",
+            "count": 1
+        },
+        {
+            "word": "tratarse",
+            "count": 1
+        },
+        {
+            "word": "trato",
+            "count": 1
+        },
+        {
+            "word": "trec",
+            "count": 1
+        },
+        {
+            "word": "tren",
+            "count": 1
+        },
+        {
+            "word": "trial",
+            "count": 1
+        },
+        {
+            "word": "tributarias",
+            "count": 1
+        },
+        {
+            "word": "tributo",
+            "count": 1
+        },
+        {
+            "word": "tricia",
+            "count": 1
+        },
+        {
+            "word": "tros",
+            "count": 1
+        },
+        {
+            "word": "tructura",
+            "count": 1
+        },
+        {
+            "word": "técnicas",
+            "count": 1
+        },
+        {
+            "word": "ubicación",
+            "count": 1
+        },
+        {
+            "word": "ultraperiférica",
+            "count": 1
+        },
+        {
+            "word": "unas",
+            "count": 1
+        },
+        {
+            "word": "unidades",
+            "count": 1
+        },
+        {
+            "word": "universitaria",
+            "count": 1
+        },
+        {
+            "word": "unión",
+            "count": 1
+        },
+        {
+            "word": "urbana",
+            "count": 1
+        },
+        {
+            "word": "urbano",
+            "count": 1
+        },
+        {
+            "word": "urbanos",
+            "count": 1
+        },
+        {
+            "word": "urbanísticas",
+            "count": 1
+        },
+        {
+            "word": "urgencia",
+            "count": 1
+        },
+        {
+            "word": "urgente",
+            "count": 1
+        },
+        {
+            "word": "urgentes",
+            "count": 1
+        },
+        {
+            "word": "usuarias",
+            "count": 1
+        },
+        {
+            "word": "usuarios",
+            "count": 1
+        },
+        {
+            "word": "va",
+            "count": 1
+        },
+        {
+            "word": "vacunas",
+            "count": 1
+        },
+        {
+            "word": "vadora",
+            "count": 1
+        },
+        {
+            "word": "valoración",
+            "count": 1
+        },
+        {
+            "word": "variaba",
+            "count": 1
+        },
+        {
+            "word": "variable",
+            "count": 1
+        },
+        {
+            "word": "varios",
+            "count": 1
+        },
+        {
+            "word": "vaya",
+            "count": 1
+        },
+        {
+            "word": "vayamos",
+            "count": 1
+        },
+        {
+            "word": "vayan",
+            "count": 1
+        },
+        {
+            "word": "vean",
+            "count": 1
+        },
+        {
+            "word": "vehículos",
+            "count": 1
+        },
+        {
+            "word": "velocidad",
+            "count": 1
+        },
+        {
+            "word": "venda",
+            "count": 1
+        },
+        {
+            "word": "vendedor",
+            "count": 1
+        },
+        {
+            "word": "vender",
+            "count": 1
+        },
+        {
+            "word": "verdadero",
+            "count": 1
+        },
+        {
+            "word": "vertientes",
+            "count": 1
+        },
+        {
+            "word": "viabilidad",
+            "count": 1
+        },
+        {
+            "word": "viable",
+            "count": 1
+        },
+        {
+            "word": "viajes",
+            "count": 1
+        },
+        {
+            "word": "vidas",
+            "count": 1
+        },
+        {
+            "word": "viendo",
+            "count": 1
+        },
+        {
+            "word": "vigentes",
+            "count": 1
+        },
+        {
+            "word": "vinculantes",
+            "count": 1
+        },
+        {
+            "word": "visibilización",
+            "count": 1
+        },
+        {
+            "word": "vista",
+            "count": 1
+        },
+        {
+            "word": "visto",
+            "count": 1
+        },
+        {
+            "word": "vital",
+            "count": 1
+        },
+        {
+            "word": "viva",
+            "count": 1
+        },
+        {
+            "word": "viven",
+            "count": 1
+        },
+        {
+            "word": "vivía",
+            "count": 1
+        },
+        {
+            "word": "vocación",
+            "count": 1
+        },
+        {
+            "word": "voluntaria",
+            "count": 1
+        },
+        {
+            "word": "volver",
+            "count": 1
+        },
+        {
+            "word": "voz",
+            "count": 1
+        },
+        {
+            "word": "vtc",
+            "count": 1
+        },
+        {
+            "word": "vuelven",
+            "count": 1
+        },
+        {
+            "word": "vulne",
+            "count": 1
+        },
+        {
+            "word": "vulnerabilidad",
+            "count": 1
+        },
+        {
+            "word": "vulnerable",
+            "count": 1
+        },
+        {
+            "word": "vías",
+            "count": 1
+        },
+        {
+            "word": "women",
+            "count": 1
+        },
+        {
+            "word": "xxi",
+            "count": 1
+        },
+        {
+            "word": "zada",
+            "count": 1
+        },
+        {
+            "word": "zaragoza",
+            "count": 1
+        },
+        {
+            "word": "°",
+            "count": 1
+        },
+        {
+            "word": "áfrica",
+            "count": 1
+        },
+        {
+            "word": "ágil",
+            "count": 1
+        },
+        {
+            "word": "área",
+            "count": 1
+        },
+        {
+            "word": "áreas",
+            "count": 1
+        },
+        {
+            "word": "índice",
+            "count": 1
+        },
+        {
+            "word": "índole",
+            "count": 1
+        },
+        {
+            "word": "íntegramente",
+            "count": 1
+        },
+        {
+            "word": "óbice",
+            "count": 1
+        },
+        {
+            "word": "óptica",
+            "count": 1
+        },
+        {
+            "word": "únicamente",
+            "count": 1
+        }
+    ]
+}
