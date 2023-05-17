@@ -40,4 +40,4 @@ src/json/programas/txt/**
 .env
 
 # Aspell
-.js.bak
+*.js.bak
