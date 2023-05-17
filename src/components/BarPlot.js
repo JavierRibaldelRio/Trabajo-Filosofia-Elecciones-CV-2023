@@ -98,8 +98,8 @@ class BarPlot extends Component {
             {/* El to locale String añade los puntos o las comas según el correpondiente locale */}
             <p id='leyenda'>Número repeticiones por {PALABRAS_POR_REPETICION.toLocaleString()} palabras</p>
 
-            <div id='bar-plot' />;
-        </>
+            <div id='bar-plot' />
+        </>;
     }
 }
 
