@@ -67,6 +67,44 @@ h1 {
   justify-content: center;
 }
 
+#about {
+
+  display: flex;
+  position: absolute;
+
+  top: 50px;
+
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  padding: 30vh 15vw;
+
+
+  height: 100%;
+  width: 100vw;
+
+  font-size: 18px;
+
+  background-color: rgb(177, 241, 255);
+}
+
+#about div {
+
+  background-color: whitesmoke;
+
+  padding: 7vmax;
+
+  border-radius: 100px;
+
+  text-align: justify
+}
+
+#about h1 {
+
+  text-align: center
+}
+
 /* Importa la tipografía Monserrat para la nube */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
