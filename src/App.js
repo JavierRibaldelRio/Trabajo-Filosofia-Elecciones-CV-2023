@@ -1,8 +1,5 @@
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
-
 import React, { Component } from 'react';
-
-
 import Cabecera from './components/Cabecera';
 
 // Subpáginas
@@ -15,12 +12,8 @@ class App extends Component {
   render() {
     return (
       <div className="App" >
-
-
         <BrowserRouter>
-
           <Cabecera />
-
           <Routes>
 
             <Route path='/' element={<Analisis />} />
@@ -29,10 +22,6 @@ class App extends Component {
 
           </Routes>
         </BrowserRouter>
-
-        {/* <PiePagina /> */}
-
-
       </div>)
   }
 }
