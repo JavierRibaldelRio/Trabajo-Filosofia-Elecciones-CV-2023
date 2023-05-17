@@ -87,6 +87,8 @@ class BarPlot extends Component {
             .attr('width', d => xScale(d.palabrasPorRepeticion))
             .attr("fill", d => d.color);
 
+        svg.selectAll("rect").append('svg:title')
+            .text((d) => `${d.nombrePartido} "${d.key}": ${d.repeticiones} de ${d.totalWords}.`)
 
 
 
