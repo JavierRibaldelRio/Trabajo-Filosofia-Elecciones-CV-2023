@@ -1,29 +1,42 @@
 // Crea la barra de control de la página web
-
 import { Link } from "react-router-dom";
 
+//Importes Bootstrap
+import Container from 'react-bootstrap/Container';
+import Nav from 'react-bootstrap/Nav';
+import Navbar from 'react-bootstrap/Navbar';
 
-import "bootstrap/js/src/collapse.js";
+import Nombre from "./Nombre";
+
 function Cabecera() {
 
-    return <header>
-        <nav className="navbar navbar-expand-lg bg-body-tertiary navbar-dark bg-dark fixed-top" >
-            <div className="container-fluid">
-                <Link className="navbar-brand" to={"/about"}>Trabajo Elecciones 28M</Link>
-                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-                    <span className="navbar-toggler-icon"></span>
-                </button>
-                <div className=" collapse navbar-collapse " id="navbarNavAltMarkup">
-                    <div className="navbar-nav ms-auto">
-                        <Link className="nav-link" to={"/introduccion"} >Introducción</Link>
+    const expand = "xl";
+    const tipo = "dark";
 
-                        <Link className="nav-link" to={"/"}>Analizador</Link>
-                        <Link className="nav-link" t0="/conclusion">Conclusión</Link>
-                    </div>
-                </div>
-            </div>
-        </nav>
-    </header>;
+    return <header><Navbar key={expand} fixed="top" bg={tipo} variant={tipo} expand={expand} className="mb-3" >
+        <Container fluid>
+            <Navbar.Brand><Link to={"/about"} style={{ textDecoration: "none" }}><Nombre /></Link></Navbar.Brand>
+
+            <Navbar.Toggle aria-controls="responsive-navbar-nav" />
+
+            <Navbar.Collapse id="responsive-navbar-nav" className=" justify-content-end align-items-center">
+
+
+                <Nav className="">
+                    <Link className="nav-link" to={"/introduccion"} >Introducción</Link>
+
+                    <Link className="nav-link" to={"/"}>Analizador</Link>
+                    <Link className="nav-link" to="/conclusion">Conclusión</Link>
+
+                </Nav>
+
+            </Navbar.Collapse>
+        </Container>
+    </Navbar>
+    </header >
+
+
+
 }
 
 export default Cabecera;

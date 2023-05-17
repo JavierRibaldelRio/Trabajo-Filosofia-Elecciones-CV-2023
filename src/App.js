@@ -1,7 +1,6 @@
 import { Route, Routes, BrowserRouter } from 'react-router-dom';
 
 import Cabecera from './components/Cabecera';
-import PiePagina from './components/PiePagina';
 
 // Subpáginas
 import Analisis from './pages/analisis';
