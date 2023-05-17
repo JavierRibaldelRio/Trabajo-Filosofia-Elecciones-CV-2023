@@ -8,6 +8,13 @@
     margin: 1vmin;
 
     margin-top: 0;
+
+
+}
+
+#Seleccion-Partidos label {
+
+    color: #fff !important;
 }
 
 #analisis {

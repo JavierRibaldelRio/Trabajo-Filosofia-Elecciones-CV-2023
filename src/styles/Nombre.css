@@ -1,0 +1,54 @@
+#nombre {
+
+    max-height: 10vh;
+
+    width: 100%;
+
+    font-size: 12px;
+    color: black;
+    text-align: center;
+    border: red 1px solid;
+    background-color: white;
+    border-radius: 5px;
+    text-decoration: none !important;
+
+    padding: 2px;
+
+
+
+
+
+    display: grid;
+    grid-template-areas: "logo datos datos" "logo datos datos" "logo nombre nombre";
+    place-content: center;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+#per {
+    text-decoration-line: none;
+    grid-area: nombre;
+}
+
+#datos {
+
+    grid-area: datos;
+
+    font-size: 16px;
+
+    font-weight: bold;
+
+    text-decoration: none !important;
+}
+
+#logo {
+
+    grid-area: logo;
+
+    max-height: 8vh;
+
+    width: auto;
+}

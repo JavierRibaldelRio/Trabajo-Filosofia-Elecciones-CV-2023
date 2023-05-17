@@ -5,10 +5,10 @@
 import crearArray from './crearArrayPrograma.js';
 
 //Alamacena el tamaño máximo de la letra en la nube
-const TAMANYO_MAXIMO_LETRA_NUBE = 48;
+const TAMANYO_MAXIMO_LETRA_NUBE = 35;
 
 // Almacena el nombre de los archvos JSOn de los partidos en orden alfabético
-const nombresPartido = ['1984', "Camino", "Cripta", "Peekay", "Idhun", "Trafalgar"].sort();
+const nombresPartido = ['PP', 'PSOE', 'Compromis', "Vox", "Podemos", "Ciudadanos"].sort();
 
 
 // Crear un array con todo el desglose de palabras para obtener datos

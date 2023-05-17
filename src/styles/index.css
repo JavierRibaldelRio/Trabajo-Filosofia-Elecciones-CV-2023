@@ -1,5 +1,7 @@
 body {
   margin: 0;
+
+  padding-top: 15vh;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
@@ -15,6 +17,24 @@ code {
 .App {
   text-align: center;
 
+}
+
+#lista-palabras-eliminadas {
+
+  text-align: left;
+  text-transform: capitalize;
+  line-height: 5vh;
+
+  column-count: 2;
+  column-rule: black 1px solidjf;
+  column-gap: 25vw
+}
+
+.texto {
+
+  margin: 10vmin 15vmin 2vmin;
+
+  text-align: justify
 }
 
 /* Importa la tipografía Monserrat para la nube */
