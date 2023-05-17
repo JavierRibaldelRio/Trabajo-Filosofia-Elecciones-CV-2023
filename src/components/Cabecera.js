@@ -24,6 +24,7 @@ function Cabecera() {
 
                 <Nav className="">
                     <Link className="nav-link" to={"/introduccion"} >Introducción</Link>
+                    <Link className="nav-link" to="/fuentes">Fuentes</Link>
 
                     <Link className="nav-link" to={"/"}>Analizador</Link>
                     <Link className="nav-link" to="/conclusion">Conclusión</Link>
