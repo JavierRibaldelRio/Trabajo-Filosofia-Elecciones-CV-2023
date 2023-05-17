@@ -3,8 +3,11 @@ import WordCloud from 'wordcloud';
 import "../styles/WordCloud.css";
 import obtenerContenidoNube from '../scripts/generarNube';
 
+
+
 /**
- * En lace que he segido para entenderlo que había que hacer https://codesandbox.io/s/9435woonpy?file=/index.js
+ * w: https://github.com/timdream/wordcloud2.js
+ * w: Enlace que he segido para entenderlo que había que hacer  https://codesandbox.io/s/9435woonpy?file=/index.js
  */
 
 class NubePalabras extends Component {
