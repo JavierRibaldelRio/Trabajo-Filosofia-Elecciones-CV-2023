@@ -36,6 +36,8 @@ torre.txt
 src/json/programas/pdf/**
 src/json/programas/txt/**
 
-#Dist
-
+# Dist
 .env
+
+# Aspell
+.js.bak
