@@ -11,7 +11,7 @@ function SwitchGraficaNube(props) {
 
     return <div className="switch-nube"><div className="form-check form-switch">
         <input className="form-check-input" type="checkbox" role="switch" id="switchNube" checked={mostrarNube} onChange={modicarNube} />
-        <label className="form-check-label" htmlFor="switchNube">Mostrar nube de nube de palabras</label>
+        <label className="form-check-label" htmlFor="switchNube">Mostrar {mostrarNube ? "nube de nube de palabras" : "gráfico de barras"}</label>
     </div>
     </div>
 
