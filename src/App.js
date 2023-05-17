@@ -6,6 +6,9 @@ import Cabecera from './components/Cabecera';
 import Analisis from './pages/analisis';
 import PalabrasEliminadas from './pages/palabras-eliminadas';
 import Introduccion from './pages/introduccion';
+import About from './pages/about';
+import Conclusion from './pages/conclusion';
+import Fuentes from './pages/Fuentes';
 
 class App extends Component {
 
@@ -15,11 +18,12 @@ class App extends Component {
         <BrowserRouter>
           <Cabecera />
           <Routes>
-
             <Route path='/' element={<Analisis />} />
             <Route path='/palabras-eliminadas' element={<PalabrasEliminadas />} />
-            <Route path='/introduccion' element={<Introduccion />} />T
-
+            <Route path='/introduccion' element={<Introduccion />} />
+            <Route path='/about' element={<About />} />
+            <Route path='/conclusion' element={<Conclusion />} />
+            <Route path='/fuentes' element={<Fuentes />} />
           </Routes>
         </BrowserRouter>
       </div>)
