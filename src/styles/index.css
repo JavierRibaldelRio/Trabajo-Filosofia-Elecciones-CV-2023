@@ -48,6 +48,16 @@ h1 {
   color: black;
 }
 
+#lista-partidos {
+
+  margin: 1vmin 10vmin;
+}
+
+#lista-partidos li {
+
+  margin-top: 3vh;
+}
+
 /* Importa la tipografía Monserrat para la nube */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
