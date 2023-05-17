@@ -1,3 +1,5 @@
+import { Link } from 'react-router-dom';
+
 //
 function PalabrasEliminadas() {
 
@@ -15,7 +17,16 @@ function PalabrasEliminadas() {
             </ul>
 
 
-        </div >  </>
+        </div >
+
+        <div style={{ textAlign: "center", margin: "2vh" }}>
+
+
+            <Link style={{ textDecoration: "none" }} className=' btn btn-info' to={"/introduccion"}>Volver a la Introducción</Link>
+
+        </div>
+
+    </>
 }
 
 export default PalabrasEliminadas;

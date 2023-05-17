@@ -41,6 +41,13 @@ h1 {
   margin-top: 1vmax;
 }
 
+.link-desactivado {
+
+
+  text-decoration: none;
+  color: black;
+}
+
 /* Importa la tipografía Monserrat para la nube */
 
 @import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
