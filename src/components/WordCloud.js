@@ -14,7 +14,7 @@ class NubePalabras extends Component {
     constructor(props) {
         super(props);
 
-        this.state = { width: window.innerWidth - window.innerWidth / 20, height: window.innerHeight - window.innerHeight / 5 - 80 }
+        this.state = { width: window.innerWidth - window.innerWidth / 20, height: window.innerHeight - window.innerHeight / 5 - 100 }
 
         this.contenedorNubePolitica = React.createRef();
     }
