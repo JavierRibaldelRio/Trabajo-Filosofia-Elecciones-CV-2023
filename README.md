@@ -4,7 +4,7 @@
 
 [**Link:** https://comparador-programas-28m-cv.netlify.app/](https://comparador-programas-28m-cv.netlify.app/)
 
-Un trabajo de 1º de Bachillerato de Filosofía del [Colegio Salesianos San Juan Bosco (vsjb)](https://valenciasjb.salesianos.edu/) sobre las elecciones de la Comunidad Valenciana de 2023
+Un trabajo de 1º de Bachillerato de Filosofía del [Colegio Salesianos San Juan Bosco (vsjb)](https://valenciasjb.salesianos.edu/) sobre las elecciones de la Comunidad Valenciana de 2023. Este repositorio está archivado porque el trabajo ya ha sido entregado.
 
 ## Metodología
 
